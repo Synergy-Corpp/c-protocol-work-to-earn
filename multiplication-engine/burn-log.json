@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-07-30T03:40:52.926Z",
+    "burnedTokens": 5000000,
+    "burnedValue": 1180,
+    "liquidityAmount": 590,
+    "newSupply": 995000000,
+    "cycle": 1
+  },
+  {
+    "timestamp": "2025-07-30T03:45:53.428Z",
+    "burnedTokens": 5000000,
+    "burnedValue": 1185.929648241206,
+    "liquidityAmount": 592.964824120603,
+    "newSupply": 995000000,
+    "cycle": 2
+  },
+  {
+    "timestamp": "2025-07-30T03:50:53.595Z",
+    "burnedTokens": 5000000,
+    "burnedValue": 1185.929648241206,
+    "liquidityAmount": 592.964824120603,
+    "newSupply": 995000000,
+    "cycle": 3
+  },
+  {
+    "timestamp": "2025-07-30T03:55:53.764Z",
+    "burnedTokens": 5000000,
+    "burnedValue": 1185.929648241206,
+    "liquidityAmount": 592.964824120603,
+    "newSupply": 995000000,
+    "cycle": 4
+  }
+]

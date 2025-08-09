@@ -1,0 +1,19 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+multiplication_engine = "Mu1tip1yEngine11111111111111111111111111"
+
+[programs.devnet]
+multiplication_engine = "Mu1tip1yEngine11111111111111111111111111"
+
+[programs.mainnet]
+multiplication_engine = "Mu1tip1yEngine11111111111111111111111111"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "mainnet"
+wallet = "~/.config/solana/id.json"

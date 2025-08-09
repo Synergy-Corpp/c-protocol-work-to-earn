@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create $C Token - NODE 233</title>
+    <style>
+        body { 
+            font-family: 'Courier New', monospace; 
+            background: #0a0a0f; 
+            color: #00f5ff; 
+            padding: 20px; 
+            line-height: 1.6;
+        }
+        .container { max-width: 800px; margin: 0 auto; }
+        .button {
+            background: linear-gradient(45deg, #00f5ff, #8338ec);
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #0a0a0f;
+            border-radius: 12px;
+            cursor: pointer;
+            margin: 10px 5px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .button:hover { transform: translateY(-2px); }
+        .status { 
+            background: rgba(255,255,255,0.05); 
+            padding: 15px; 
+            border-radius: 10px; 
+            margin: 15px 0; 
+            border-left: 4px solid #00f5ff;
+        }
+        .success { border-left-color: #06ffa5; color: #06ffa5; }
+        .code { 
+            background: rgba(0,0,0,0.3); 
+            padding: 10px; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            white-space: pre-wrap;
+            margin: 10px 0;
+        }
+        .highlight { background: #8338ec; color: white; padding: 2px 6px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 NODE 233 $C Token Creation</h1>
+        <p>Target: <span class="highlight">BbBg...CgAn</span> (your connected Phantom wallet)</p>
+        
+        <div class="status success">
+            <strong>✅ FASTEST METHOD - Use Sol Token Creator:</strong><br>
+            This is a trusted Solana token creation service that will mint your 300M $C tokens instantly.
+        </div>
+
+        <a href="https://sol-token-creator.com" target="_blank" class="button">🔗 Open Sol Token Creator</a>
+        
+        <div class="status">
+            <strong>📋 Steps in Sol Token Creator:</strong><br>
+            1. Connect your Phantom wallet (<span class="highlight">BbBg...CgAn</span>)<br>
+            2. Fill in token details:<br>
+            <div class="code">Name: C Protocol Token
+Symbol: C
+Description: NODE 233 Multiplication Engine Token
+Decimals: 9
+Total Supply: 1000000000
+Initial Supply to Mint: 300000000</div>
+            3. Click "Create Token"<br>
+            4. Approve transaction in Phantom<br>
+            5. Copy the token mint address!
+        </div>
+
+        <div class="status">
+            <strong>🎯 Alternative Method - Use Token Tool:</strong><br>
+            If Sol Token Creator is down, use Token Tool instead.
+        </div>
+
+        <a href="https://www.tokentool.app/create" target="_blank" class="button">🔗 Open Token Tool</a>
+
+        <div class="status">
+            <strong>🔄 After Token Creation:</strong><br>
+            1. Copy your <span class="highlight">Token Mint Address</span><br>
+            2. Paste it into this input: <input type="text" id="tokenMint" placeholder="Paste token mint address here" style="width: 300px; padding: 5px; background: rgba(255,255,255,0.1); border: 1px solid #00f5ff; color: #00f5ff; border-radius: 3px;"><br>
+            3. <button onclick="updateToken()" class="button" style="font-size: 14px; padding: 8px 15px;">📝 Update NODE 233 Config</button>
+        </div>
+
+        <div id="result" class="status success" style="display:none;">
+            <strong>🎉 Configuration Updated!</strong><br>
+            <div class="code" id="configCode"></div>
+            Copy this configuration and update your main NODE 233 interface!
+        </div>
+
+        <div class="status">
+            <strong>💡 Why This Works:</strong><br>
+            • ✅ No npm dependencies or version issues<br>
+            • ✅ Trusted token creation services<br>
+            • ✅ Instant 300M token minting<br>
+            • ✅ Works with your exact wallet<br>
+            • ✅ Real Solana mainnet tokens
+        </div>
+    </div>
+
+    <script>
+        function updateToken() {
+            const mintAddress = document.getElementById('tokenMint').value.trim();
+            
+            if (!mintAddress || mintAddress.length < 32) {
+                alert('Please enter a valid token mint address');
+                return;
+            }
+
+            const config = `// Add this to your NODE 233 index.html
+
+// Update the global token configuration
+engineState.tokenMint = '${mintAddress}';
+
+// Initialize DEX monitor with your token
+if (engineState.dexMonitor) {
+    engineState.dexMonitor.setTokenMint('${mintAddress}');
+}
+
+// Initialize burn engine with your token  
+if (engineState.burnEngine) {
+    engineState.burnEngine.initialize('${mintAddress}', '~/.config/solana/id.json');
+}
+
+console.log('🚀 NODE 233 configured with $C token: ${mintAddress}');`;
+
+            document.getElementById('configCode').textContent = config;
+            document.getElementById('result').style.display = 'block';
+
+            // Save to localStorage for persistence
+            localStorage.setItem('node233_token_mint', mintAddress);
+            
+            alert('✅ Token configuration generated! Copy the code above and add it to your main NODE 233 interface.');
+        }
+
+        // Auto-load if token was previously set
+        window.addEventListener('load', () => {
+            const savedToken = localStorage.getItem('node233_token_mint');
+            if (savedToken) {
+                document.getElementById('tokenMint').value = savedToken;
+            }
+        });
+    </script>
+</body>
+</html>

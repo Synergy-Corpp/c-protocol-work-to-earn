@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jupiter Token Test</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px;
+            background: #1a1a1a;
+            color: #fff;
+        }
+        .section {
+            background: #2a2a2a;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            border: 1px solid #444;
+        }
+        .link {
+            display: block;
+            padding: 15px;
+            background: #4a9eff;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            margin: 10px 0;
+            text-align: center;
+            font-weight: bold;
+        }
+        .link:hover { background: #3a8eef; }
+        .warning {
+            background: #ff6b6b;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        .success {
+            background: #51cf66;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        .code {
+            background: #000;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 12px;
+            word-break: break-all;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚀 Jupiter Token Testing</h1>
+    
+    <div class="section">
+        <h2>🪙 Your Token Details</h2>
+        <div class="code">
+            Token Address: FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP<br>
+            Pool ID: AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3<br>
+            Your Phantom SOL: ~0.21 SOL ($50)
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>🔗 Direct Jupiter Links</h2>
+        
+        <a href="https://jup.ag/swap/SOL-FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP" 
+           class="link" target="_blank">
+           🔄 TRY JUPITER SWAP: SOL → Your Token
+        </a>
+        
+        <a href="https://jup.ag/" class="link" target="_blank">
+           🌐 Open Jupiter (Manual Search)
+        </a>
+        
+        <a href="https://birdeye.so/token/FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP?chain=solana" 
+           class="link" target="_blank">
+           📊 Check Token on Birdeye
+        </a>
+    </div>
+
+    <div class="section">
+        <h2>🧪 Testing Steps</h2>
+        <ol>
+            <li><strong>Click "TRY JUPITER SWAP" above</strong></li>
+            <li><strong>Connect your Phantom wallet</strong></li>
+            <li><strong>Check if your token loads in the "To" field</strong></li>
+            <li><strong>If YES:</strong> Jupiter recognizes your token ✅</li>
+            <li><strong>If NO:</strong> Pool too small for Jupiter ❌</li>
+        </ol>
+    </div>
+
+    <div class="warning">
+        <h3>⚠️ What to Expect</h3>
+        <p><strong>If Jupiter FINDS your token:</strong></p>
+        <ul>
+            <li>You can swap SOL for your tokens</li>
+            <li>This creates buy pressure = price goes up</li>
+            <li>Uses your existing $24 pool liquidity</li>
+        </ul>
+        
+        <p><strong>If Jupiter DOESN'T find your token:</strong></p>
+        <ul>
+            <li>Pool is too small for aggregators</li>
+            <li>Need to use Raydium directly</li>
+            <li>Or add more liquidity first</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🏊 Alternative: Direct Raydium</h2>
+        
+        <a href="https://raydium.io/liquidity/add/?mode=add&pool_id=AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3" 
+           class="link" target="_blank">
+           💧 Try Direct Raydium Pool Link
+        </a>
+        
+        <p>Or search manually on Raydium:</p>
+        <div class="code">
+            1. Go to raydium.io/liquidity<br>
+            2. Click "Add Liquidity"<br>
+            3. Paste: FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP<br>
+            4. Should show your existing pool
+        </div>
+    </div>
+
+    <div class="success">
+        <h3>💡 Recommendation</h3>
+        <p><strong>Try Jupiter first</strong> - if it works, you can create immediate buy pressure!</p>
+        <p><strong>If Jupiter doesn't work</strong> - use Raydium to add liquidity instead.</p>
+        <p><strong>Your $50 in Phantom is ready for either approach!</strong></p>
+    </div>
+
+    <div class="section">
+        <h2>🔍 Manual Jupiter Test</h2>
+        <p>If the direct link doesn't work, try manually:</p>
+        <ol>
+            <li>Go to <strong>jup.ag</strong></li>
+            <li>Set <strong>From: SOL</strong></li>
+            <li>Click <strong>To field</strong></li>
+            <li>Paste: <code>FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP</code></li>
+            <li>See if it finds your token</li>
+        </ol>
+    </div>
+
+</body>
+</html>

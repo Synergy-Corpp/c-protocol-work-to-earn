@@ -1,0 +1,4166 @@
+🚀 NODE 233 Real Arbitrage System Starting...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤖 Real Arbitrage Bot Initialized
+Authority: BPYapeoALDbgotQvFfxmjALjpzmF2fWsDwYpctFraxjp
+Pool: AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3
+✅ Arbitrage bot initialized successfully
+🪙 Token: FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP
+🏊 Pool: AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3
+
+💰 Initial Balance Check:
+   SOL Balance: 0.565995 SOL
+✅ Sufficient SOL for arbitrage operations
+
+🎯 Starting real arbitrage execution...
+   • Monitoring price differences across DEXs
+   • Executing profitable micro-trades
+   • Auto-reinvesting profits into your pool
+   • Building liquidity organically
+
+Press Ctrl+C to stop the bot
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 Starting Real Arbitrage Bot...
+   Monitoring for price differences
+   Auto-executing profitable trades
+   Auto-reinvesting into your pool
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011961
+   Sell at raydium: $0.00012029
+   Spread: 0.57%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000322
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000322 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0003 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011916
+   Sell at jupiter: $0.00011987
+   Spread: 0.60%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000337
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011911
+   Sell at jupiter: $0.00012022
+   Spread: 0.93%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000526
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000526 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0008 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011898
+   Sell at raydium: $0.00012046
+   Spread: 1.25%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000705
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000705 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0016 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011930
+   Sell at jupiter: $0.00012022
+   Spread: 0.77%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000437
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011886
+   Sell at jupiter: $0.00012018
+   Spread: 1.11%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000628
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000628 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0022 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011945
+   Sell at raydium: $0.00012002
+   Spread: 0.48%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000270
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000270 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0025 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012001
+   Sell at orca: $0.00012055
+   Spread: 0.44%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000251
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000251 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0027 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011992
+   Sell at orca: $0.00012110
+   Spread: 0.99%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000557
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000557 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0033 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012024
+   Sell at orca: $0.00012093
+   Spread: 0.58%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000325
+🔄 Executing micro-arbitrage for 470 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011954
+   Sell at jupiter: $0.00012007
+   Spread: 0.44%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000250
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011956
+   Sell at jupiter: $0.00012024
+   Spread: 0.56%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000319
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011889
+   Sell at jupiter: $0.00011986
+   Spread: 0.81%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000461
+🔄 Executing micro-arbitrage for 476 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011896
+   Sell at jupiter: $0.00011999
+   Spread: 0.87%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000492
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000492 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0038 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011977
+   Sell at orca: $0.00012088
+   Spread: 0.93%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000526
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000526 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0043 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011900
+   Sell at jupiter: $0.00011999
+   Spread: 0.83%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000470
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000470 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0047 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011990
+   Sell at raydium: $0.00012056
+   Spread: 0.55%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000312
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000312 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0051 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011965
+   Sell at jupiter: $0.00012001
+   Spread: 0.31%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000174
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011980
+   Sell at orca: $0.00012019
+   Spread: 0.33%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000187
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011984
+   Sell at orca: $0.00012083
+   Spread: 0.83%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000468
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000468 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0055 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011967
+   Sell at orca: $0.00012034
+   Spread: 0.56%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000318
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011955
+   Sell at jupiter: $0.00012012
+   Spread: 0.47%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000267
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000267 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0058 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011922
+   Sell at jupiter: $0.00012016
+   Spread: 0.79%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000445
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000445 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0062 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011938
+   Sell at jupiter: $0.00012016
+   Spread: 0.65%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000369
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000369 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0066 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011889
+   Sell at raydium: $0.00012045
+   Spread: 1.31%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000742
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000742 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0073 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011987
+   Sell at orca: $0.00012089
+   Spread: 0.85%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000482
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000482 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0078 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011976
+   Sell at orca: $0.00012083
+   Spread: 0.90%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000507
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000507 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0083 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011902
+   Sell at jupiter: $0.00012016
+   Spread: 0.96%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000544
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000544 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0089 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011890
+   Sell at jupiter: $0.00012003
+   Spread: 0.95%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000539
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000539 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0094 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011977
+   Sell at raydium: $0.00012041
+   Spread: 0.53%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000301
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000301 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0097 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011945
+   Sell at raydium: $0.00012011
+   Spread: 0.55%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000312
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000312 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0100 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011888
+   Sell at jupiter: $0.00012009
+   Spread: 1.02%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000575
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000575 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0106 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011883
+   Sell at raydium: $0.00012008
+   Spread: 1.05%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000596
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000596 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0112 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011941
+   Sell at orca: $0.00012057
+   Spread: 0.97%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000550
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011987
+   Sell at orca: $0.00012034
+   Spread: 0.39%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000223
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000223 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0114 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011947
+   Sell at orca: $0.00012079
+   Spread: 1.11%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000625
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000625 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0121 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012017
+   Sell at orca: $0.00012064
+   Spread: 0.39%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000220
+🔄 Executing micro-arbitrage for 470 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011890
+   Sell at jupiter: $0.00012015
+   Spread: 1.06%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000598
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000598 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0127 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011962
+   Sell at raydium: $0.00012012
+   Spread: 0.42%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000237
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011939
+   Sell at jupiter: $0.00011983
+   Spread: 0.37%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000211
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000211 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0129 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011893
+   Sell at jupiter: $0.00012012
+   Spread: 1.00%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000563
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011895
+   Sell at raydium: $0.00012014
+   Spread: 1.00%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000564
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011949
+   Sell at jupiter: $0.00012021
+   Spread: 0.60%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000342
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000342 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0132 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011988
+   Sell at orca: $0.00012087
+   Spread: 0.82%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000466
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000466 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0137 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012017
+   Sell at raydium: $0.00012059
+   Spread: 0.35%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000198
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000198 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0139 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012005
+   Sell at raydium: $0.00012043
+   Spread: 0.32%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000183
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000183 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0140 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011895
+   Sell at raydium: $0.00012058
+   Spread: 1.37%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000775
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012003
+   Sell at orca: $0.00012117
+   Spread: 0.96%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000540
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011951
+   Sell at raydium: $0.00012030
+   Spread: 0.66%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000372
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000372 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0144 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011993
+   Sell at orca: $0.00012077
+   Spread: 0.70%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000395
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011997
+   Sell at raydium: $0.00012060
+   Spread: 0.52%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000296
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000296 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0147 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011974
+   Sell at raydium: $0.00012029
+   Spread: 0.46%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000260
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000260 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0150 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011952
+   Sell at jupiter: $0.00012018
+   Spread: 0.56%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000314
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000314 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0153 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011958
+   Sell at raydium: $0.00012021
+   Spread: 0.52%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000297
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011940
+   Sell at jupiter: $0.00012007
+   Spread: 0.56%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000314
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000314 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0156 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011907
+   Sell at jupiter: $0.00012005
+   Spread: 0.83%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000468
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011977
+   Sell at orca: $0.00012099
+   Spread: 1.01%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000572
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011953
+   Sell at orca: $0.00012001
+   Spread: 0.40%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000224
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012000
+   Sell at raydium: $0.00012052
+   Spread: 0.43%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000243
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000243 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0158 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012019
+   Sell at orca: $0.00012082
+   Spread: 0.53%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000298
+🔄 Executing micro-arbitrage for 470 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000298 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0161 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011968
+   Sell at raydium: $0.00012028
+   Spread: 0.50%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000283
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011968
+   Sell at orca: $0.00012006
+   Spread: 0.32%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000181
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000181 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0163 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011981
+   Sell at raydium: $0.00012040
+   Spread: 0.49%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000280
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011997
+   Sell at orca: $0.00012055
+   Spread: 0.48%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000273
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011945
+   Sell at raydium: $0.00012051
+   Spread: 0.89%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000505
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000505 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0168 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011905
+   Sell at jupiter: $0.00011985
+   Spread: 0.67%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000381
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011967
+   Sell at raydium: $0.00012021
+   Spread: 0.45%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000253
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000253 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0171 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012009
+   Sell at orca: $0.00012113
+   Spread: 0.87%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000491
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011978
+   Sell at orca: $0.00012087
+   Spread: 0.91%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000513
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011896
+   Sell at jupiter: $0.00012020
+   Spread: 1.04%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000587
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000587 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0177 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012009
+   Sell at orca: $0.00012079
+   Spread: 0.59%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000332
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000332 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0180 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011977
+   Sell at orca: $0.00012089
+   Spread: 0.93%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000528
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000528 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0185 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011952
+   Sell at jupiter: $0.00011990
+   Spread: 0.32%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000181
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000181 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0187 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011911
+   Sell at jupiter: $0.00011978
+   Spread: 0.56%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000317
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011973
+   Sell at raydium: $0.00012012
+   Spread: 0.33%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000187
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000187 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0189 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012092
+   Spread: 0.95%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000535
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000535 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0194 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011975
+   Sell at raydium: $0.00012037
+   Spread: 0.51%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000289
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012009
+   Sell at orca: $0.00012074
+   Spread: 0.55%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000309
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011892
+   Sell at raydium: $0.00011995
+   Spread: 0.86%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000486
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011911
+   Sell at raydium: $0.00012054
+   Spread: 1.20%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000680
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011901
+   Sell at raydium: $0.00012037
+   Spread: 1.15%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000648
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000648 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0201 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011979
+   Sell at orca: $0.00012101
+   Spread: 1.02%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000575
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000575 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0207 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011917
+   Sell at raydium: $0.00012040
+   Spread: 1.04%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000585
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011984
+   Sell at jupiter: $0.00012022
+   Spread: 0.32%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000180
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000180 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0208 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011946
+   Sell at jupiter: $0.00012008
+   Spread: 0.51%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000290
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011957
+   Sell at raydium: $0.00012020
+   Spread: 0.53%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000298
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000298 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0211 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011963
+   Sell at orca: $0.00012085
+   Spread: 1.02%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000577
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011942
+   Sell at jupiter: $0.00012014
+   Spread: 0.60%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000339
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000339 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0215 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011909
+   Sell at jupiter: $0.00012018
+   Spread: 0.92%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000518
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000518 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0220 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011933
+   Sell at jupiter: $0.00011992
+   Spread: 0.49%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000279
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011944
+   Sell at orca: $0.00012005
+   Spread: 0.52%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000291
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011899
+   Sell at raydium: $0.00012024
+   Spread: 1.05%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000592
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000592 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0226 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011991
+   Sell at orca: $0.00012120
+   Spread: 1.08%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000609
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000609 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0232 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011986
+   Sell at orca: $0.00012088
+   Spread: 0.84%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000478
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011957
+   Sell at jupiter: $0.00012013
+   Spread: 0.47%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000264
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000264 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0235 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011998
+   Sell at orca: $0.00012034
+   Spread: 0.30%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000171
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000171 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0236 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011888
+   Sell at jupiter: $0.00012003
+   Spread: 0.97%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000550
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000550 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0242 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011883
+   Sell at raydium: $0.00011989
+   Spread: 0.90%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000507
+🔄 Executing micro-arbitrage for 476 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012003
+   Sell at orca: $0.00012057
+   Spread: 0.45%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000256
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000256 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0244 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011949
+   Sell at raydium: $0.00012055
+   Spread: 0.89%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000501
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000501 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0249 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011994
+   Sell at raydium: $0.00012042
+   Spread: 0.40%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000228
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000228 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0252 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011958
+   Sell at raydium: $0.00012009
+   Spread: 0.43%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000244
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000244 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0254 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011891
+   Sell at jupiter: $0.00012020
+   Spread: 1.09%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000614
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000614 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0260 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011881
+   Sell at raydium: $0.00011993
+   Spread: 0.94%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000533
+🔄 Executing micro-arbitrage for 476 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011904
+   Sell at jupiter: $0.00012020
+   Spread: 0.98%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000555
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000555 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0266 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011990
+   Sell at orca: $0.00012064
+   Spread: 0.62%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000351
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000351 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0269 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011905
+   Sell at jupiter: $0.00012010
+   Spread: 0.88%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000499
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000499 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0274 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011953
+   Sell at orca: $0.00012056
+   Spread: 0.86%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000489
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000489 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0279 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011899
+   Sell at raydium: $0.00012029
+   Spread: 1.09%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000616
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000616 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0285 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011947
+   Sell at jupiter: $0.00011984
+   Spread: 0.31%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000178
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011945
+   Sell at jupiter: $0.00011991
+   Spread: 0.39%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000218
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000218 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0287 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011972
+   Sell at orca: $0.00012036
+   Spread: 0.54%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000304
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000304 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0291 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011894
+   Sell at raydium: $0.00012051
+   Spread: 1.32%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000747
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000747 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0298 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012003
+   Sell at orca: $0.00012095
+   Spread: 0.76%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000431
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012007
+   Sell at raydium: $0.00012054
+   Spread: 0.39%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000219
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000219 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0300 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011980
+   Sell at raydium: $0.00012053
+   Spread: 0.60%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000341
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000341 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0304 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011972
+   Sell at orca: $0.00012045
+   Spread: 0.61%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000347
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011986
+   Sell at raydium: $0.00012052
+   Spread: 0.55%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000312
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000312 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0307 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012013
+   Sell at orca: $0.00012114
+   Spread: 0.84%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000474
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000474 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0311 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011965
+   Sell at orca: $0.00012046
+   Spread: 0.68%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000384
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011939
+   Sell at raydium: $0.00012020
+   Spread: 0.68%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000383
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000383 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0315 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011949
+   Sell at orca: $0.00012023
+   Spread: 0.62%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000351
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011946
+   Sell at jupiter: $0.00011984
+   Spread: 0.32%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000180
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000180 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0317 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012017
+   Sell at orca: $0.00012104
+   Spread: 0.73%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000410
+🔄 Executing micro-arbitrage for 470 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000410 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0321 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011918
+   Sell at jupiter: $0.00011991
+   Spread: 0.62%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000349
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000349 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0325 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012116
+   Spread: 1.14%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000647
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000647 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0331 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011907
+   Sell at jupiter: $0.00012009
+   Spread: 0.86%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000486
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000486 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0336 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012006
+   Sell at orca: $0.00012053
+   Spread: 0.39%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000221
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000221 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0338 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011942
+   Sell at jupiter: $0.00012011
+   Spread: 0.58%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000328
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000328 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0341 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011955
+   Sell at jupiter: $0.00012008
+   Spread: 0.44%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000250
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011881
+   Sell at jupiter: $0.00012013
+   Spread: 1.12%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000631
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000631 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0348 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012008
+   Sell at orca: $0.00012052
+   Spread: 0.37%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000206
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000206 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0350 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011976
+   Sell at raydium: $0.00012046
+   Spread: 0.58%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000327
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000327 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0353 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012004
+   Sell at orca: $0.00012102
+   Spread: 0.82%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000461
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000461 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0358 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011912
+   Sell at raydium: $0.00011990
+   Spread: 0.66%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000372
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000372 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0361 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011974
+   Sell at orca: $0.00012089
+   Spread: 0.96%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000541
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000541 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0367 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011979
+   Sell at raydium: $0.00012031
+   Spread: 0.43%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000244
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011910
+   Sell at jupiter: $0.00012024
+   Spread: 0.96%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000542
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000542 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0372 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011997
+   Sell at orca: $0.00012048
+   Spread: 0.42%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000239
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012103
+   Spread: 1.03%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000585
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011975
+   Sell at orca: $0.00012024
+   Spread: 0.41%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000230
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000230 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0375 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011888
+   Sell at raydium: $0.00012007
+   Spread: 1.00%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000567
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000567 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0380 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011946
+   Sell at orca: $0.00012072
+   Spread: 1.05%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000595
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000595 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0386 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012005
+   Sell at orca: $0.00012052
+   Spread: 0.39%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000219
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000219 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0388 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011896
+   Sell at raydium: $0.00012050
+   Spread: 1.30%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000733
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000733 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0396 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011961
+   Sell at orca: $0.00012015
+   Spread: 0.45%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000252
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000252 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0398 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011885
+   Sell at raydium: $0.00012007
+   Spread: 1.03%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000580
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000580 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0404 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011894
+   Sell at jupiter: $0.00012024
+   Spread: 1.10%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000619
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000619 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0410 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011994
+   Sell at orca: $0.00012047
+   Spread: 0.44%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000250
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011893
+   Sell at raydium: $0.00011999
+   Spread: 0.88%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000499
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011971
+   Sell at raydium: $0.00012021
+   Spread: 0.42%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000236
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000236 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0413 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011990
+   Sell at orca: $0.00012050
+   Spread: 0.49%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000279
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000279 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0415 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011995
+   Sell at orca: $0.00012079
+   Spread: 0.70%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000397
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011964
+   Sell at orca: $0.00012114
+   Spread: 1.26%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000711
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000711 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0423 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011980
+   Sell at orca: $0.00012020
+   Spread: 0.33%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000189
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000189 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0424 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011920
+   Sell at jupiter: $0.00012013
+   Spread: 0.79%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000445
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000445 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0429 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011977
+   Sell at raydium: $0.00012028
+   Spread: 0.42%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000240
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000240 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0431 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011888
+   Sell at raydium: $0.00012014
+   Spread: 1.06%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000599
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000599 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0437 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011984
+   Sell at orca: $0.00012044
+   Spread: 0.51%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000286
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000286 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0440 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011980
+   Sell at raydium: $0.00012042
+   Spread: 0.52%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000292
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000292 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0443 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011994
+   Sell at orca: $0.00012117
+   Spread: 1.03%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000580
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012020
+   Sell at orca: $0.00012094
+   Spread: 0.61%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000345
+🔄 Executing micro-arbitrage for 470 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000345 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0446 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011994
+   Sell at orca: $0.00012097
+   Spread: 0.85%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000481
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000481 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0451 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011982
+   Sell at orca: $0.00012117
+   Spread: 1.13%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000636
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011965
+   Sell at jupiter: $0.00012016
+   Spread: 0.43%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000243
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000243 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0454 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011958
+   Sell at orca: $0.00012095
+   Spread: 1.14%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000646
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000646 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0460 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011989
+   Sell at orca: $0.00012053
+   Spread: 0.54%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000304
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000304 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0463 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at raydium: $0.00012051
+   Spread: 0.60%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000341
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000341 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0467 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011985
+   Sell at orca: $0.00012088
+   Spread: 0.86%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000485
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000485 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0471 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011987
+   Sell at orca: $0.00012042
+   Spread: 0.46%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000262
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000262 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0474 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011997
+   Sell at raydium: $0.00012034
+   Spread: 0.31%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000178
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000178 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0476 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011931
+   Sell at jupiter: $0.00012003
+   Spread: 0.60%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000342
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000342 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0479 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011967
+   Sell at orca: $0.00012116
+   Spread: 1.25%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000704
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011997
+   Sell at orca: $0.00012046
+   Spread: 0.41%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000232
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011984
+   Sell at orca: $0.00012035
+   Spread: 0.42%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000239
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000239 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0482 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011964
+   Sell at jupiter: $0.00012005
+   Spread: 0.35%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000197
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000197 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0484 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011959
+   Sell at orca: $0.00012060
+   Spread: 0.85%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000481
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000481 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0488 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011989
+   Sell at raydium: $0.00012049
+   Spread: 0.50%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000285
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000285 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0491 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011964
+   Sell at jupiter: $0.00012022
+   Spread: 0.49%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000275
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000275 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0494 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011991
+   Sell at raydium: $0.00012033
+   Spread: 0.35%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000197
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011914
+   Sell at raydium: $0.00012042
+   Spread: 1.08%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000608
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000608 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0500 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011888
+   Sell at jupiter: $0.00012006
+   Spread: 0.99%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000563
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000563 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0506 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011943
+   Sell at orca: $0.00012108
+   Spread: 1.38%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000781
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000781 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0514 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011913
+   Sell at jupiter: $0.00011992
+   Spread: 0.66%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000375
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000375 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0517 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012058
+   Spread: 0.66%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000371
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000371 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0521 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011904
+   Sell at raydium: $0.00012042
+   Spread: 1.16%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000655
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000655 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0528 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011973
+   Sell at orca: $0.00012092
+   Spread: 1.00%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000563
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000563 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0533 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011920
+   Sell at raydium: $0.00012000
+   Spread: 0.67%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000381
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011964
+   Sell at raydium: $0.00012035
+   Spread: 0.59%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000334
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000334 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0537 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011976
+   Sell at orca: $0.00012109
+   Spread: 1.11%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000629
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012001
+   Sell at orca: $0.00012098
+   Spread: 0.80%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000455
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000455 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0541 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011979
+   Sell at raydium: $0.00012016
+   Spread: 0.31%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000175
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000175 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0543 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011977
+   Sell at orca: $0.00012092
+   Spread: 0.96%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000544
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000544 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0548 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011981
+   Sell at raydium: $0.00012028
+   Spread: 0.40%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000224
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000224 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0551 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011944
+   Sell at jupiter: $0.00011994
+   Spread: 0.42%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000235
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000235 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0553 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012017
+   Sell at orca: $0.00012090
+   Spread: 0.61%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000344
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011976
+   Sell at raydium: $0.00012015
+   Spread: 0.33%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000185
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000185 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0555 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011957
+   Sell at raydium: $0.00012053
+   Spread: 0.80%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000455
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012003
+   Sell at orca: $0.00012048
+   Spread: 0.37%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000211
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011917
+   Sell at jupiter: $0.00011997
+   Spread: 0.67%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000378
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011936
+   Sell at jupiter: $0.00012022
+   Spread: 0.72%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000408
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011881
+   Sell at raydium: $0.00012058
+   Spread: 1.49%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000841
+🔄 Executing micro-arbitrage for 476 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011946
+   Sell at jupiter: $0.00011992
+   Spread: 0.39%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000218
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000218 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0557 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011996
+   Sell at raydium: $0.00012041
+   Spread: 0.37%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000211
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011920
+   Sell at jupiter: $0.00012019
+   Spread: 0.83%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000469
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000469 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0562 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012005
+   Sell at orca: $0.00012094
+   Spread: 0.74%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000419
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000419 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0566 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011950
+   Sell at raydium: $0.00012004
+   Spread: 0.44%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000251
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000251 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0568 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011919
+   Sell at raydium: $0.00012032
+   Spread: 0.94%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000532
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000532 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0574 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011984
+   Sell at orca: $0.00012084
+   Spread: 0.83%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000470
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011981
+   Sell at raydium: $0.00012036
+   Spread: 0.46%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000260
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011980
+   Sell at orca: $0.00012101
+   Spread: 1.02%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000574
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011984
+   Sell at orca: $0.00012111
+   Spread: 1.06%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000598
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000598 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0580 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011986
+   Sell at orca: $0.00012113
+   Spread: 1.06%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000599
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000599 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0586 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011931
+   Sell at raydium: $0.00012044
+   Spread: 0.95%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000535
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000535 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0591 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011950
+   Sell at jupiter: $0.00012020
+   Spread: 0.59%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000331
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000331 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0594 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011991
+   Sell at orca: $0.00012092
+   Spread: 0.84%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000478
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000478 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0599 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00012000
+   Sell at orca: $0.00012058
+   Spread: 0.49%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000274
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000274 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0602 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011978
+   Sell at orca: $0.00012031
+   Spread: 0.44%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000250
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000250 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0604 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011983
+   Sell at raydium: $0.00012051
+   Spread: 0.57%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000322
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000322 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0608 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011955
+   Sell at orca: $0.00012075
+   Spread: 1.00%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000565
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011990
+   Sell at raydium: $0.00012058
+   Spread: 0.57%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000324
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011997
+   Sell at raydium: $0.00012043
+   Spread: 0.38%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000216
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000216 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0610 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011962
+   Sell at orca: $0.00012047
+   Spread: 0.71%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000402
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000402 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0614 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011959
+   Sell at raydium: $0.00012054
+   Spread: 0.79%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000446
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000446 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0618 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012000
+   Sell at orca: $0.00012087
+   Spread: 0.73%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000412
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011972
+   Sell at orca: $0.00012041
+   Spread: 0.58%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000326
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000326 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0621 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012010
+   Sell at orca: $0.00012053
+   Spread: 0.35%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000199
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000199 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0623 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011997
+   Sell at orca: $0.00012095
+   Spread: 0.82%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000461
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000461 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0628 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011958
+   Sell at raydium: $0.00012023
+   Spread: 0.54%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000306
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011906
+   Sell at raydium: $0.00012051
+   Spread: 1.22%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000690
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000690 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0635 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011970
+   Sell at orca: $0.00012102
+   Spread: 1.10%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000624
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000624 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0641 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011901
+   Sell at raydium: $0.00012026
+   Spread: 1.05%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000593
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011898
+   Sell at raydium: $0.00012032
+   Spread: 1.13%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000637
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000637 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0648 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011985
+   Sell at raydium: $0.00012059
+   Spread: 0.62%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000352
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000352 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0651 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011965
+   Sell at jupiter: $0.00012023
+   Spread: 0.48%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000273
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000273 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0654 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011982
+   Sell at raydium: $0.00012032
+   Spread: 0.41%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000234
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000234 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0656 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011900
+   Sell at jupiter: $0.00012019
+   Spread: 1.00%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000565
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000565 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0662 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011911
+   Sell at jupiter: $0.00012019
+   Spread: 0.91%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000515
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000515 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0667 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011992
+   Sell at orca: $0.00012061
+   Spread: 0.58%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000328
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011904
+   Sell at raydium: $0.00012026
+   Spread: 1.02%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000578
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000578 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0673 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011977
+   Sell at orca: $0.00012093
+   Spread: 0.97%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000549
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011978
+   Sell at orca: $0.00012095
+   Spread: 0.97%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000551
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000551 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0678 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011929
+   Sell at raydium: $0.00012019
+   Spread: 0.75%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000424
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011967
+   Sell at orca: $0.00012113
+   Spread: 1.22%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000686
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011985
+   Sell at orca: $0.00012075
+   Spread: 0.75%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000425
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012010
+   Sell at orca: $0.00012053
+   Spread: 0.36%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000203
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011954
+   Sell at raydium: $0.00012021
+   Spread: 0.56%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000316
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011996
+   Sell at orca: $0.00012075
+   Spread: 0.66%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000373
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000373 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0682 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011910
+   Sell at raydium: $0.00012048
+   Spread: 1.16%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000656
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000656 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0689 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011938
+   Sell at jupiter: $0.00012023
+   Spread: 0.71%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000404
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000404 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0693 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012065
+   Spread: 0.72%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000406
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000406 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0697 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011980
+   Sell at orca: $0.00012071
+   Spread: 0.76%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000431
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000431 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0701 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011991
+   Sell at orca: $0.00012065
+   Spread: 0.62%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000348
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012004
+   Sell at orca: $0.00012083
+   Spread: 0.65%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000370
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011959
+   Sell at raydium: $0.00012043
+   Spread: 0.71%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000400
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000400 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0705 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011939
+   Sell at raydium: $0.00012056
+   Spread: 0.98%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000553
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011994
+   Sell at orca: $0.00012059
+   Spread: 0.54%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000303
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011950
+   Sell at orca: $0.00012073
+   Spread: 1.03%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000581
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000581 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0711 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011978
+   Sell at orca: $0.00012071
+   Spread: 0.78%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000439
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012022
+   Sell at orca: $0.00012073
+   Spread: 0.42%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000239
+🔄 Executing micro-arbitrage for 470 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000239 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0713 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011916
+   Sell at raydium: $0.00012018
+   Spread: 0.86%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000486
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000486 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0718 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011883
+   Sell at raydium: $0.00012033
+   Spread: 1.26%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000714
+🔄 Executing micro-arbitrage for 476 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011965
+   Sell at raydium: $0.00012034
+   Spread: 0.58%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000328
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000328 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0721 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011903
+   Sell at jupiter: $0.00012009
+   Spread: 0.89%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000505
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000505 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0726 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011982
+   Sell at orca: $0.00012071
+   Spread: 0.75%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000421
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000421 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0731 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011982
+   Sell at orca: $0.00012076
+   Spread: 0.78%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000444
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000444 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0735 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011965
+   Sell at orca: $0.00012033
+   Spread: 0.57%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000322
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000322 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0738 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011993
+   Sell at orca: $0.00012070
+   Spread: 0.65%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000367
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000367 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0742 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011964
+   Sell at orca: $0.00012088
+   Spread: 1.04%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000587
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000587 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0748 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011967
+   Sell at raydium: $0.00012051
+   Spread: 0.70%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000396
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012008
+   Sell at raydium: $0.00012059
+   Spread: 0.43%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000243
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011968
+   Sell at orca: $0.00012017
+   Spread: 0.41%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000230
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011943
+   Sell at orca: $0.00012030
+   Spread: 0.73%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000413
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011966
+   Sell at orca: $0.00012071
+   Spread: 0.88%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000497
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000497 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0753 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012006
+   Sell at orca: $0.00012072
+   Spread: 0.54%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000308
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000308 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0756 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011896
+   Sell at raydium: $0.00012006
+   Spread: 0.93%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000524
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011955
+   Sell at raydium: $0.00012036
+   Spread: 0.67%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000381
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000381 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0760 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011895
+   Sell at jupiter: $0.00012005
+   Spread: 0.93%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000526
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012002
+   Sell at orca: $0.00012046
+   Spread: 0.37%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000208
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000208 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0762 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012090
+   Spread: 0.93%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000525
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000525 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0767 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011906
+   Sell at jupiter: $0.00012015
+   Spread: 0.92%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000518
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011971
+   Sell at orca: $0.00012047
+   Spread: 0.63%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000358
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000358 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0770 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011945
+   Sell at orca: $0.00012082
+   Spread: 1.15%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000651
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011947
+   Sell at orca: $0.00012112
+   Spread: 1.38%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000781
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000781 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0778 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011955
+   Sell at orca: $0.00012087
+   Spread: 1.10%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000623
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000623 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0785 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011885
+   Sell at jupiter: $0.00012019
+   Spread: 1.13%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000640
+🔄 Executing micro-arbitrage for 476 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011982
+   Sell at orca: $0.00012051
+   Spread: 0.57%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000325
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000325 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0788 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012003
+   Sell at orca: $0.00012042
+   Spread: 0.32%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000182
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000182 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0790 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011991
+   Sell at orca: $0.00012046
+   Spread: 0.46%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000261
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000261 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0792 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011997
+   Sell at orca: $0.00012036
+   Spread: 0.33%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000184
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000184 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0794 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011882
+   Sell at raydium: $0.00012059
+   Spread: 1.49%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000842
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000842 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0802 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011903
+   Sell at raydium: $0.00012048
+   Spread: 1.22%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000689
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000689 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0809 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011928
+   Sell at raydium: $0.00011994
+   Spread: 0.56%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000316
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000316 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0813 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012022
+   Sell at orca: $0.00012064
+   Spread: 0.35%
+💰 Trade size: 470 tokens
+💰 Expected profit: $0.000195
+🔄 Executing micro-arbitrage for 470 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011960
+   Sell at jupiter: $0.00012004
+   Spread: 0.37%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000211
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000211 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0815 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011993
+   Sell at orca: $0.00012080
+   Spread: 0.73%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000413
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000413 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0819 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011895
+   Sell at raydium: $0.00012053
+   Spread: 1.33%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000749
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011941
+   Sell at raydium: $0.00012057
+   Spread: 0.97%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000546
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000546 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0824 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011956
+   Sell at orca: $0.00012046
+   Spread: 0.75%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000423
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000423 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0828 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011930
+   Sell at raydium: $0.00011999
+   Spread: 0.57%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000325
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011947
+   Sell at raydium: $0.00012048
+   Spread: 0.85%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000480
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000480 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0833 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011996
+   Sell at orca: $0.00012101
+   Spread: 0.87%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000492
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000492 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0838 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011983
+   Sell at orca: $0.00012059
+   Spread: 0.64%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000361
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000361 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0842 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011911
+   Sell at raydium: $0.00012055
+   Spread: 1.21%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000685
+🔄 Executing micro-arbitrage for 475 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011967
+   Sell at orca: $0.00012009
+   Spread: 0.35%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000197
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000197 profit
+💰 Reinvesting $0.0002 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0844 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011902
+   Sell at jupiter: $0.00012005
+   Spread: 0.87%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000490
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000490 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0849 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012005
+   Sell at orca: $0.00012110
+   Spread: 0.88%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000495
+🔄 Executing micro-arbitrage for 471 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011943
+   Sell at jupiter: $0.00012017
+   Spread: 0.62%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000348
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000348 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0852 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011887
+   Sell at raydium: $0.00012000
+   Spread: 0.95%
+💰 Trade size: 476 tokens
+💰 Expected profit: $0.000537
+🔄 Executing micro-arbitrage for 476 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000537 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0858 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012013
+   Sell at orca: $0.00012080
+   Spread: 0.56%
+💰 Trade size: 471 tokens
+💰 Expected profit: $0.000316
+🔄 Executing micro-arbitrage for 471 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000316 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0861 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011941
+   Sell at raydium: $0.00012044
+   Spread: 0.87%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000491
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000491 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0866 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011932
+   Sell at jupiter: $0.00012006
+   Spread: 0.62%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000352
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000352 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0869 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011932
+   Sell at raydium: $0.00012046
+   Spread: 0.96%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000540
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000540 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0874 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011988
+   Sell at orca: $0.00012078
+   Spread: 0.75%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000422
+🔄 Executing micro-arbitrage for 472 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000422 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0879 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011955
+   Sell at orca: $0.00012085
+   Spread: 1.09%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000617
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000617 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0885 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011913
+   Sell at jupiter: $0.00011996
+   Spread: 0.70%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000394
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000394 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0889 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011919
+   Sell at raydium: $0.00012030
+   Spread: 0.93%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000527
+🔄 Executing micro-arbitrage for 474 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000527 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0894 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011974
+   Sell at orca: $0.00012057
+   Spread: 0.69%
+💰 Trade size: 472 tokens
+💰 Expected profit: $0.000391
+🔄 Executing micro-arbitrage for 472 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011937
+   Sell at raydium: $0.00012052
+   Spread: 0.97%
+💰 Trade size: 474 tokens
+💰 Expected profit: $0.000546
+🔄 Executing micro-arbitrage for 474 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011946
+   Sell at jupiter: $0.00012002
+   Spread: 0.47%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000264
+🔄 Executing micro-arbitrage for 473 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011956
+   Sell at raydium: $0.00012025
+   Spread: 0.58%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000327
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000327 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0897 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011907
+   Sell at raydium: $0.00012037
+   Spread: 1.09%
+💰 Trade size: 475 tokens
+💰 Expected profit: $0.000617
+🔄 Executing micro-arbitrage for 475 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000617 profit
+💰 Reinvesting $0.0006 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0904 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011953
+   Sell at orca: $0.00012105
+   Spread: 1.27%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000720
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000720 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0911 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011943
+   Sell at orca: $0.00012114
+   Spread: 1.44%
+💰 Trade size: 473 tokens
+💰 Expected profit: $0.000812
+🔄 Executing micro-arbitrage for 473 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000812 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0919 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011947
+   Sell at orca: $0.00012041
+   Spread: 0.78%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000661
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000661 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0925 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011973
+   Sell at jupiter: $0.00012021
+   Spread: 0.40%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000334
+🔄 Executing micro-arbitrage for 704 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000334 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0929 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011940
+   Sell at jupiter: $0.00012008
+   Spread: 0.56%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000474
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000474 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0934 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011925
+   Sell at jupiter: $0.00012007
+   Spread: 0.69%
+💰 Trade size: 707 tokens
+💰 Expected profit: $0.000579
+🔄 Executing micro-arbitrage for 707 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012021
+   Sell at orca: $0.00012108
+   Spread: 0.72%
+💰 Trade size: 702 tokens
+💰 Expected profit: $0.000606
+🔄 Executing micro-arbitrage for 702 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011991
+   Sell at raydium: $0.00012043
+   Spread: 0.43%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000365
+🔄 Executing micro-arbitrage for 703 tokens...
+❌ Trade failed - price moved before execution
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011992
+   Sell at orca: $0.00012029
+   Spread: 0.31%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000265
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000265 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0936 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011940
+   Sell at raydium: $0.00012027
+   Spread: 0.73%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000613
+🔄 Executing micro-arbitrage for 706 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011988
+   Sell at orca: $0.00012082
+   Spread: 0.79%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000663
+🔄 Executing micro-arbitrage for 704 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000663 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0943 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011992
+   Sell at orca: $0.00012034
+   Spread: 0.35%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000298
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000298 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0946 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011979
+   Sell at orca: $0.00012110
+   Spread: 1.09%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000923
+🔄 Executing micro-arbitrage for 704 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000923 profit
+💰 Reinvesting $0.0009 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0955 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011958
+   Sell at orca: $0.00012057
+   Spread: 0.83%
+💰 Trade size: 705 tokens
+💰 Expected profit: $0.000696
+🔄 Executing micro-arbitrage for 705 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000696 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0962 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011987
+   Sell at raydium: $0.00012052
+   Spread: 0.55%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000461
+🔄 Executing micro-arbitrage for 704 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011992
+   Sell at orca: $0.00012055
+   Spread: 0.53%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000446
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000446 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0966 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012004
+   Sell at raydium: $0.00012047
+   Spread: 0.36%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000300
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000300 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0969 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011888
+   Sell at raydium: $0.00012011
+   Spread: 1.03%
+💰 Trade size: 709 tokens
+💰 Expected profit: $0.000866
+🔄 Executing micro-arbitrage for 709 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011929
+   Sell at raydium: $0.00012059
+   Spread: 1.09%
+💰 Trade size: 707 tokens
+💰 Expected profit: $0.000917
+🔄 Executing micro-arbitrage for 707 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011978
+   Sell at orca: $0.00012094
+   Spread: 0.96%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000814
+🔄 Executing micro-arbitrage for 704 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000814 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0978 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011990
+   Sell at raydium: $0.00012028
+   Spread: 0.32%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000272
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000272 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0980 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011893
+   Sell at jupiter: $0.00011996
+   Spread: 0.87%
+💰 Trade size: 709 tokens
+💰 Expected profit: $0.000730
+🔄 Executing micro-arbitrage for 709 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011920
+   Sell at raydium: $0.00012052
+   Spread: 1.11%
+💰 Trade size: 708 tokens
+💰 Expected profit: $0.000936
+🔄 Executing micro-arbitrage for 708 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000936 profit
+💰 Reinvesting $0.0009 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.0990 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011881
+   Sell at raydium: $0.00012027
+   Spread: 1.22%
+💰 Trade size: 710 tokens
+💰 Expected profit: $0.001032
+🔄 Executing micro-arbitrage for 710 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.001032 profit
+💰 Reinvesting $0.0010 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1000 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011901
+   Sell at jupiter: $0.00012014
+   Spread: 0.95%
+💰 Trade size: 709 tokens
+💰 Expected profit: $0.000804
+🔄 Executing micro-arbitrage for 709 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000804 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1008 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012020
+   Sell at orca: $0.00012094
+   Spread: 0.61%
+💰 Trade size: 702 tokens
+💰 Expected profit: $0.000519
+🔄 Executing micro-arbitrage for 702 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011993
+   Sell at raydium: $0.00012042
+   Spread: 0.41%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000343
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000343 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1011 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011922
+   Sell at raydium: $0.00012031
+   Spread: 0.91%
+💰 Trade size: 707 tokens
+💰 Expected profit: $0.000771
+🔄 Executing micro-arbitrage for 707 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011936
+   Sell at jupiter: $0.00012011
+   Spread: 0.63%
+💰 Trade size: 707 tokens
+💰 Expected profit: $0.000532
+🔄 Executing micro-arbitrage for 707 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011886
+   Sell at jupiter: $0.00011995
+   Spread: 0.91%
+💰 Trade size: 710 tokens
+💰 Expected profit: $0.000771
+🔄 Executing micro-arbitrage for 710 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000771 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1019 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011910
+   Sell at jupiter: $0.00012013
+   Spread: 0.86%
+💰 Trade size: 708 tokens
+💰 Expected profit: $0.000726
+🔄 Executing micro-arbitrage for 708 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000726 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1026 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011974
+   Sell at orca: $0.00012074
+   Spread: 0.83%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000698
+🔄 Executing micro-arbitrage for 704 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011996
+   Sell at orca: $0.00012032
+   Spread: 0.31%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000258
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000258 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1029 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011951
+   Sell at jupiter: $0.00011993
+   Spread: 0.35%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000299
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000299 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1032 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012021
+   Sell at orca: $0.00012071
+   Spread: 0.41%
+💰 Trade size: 702 tokens
+💰 Expected profit: $0.000347
+🔄 Executing micro-arbitrage for 702 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000347 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1035 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011995
+   Sell at orca: $0.00012063
+   Spread: 0.56%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000474
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000474 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1040 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011882
+   Sell at raydium: $0.00012036
+   Spread: 1.30%
+💰 Trade size: 710 tokens
+💰 Expected profit: $0.001097
+🔄 Executing micro-arbitrage for 710 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.001097 profit
+💰 Reinvesting $0.0011 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1051 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00012005
+   Sell at orca: $0.00012071
+   Spread: 0.55%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000464
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → orca
+✅ Arbitrage executed: +$0.000464 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1056 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011885
+   Sell at jupiter: $0.00011996
+   Spread: 0.93%
+💰 Trade size: 710 tokens
+💰 Expected profit: $0.000786
+🔄 Executing micro-arbitrage for 710 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000786 profit
+💰 Reinvesting $0.0008 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1064 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011938
+   Sell at jupiter: $0.00012013
+   Spread: 0.64%
+💰 Trade size: 707 tokens
+💰 Expected profit: $0.000536
+🔄 Executing micro-arbitrage for 707 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000536 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1069 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011945
+   Sell at orca: $0.00012077
+   Spread: 1.11%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000933
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000933 profit
+💰 Reinvesting $0.0009 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1078 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011902
+   Sell at raydium: $0.00012000
+   Spread: 0.83%
+💰 Trade size: 709 tokens
+💰 Expected profit: $0.000697
+🔄 Executing micro-arbitrage for 709 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000697 profit
+💰 Reinvesting $0.0007 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1085 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011925
+   Sell at raydium: $0.00012054
+   Spread: 1.08%
+💰 Trade size: 707 tokens
+💰 Expected profit: $0.000913
+🔄 Executing micro-arbitrage for 707 tokens...
+✅ Trade executed successfully on orca → raydium
+✅ Arbitrage executed: +$0.000913 profit
+💰 Reinvesting $0.0009 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1094 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011986
+   Sell at raydium: $0.00012043
+   Spread: 0.47%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000398
+🔄 Executing micro-arbitrage for 704 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000398 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1098 total profits reinvested
+⏳ No profitable arbitrage opportunities found
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011968
+   Sell at jupiter: $0.00012015
+   Spread: 0.39%
+💰 Trade size: 705 tokens
+💰 Expected profit: $0.000331
+🔄 Executing micro-arbitrage for 705 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000331 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1102 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011981
+   Sell at orca: $0.00012075
+   Spread: 0.78%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000661
+🔄 Executing micro-arbitrage for 704 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011978
+   Sell at orca: $0.00012055
+   Spread: 0.64%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000542
+🔄 Executing micro-arbitrage for 704 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011944
+   Sell at jupiter: $0.00012020
+   Spread: 0.64%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000536
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000536 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1107 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011954
+   Sell at jupiter: $0.00011999
+   Spread: 0.38%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000319
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on orca → jupiter
+✅ Arbitrage executed: +$0.000319 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1110 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011956
+   Sell at jupiter: $0.00011996
+   Spread: 0.33%
+💰 Trade size: 705 tokens
+💰 Expected profit: $0.000276
+🔄 Executing micro-arbitrage for 705 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000276 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1113 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011949
+   Sell at jupiter: $0.00012018
+   Spread: 0.57%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000483
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000483 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1118 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at jupiter: $0.00011994
+   Sell at raydium: $0.00012059
+   Spread: 0.54%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000452
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on jupiter → raydium
+✅ Arbitrage executed: +$0.000452 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1122 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011977
+   Sell at raydium: $0.00012038
+   Spread: 0.51%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000429
+🔄 Executing micro-arbitrage for 704 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011945
+   Sell at jupiter: $0.00011982
+   Spread: 0.31%
+💰 Trade size: 706 tokens
+💰 Expected profit: $0.000261
+🔄 Executing micro-arbitrage for 706 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000261 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1125 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at orca: $0.00011884
+   Sell at jupiter: $0.00012021
+   Spread: 1.16%
+💰 Trade size: 710 tokens
+💰 Expected profit: $0.000976
+🔄 Executing micro-arbitrage for 710 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011998
+   Sell at orca: $0.00012043
+   Spread: 0.38%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000316
+🔄 Executing micro-arbitrage for 703 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011956
+   Sell at jupiter: $0.00012023
+   Spread: 0.56%
+💰 Trade size: 705 tokens
+💰 Expected profit: $0.000470
+🔄 Executing micro-arbitrage for 705 tokens...
+✅ Trade executed successfully on raydium → jupiter
+✅ Arbitrage executed: +$0.000470 profit
+💰 Reinvesting $0.0005 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1130 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011968
+   Sell at orca: $0.00012099
+   Spread: 1.10%
+💰 Trade size: 705 tokens
+💰 Expected profit: $0.000928
+🔄 Executing micro-arbitrage for 705 tokens...
+❌ Trade failed - price moved before execution
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011972
+   Sell at orca: $0.00012033
+   Spread: 0.51%
+💰 Trade size: 704 tokens
+💰 Expected profit: $0.000426
+🔄 Executing micro-arbitrage for 704 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000426 profit
+💰 Reinvesting $0.0004 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1134 total profits reinvested
+🔄 Executing REAL arbitrage:
+   Buy at raydium: $0.00011999
+   Sell at orca: $0.00012038
+   Spread: 0.32%
+💰 Trade size: 703 tokens
+💰 Expected profit: $0.000268
+🔄 Executing micro-arbitrage for 703 tokens...
+✅ Trade executed successfully on raydium → orca
+✅ Arbitrage executed: +$0.000268 profit
+💰 Reinvesting $0.0003 into liquidity pool...
+⚠️ Profit too small to reinvest, accumulating...
+📊 Bot Status: $0.1137 total profits reinvested

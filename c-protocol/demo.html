@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C Protocol WorkChain Demo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .work-type-card {
+            transition: all 0.3s ease;
+        }
+        .work-type-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+        .soul-evolution {
+            background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c);
+            background-size: 400% 400%;
+            animation: gradient 3s ease infinite;
+        }
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .decay-animation {
+            animation: decay 2s ease-in-out infinite;
+        }
+        @keyframes decay {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="text-center mb-12">
+            <h1 class="text-5xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+                🔐 C Protocol WorkChain
+            </h1>
+            <p class="text-xl text-gray-300 mb-2">Currency Rewritten as Code. Belief as Consensus. Action as Mint.</p>
+            <p class="text-sm italic text-gray-400">"Users mine with motion. Not machines."</p>
+        </div>
+
+        <!-- Demo Controls -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-8">
+            <!-- Worker Profile -->
+            <div class="bg-gray-800 rounded-lg p-6">
+                <h2 class="text-2xl font-bold mb-4 flex items-center">
+                    👤 Worker Profile
+                </h2>
+                <div id="workerProfile" class="space-y-3">
+                    <div class="flex justify-between">
+                        <span>Level:</span>
+                        <span id="workerLevel" class="font-bold text-purple-400">1</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Trust Score:</span>
+                        <span id="trustScore" class="font-bold text-green-400">1000</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Work Completed:</span>
+                        <span id="workCompleted" class="font-bold">0</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Pending Tokens:</span>
+                        <span id="pendingTokens" class="font-bold text-yellow-400">0 $C</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Tokens Decayed:</span>
+                        <span id="tokensDecayed" class="font-bold text-red-400">0 $C</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Specialization:</span>
+                        <span id="specialization" class="font-bold text-blue-400">Generalist</span>
+                    </div>
+                </div>
+                
+                <!-- SoulKey Evolution Display -->
+                <div class="mt-6 p-4 soul-evolution rounded-lg text-center">
+                    <div class="text-6xl mb-2" id="soulAvatar">🌱</div>
+                    <div class="text-sm font-bold" id="soulDescription">Newborn Soul</div>
+                </div>
+                
+                <!-- Badges -->
+                <div id="badgeContainer" class="mt-4">
+                    <h3 class="text-sm font-bold mb-2">Achievement Badges:</h3>
+                    <div id="badges" class="flex flex-wrap gap-1"></div>
+                </div>
+            </div>
+
+            <!-- Work Actions -->
+            <div class="bg-gray-800 rounded-lg p-6">
+                <h2 class="text-2xl font-bold mb-4 flex items-center">
+                    ⚡ Record Work
+                </h2>
+                
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Work Type:</label>
+                        <select id="workTypeSelect" class="w-full bg-gray-700 rounded-lg p-2">
+                            <option value="OnboardUser">👥 Onboard User (0.0005 $C)</option>
+                            <option value="CreateContent">📝 Create Content (0.001 $C)</option>
+                            <option value="WriteCode">💻 Write Code (0.002 $C)</option>
+                            <option value="ReferClient">🤝 Refer Client (0.005 $C)</option>
+                            <option value="CloseDeal">💰 Close Deal (0.01 $C)</option>
+                            <option value="CommunityManagement">🌐 Community Management (0.00075 $C)</option>
+                            <option value="BugReport">🐛 Bug Report (0.0015 $C)</option>
+                            <option value="Documentation">📚 Documentation (0.0008 $C)</option>
+                            <option value="Marketing">📢 Marketing (0.0012 $C)</option>
+                            <option value="UserSupport">🎧 User Support (0.0006 $C)</option>
+                        </select>
+                    </div>
+                    
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Effort Weight (%):</label>
+                        <input type="range" id="effortWeight" min="50" max="200" value="100" 
+                               class="w-full" oninput="updateEffortDisplay()">
+                        <div class="text-center text-sm mt-1">
+                            <span id="effortDisplay">100%</span> of base emission
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Task Description:</label>
+                        <textarea id="taskDescription" rows="3" 
+                                class="w-full bg-gray-700 rounded-lg p-2 text-sm"
+                                placeholder="Describe the work completed..."></textarea>
+                    </div>
+                    
+                    <button onclick="recordWork()" 
+                            class="w-full bg-gradient-to-r from-purple-600 to-pink-600 py-2 rounded-lg font-semibold hover:from-purple-700 hover:to-pink-700 transition-all">
+                        Record Work & Emit Tokens
+                    </button>
+                </div>
+                
+                <!-- Cooldown Display -->
+                <div id="cooldownDisplay" class="hidden mt-4 p-3 bg-red-900/50 rounded-lg">
+                    <div class="text-sm">⏱️ Cooldown active for this work type</div>
+                    <div class="text-xs text-gray-400">Next available: <span id="cooldownTime"></span></div>
+                </div>
+            </div>
+
+            <!-- Protocol Stats -->
+            <div class="bg-gray-800 rounded-lg p-6">
+                <h2 class="text-2xl font-bold mb-4 flex items-center">
+                    📊 Protocol Stats
+                </h2>
+                
+                <div class="space-y-3">
+                    <div class="flex justify-between">
+                        <span>Total Work Recorded:</span>
+                        <span id="totalWork" class="font-bold">0</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Total Tokens Emitted:</span>
+                        <span id="totalEmitted" class="font-bold">0 $C</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Active Workers:</span>
+                        <span id="activeWorkers" class="font-bold">1</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span>Decay Rate:</span>
+                        <span class="font-bold text-red-400">1% per day</span>
+                    </div>
+                </div>
+                
+                <!-- Decay Simulation -->
+                <div class="mt-6">
+                    <button onclick="simulateDecay()" 
+                            class="w-full bg-red-600 py-2 rounded-lg font-semibold hover:bg-red-700 transition-all decay-animation">
+                        🔥 Simulate Token Decay
+                    </button>
+                    <div class="text-xs text-gray-400 mt-2 text-center">
+                        Simulates inactivity and token burning
+                    </div>
+                </div>
+                
+                <!-- Witness Consensus Demo -->
+                <div class="mt-4">
+                    <button onclick="witnessVote()" 
+                            class="w-full bg-blue-600 py-2 rounded-lg font-semibold hover:bg-blue-700 transition-all">
+                        🏛️ Cast Witness Vote
+                    </button>
+                    <div class="text-xs text-gray-400 mt-2 text-center">
+                        Participate in consensus mechanism
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Work History -->
+        <div class="bg-gray-800 rounded-lg p-6">
+            <h2 class="text-2xl font-bold mb-4">📜 Work History & Events</h2>
+            <div id="workHistory" class="space-y-2 max-h-64 overflow-y-auto">
+                <div class="text-gray-400 text-sm italic">No work recorded yet. Start by recording your first task!</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Demo State
+        let worker = {
+            level: 1,
+            trustScore: 1000,
+            workCompleted: 0,
+            pendingTokens: 0,
+            tokensDecayed: 0,
+            specialization: 'Generalist',
+            workTypes: {},
+            badges: [],
+            lastActivity: Date.now(),
+            cooldowns: {}
+        };
+
+        let protocol = {
+            totalWork: 0,
+            totalEmitted: 0,
+            activeWorkers: 1
+        };
+
+        // Work type configurations
+        const workTypes = {
+            OnboardUser: { emission: 0.0005, cooldown: 3600, emoji: '👥' },
+            CreateContent: { emission: 0.001, cooldown: 7200, emoji: '📝' },
+            WriteCode: { emission: 0.002, cooldown: 1800, emoji: '💻' },
+            ReferClient: { emission: 0.005, cooldown: 86400, emoji: '🤝' },
+            CloseDeal: { emission: 0.01, cooldown: 86400, emoji: '💰' },
+            CommunityManagement: { emission: 0.00075, cooldown: 3600, emoji: '🌐' },
+            BugReport: { emission: 0.0015, cooldown: 3600, emoji: '🐛' },
+            Documentation: { emission: 0.0008, cooldown: 3600, emoji: '📚' },
+            Marketing: { emission: 0.0012, cooldown: 3600, emoji: '📢' },
+            UserSupport: { emission: 0.0006, cooldown: 3600, emoji: '🎧' }
+        };
+
+        function updateEffortDisplay() {
+            const effort = document.getElementById('effortWeight').value;
+            document.getElementById('effortDisplay').textContent = effort;
+        }
+
+        function recordWork() {
+            const workType = document.getElementById('workTypeSelect').value;
+            const effortWeight = parseInt(document.getElementById('effortWeight').value);
+            const description = document.getElementById('taskDescription').value;
+
+            if (!description.trim()) {
+                alert('Please provide a task description!');
+                return;
+            }
+
+            // Check cooldown
+            const now = Date.now();
+            if (worker.cooldowns[workType] && now < worker.cooldowns[workType]) {
+                showCooldown(workType);
+                return;
+            }
+
+            // Calculate emission
+            const baseEmission = workTypes[workType].emission;
+            const actualEmission = (baseEmission * effortWeight) / 100;
+
+            // Update worker stats
+            worker.workCompleted++;
+            worker.pendingTokens += actualEmission;
+            worker.lastActivity = now;
+            worker.workTypes[workType] = (worker.workTypes[workType] || 0) + 1;
+            worker.cooldowns[workType] = now + (workTypes[workType].cooldown * 1000);
+
+            // Update protocol stats
+            protocol.totalWork++;
+            protocol.totalEmitted += actualEmission;
+
+            // Check for evolution
+            checkEvolution();
+
+            // Add to history
+            addToHistory(workType, effortWeight, actualEmission, description);
+
+            // Update UI
+            updateUI();
+
+            // Clear form
+            document.getElementById('taskDescription').value = '';
+            document.getElementById('effortWeight').value = 100;
+            updateEffortDisplay();
+
+            // Show success
+            showNotification(`Work recorded! Earned ${actualEmission.toFixed(4)} $C`, 'success');
+        }
+
+        function showCooldown(workType) {
+            const cooldownEnd = worker.cooldowns[workType];
+            const now = Date.now();
+            const remaining = Math.ceil((cooldownEnd - now) / 1000);
+            
+            document.getElementById('cooldownTime').textContent = `${remaining}s`;
+            document.getElementById('cooldownDisplay').classList.remove('hidden');
+            
+            setTimeout(() => {
+                document.getElementById('cooldownDisplay').classList.add('hidden');
+            }, 3000);
+        }
+
+        function simulateDecay() {
+            const decayAmount = worker.pendingTokens * 0.01; // 1% decay
+            worker.pendingTokens = Math.max(0, worker.pendingTokens - decayAmount);
+            worker.tokensDecayed += decayAmount;
+            
+            if (decayAmount > 0) {
+                addToHistory('Decay', 0, -decayAmount, 'Token decay applied due to inactivity');
+                showNotification(`${decayAmount.toFixed(4)} $C decayed due to inactivity`, 'warning');
+            }
+            
+            updateUI();
+        }
+
+        function witnessVote() {
+            worker.trustScore += 10;
+            addToHistory('Witness', 0, 0, 'Cast witness vote in consensus mechanism');
+            showNotification('Witness vote recorded! +10 trust score', 'info');
+            updateUI();
+        }
+
+        function checkEvolution() {
+            const oldLevel = worker.level;
+            
+            // Level up based on work completed
+            worker.level = Math.min(Math.floor(worker.workCompleted / 5) + 1, 50);
+            
+            // Check for badges
+            if (worker.workCompleted >= 10 && !worker.badges.includes('ConsistentWorker')) {
+                worker.badges.push('ConsistentWorker');
+                showNotification('Badge earned: Consistent Worker! 🏆', 'success');
+            }
+            
+            if (worker.trustScore >= 2000 && !worker.badges.includes('TrustWorthy')) {
+                worker.badges.push('TrustWorthy');
+                showNotification('Badge earned: Trustworthy! ✨', 'success');
+            }
+            
+            // Update specialization
+            const dominantType = Object.keys(worker.workTypes).reduce((a, b) => 
+                worker.workTypes[a] > worker.workTypes[b] ? a : b, 'OnboardUser');
+            worker.specialization = dominantType.replace(/([A-Z])/g, ' $1').trim();
+            
+            if (worker.level > oldLevel) {
+                showNotification(`Level up! Now level ${worker.level}`, 'success');
+            }
+        }
+
+        function addToHistory(workType, effort, emission, description) {
+            const history = document.getElementById('workHistory');
+            const timestamp = new Date().toLocaleTimeString();
+            
+            let emoji = workTypes[workType]?.emoji || '⚡';
+            let color = emission > 0 ? 'text-green-400' : emission < 0 ? 'text-red-400' : 'text-blue-400';
+            
+            const entry = document.createElement('div');
+            entry.className = 'text-sm p-2 bg-gray-700 rounded flex justify-between items-start';
+            entry.innerHTML = `
+                <div>
+                    <span class="font-bold">${emoji} ${workType}</span>
+                    <div class="text-xs text-gray-400">${description}</div>
+                </div>
+                <div class="text-right">
+                    <div class="${color} font-bold">
+                        ${emission > 0 ? '+' : ''}${emission.toFixed(4)} $C
+                    </div>
+                    <div class="text-xs text-gray-400">${timestamp}</div>
+                </div>
+            `;
+            
+            // Add to top
+            if (history.firstChild && !history.firstChild.classList.contains('italic')) {
+                history.insertBefore(entry, history.firstChild);
+            } else {
+                history.innerHTML = '';
+                history.appendChild(entry);
+            }
+        }
+
+        function updateUI() {
+            document.getElementById('workerLevel').textContent = worker.level;
+            document.getElementById('trustScore').textContent = worker.trustScore;
+            document.getElementById('workCompleted').textContent = worker.workCompleted;
+            document.getElementById('pendingTokens').textContent = worker.pendingTokens.toFixed(4) + ' $C';
+            document.getElementById('tokensDecayed').textContent = worker.tokensDecayed.toFixed(4) + ' $C';
+            document.getElementById('specialization').textContent = worker.specialization;
+            
+            document.getElementById('totalWork').textContent = protocol.totalWork;
+            document.getElementById('totalEmitted').textContent = protocol.totalEmitted.toFixed(4) + ' $C';
+            
+            // Update soul avatar
+            updateSoulAvatar();
+            
+            // Update badges
+            updateBadges();
+        }
+
+        function updateSoulAvatar() {
+            const soulAvatar = document.getElementById('soulAvatar');
+            const soulDescription = document.getElementById('soulDescription');
+            
+            if (worker.level >= 20) {
+                soulAvatar.textContent = '🌟';
+                soulDescription.textContent = 'Enlightened Soul';
+            } else if (worker.level >= 15) {
+                soulAvatar.textContent = '🔮';
+                soulDescription.textContent = 'Mystic Soul';
+            } else if (worker.level >= 10) {
+                soulAvatar.textContent = '🌺';
+                soulDescription.textContent = 'Blooming Soul';
+            } else if (worker.level >= 5) {
+                soulAvatar.textContent = '🌿';
+                soulDescription.textContent = 'Growing Soul';
+            } else {
+                soulAvatar.textContent = '🌱';
+                soulDescription.textContent = 'Newborn Soul';
+            }
+        }
+
+        function updateBadges() {
+            const badgeContainer = document.getElementById('badges');
+            badgeContainer.innerHTML = '';
+            
+            const badgeEmojis = {
+                'ConsistentWorker': '🏆',
+                'TrustWorthy': '✨',
+                'CodeMaster': '💻',
+                'CommunityBuilder': '🌐'
+            };
+            
+            worker.badges.forEach(badge => {
+                const badgeEl = document.createElement('span');
+                badgeEl.className = 'inline-block bg-yellow-600 text-xs px-2 py-1 rounded';
+                badgeEl.textContent = `${badgeEmojis[badge] || '🎖️'} ${badge}`;
+                badgeContainer.appendChild(badgeEl);
+            });
+            
+            if (worker.badges.length === 0) {
+                badgeContainer.innerHTML = '<span class="text-gray-500 text-xs">No badges yet</span>';
+            }
+        }
+
+        function showNotification(message, type) {
+            const colors = {
+                success: 'bg-green-600',
+                warning: 'bg-yellow-600',
+                info: 'bg-blue-600',
+                error: 'bg-red-600'
+            };
+            
+            const notification = document.createElement('div');
+            notification.className = `fixed top-4 right-4 ${colors[type]} text-white px-4 py-2 rounded-lg shadow-lg z-50 transition-all`;
+            notification.textContent = message;
+            
+            document.body.appendChild(notification);
+            
+            setTimeout(() => {
+                notification.style.opacity = '0';
+                setTimeout(() => document.body.removeChild(notification), 300);
+            }, 3000);
+        }
+
+        // Initialize UI
+        updateUI();
+    </script>
+</body>
+</html>

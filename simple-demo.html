@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$GOR Coin Flip Game - Demo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .coin {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #ffd700, #ffed4e);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            margin: 20px auto;
+            transition: transform 0.6s;
+        }
+        
+        .coin.flipping {
+            animation: flip 1s ease-in-out;
+        }
+        
+        @keyframes flip {
+            0% { transform: rotateY(0deg); }
+            50% { transform: rotateY(180deg); }
+            100% { transform: rotateY(360deg); }
+        }
+        
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+    </style>
+</head>
+<body class="gradient-bg min-h-screen text-white">
+    <div class="container mx-auto px-4 py-8">
+        <div class="text-center mb-8">
+            <h1 class="text-4xl font-bold mb-4">🪙 $GOR Coin Flip Game</h1>
+            <p class="text-xl opacity-80">Test your luck on the Gorbagana chain!</p>
+        </div>
+
+        <div class="max-w-md mx-auto bg-white/10 rounded-lg p-6 backdrop-blur-sm">
+            <!-- Wallet Connection Demo -->
+            <div class="mb-6">
+                <button id="connectWallet" class="w-full py-3 px-4 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg font-semibold hover:from-purple-700 hover:to-pink-700 transition-all">
+                    Connect Wallet
+                </button>
+                <div id="walletInfo" class="hidden mt-2 text-sm bg-green-500/20 p-2 rounded">
+                    ✅ Wallet Connected: 2HE4...vVQg (Demo)
+                </div>
+            </div>
+
+            <!-- Bet Input -->
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2">Bet Amount ($GOR)</label>
+                <input 
+                    id="betAmount" 
+                    type="number" 
+                    value="0.01" 
+                    min="0.001" 
+                    max="1" 
+                    step="0.001"
+                    class="w-full px-3 py-2 bg-white/20 rounded-lg text-white placeholder-white/50"
+                    placeholder="Enter bet amount"
+                >
+            </div>
+
+            <!-- Coin Display -->
+            <div class="text-center mb-6">
+                <div id="coin" class="coin">🪙</div>
+                <p id="coinStatus" class="text-sm opacity-70">Choose your side and flip!</p>
+            </div>
+
+            <!-- Choice Buttons -->
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-4">Choose your side:</label>
+                <div class="flex gap-4">
+                    <button id="headsBtn" class="choice-btn flex-1 py-3 px-4 rounded-lg font-semibold bg-white/20 hover:bg-white/30 transition-all">
+                        🪙 HEADS
+                    </button>
+                    <button id="tailsBtn" class="choice-btn flex-1 py-3 px-4 rounded-lg font-semibold bg-white/20 hover:bg-white/30 transition-all">
+                        🪙 TAILS
+                    </button>
+                </div>
+            </div>
+
+            <!-- Flip Button -->
+            <button id="flipBtn" class="w-full py-3 px-4 rounded-lg font-semibold bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 transition-all disabled:bg-gray-600 disabled:cursor-not-allowed">
+                Flip Coin!
+            </button>
+
+            <!-- Game Results -->
+            <div id="gameResult" class="hidden mt-6 p-4 bg-white/10 rounded-lg text-center">
+                <h3 class="text-lg font-semibold mb-2">Game Result</h3>
+                <p id="playerChoice" class="mb-1"></p>
+                <p id="coinResult" class="mb-2"></p>
+                <p id="gameOutcome" class="font-bold"></p>
+                <p id="payoutInfo" class="text-sm mt-2 opacity-70"></p>
+            </div>
+
+            <!-- Game Stats -->
+            <div id="gameStats" class="mt-6 p-4 bg-white/10 rounded-lg text-center text-sm">
+                <div class="grid grid-cols-3 gap-4">
+                    <div>
+                        <div class="font-bold" id="totalGames">0</div>
+                        <div class="opacity-70">Games</div>
+                    </div>
+                    <div>
+                        <div class="font-bold" id="wins">0</div>
+                        <div class="opacity-70">Wins</div>
+                    </div>
+                    <div>
+                        <div class="font-bold" id="winRate">0%</div>
+                        <div class="opacity-70">Win Rate</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center mt-8 text-sm opacity-70">
+            <p>House Edge: 2% | Min Bet: 0.001 $GOR | Max Bet: 1 $GOR</p>
+            <p class="mt-2">🔗 Demo Interface - Connect for real gameplay</p>
+        </div>
+    </div>
+
+    <script>
+        let isConnected = false;
+        let selectedChoice = null;
+        let isFlipping = false;
+        let gameStats = { total: 0, wins: 0 };
+
+        // Elements
+        const connectWallet = document.getElementById('connectWallet');
+        const walletInfo = document.getElementById('walletInfo');
+        const coin = document.getElementById('coin');
+        const coinStatus = document.getElementById('coinStatus');
+        const headsBtn = document.getElementById('headsBtn');
+        const tailsBtn = document.getElementById('tailsBtn');
+        const flipBtn = document.getElementById('flipBtn');
+        const gameResult = document.getElementById('gameResult');
+        const betAmount = document.getElementById('betAmount');
+
+        // Wallet Connection
+        connectWallet.addEventListener('click', () => {
+            if (!isConnected) {
+                isConnected = true;
+                connectWallet.textContent = 'Wallet Connected ✅';
+                connectWallet.classList.add('bg-green-600');
+                walletInfo.classList.remove('hidden');
+                updateFlipButton();
+            }
+        });
+
+        // Choice Selection
+        headsBtn.addEventListener('click', () => selectChoice(true, headsBtn));
+        tailsBtn.addEventListener('click', () => selectChoice(false, tailsBtn));
+
+        function selectChoice(choice, button) {
+            selectedChoice = choice;
+            
+            // Reset all buttons
+            document.querySelectorAll('.choice-btn').forEach(btn => {
+                btn.classList.remove('bg-yellow-500', 'text-black');
+                btn.classList.add('bg-white/20');
+            });
+            
+            // Highlight selected
+            button.classList.remove('bg-white/20');
+            button.classList.add('bg-yellow-500', 'text-black');
+            
+            updateFlipButton();
+        }
+
+        function updateFlipButton() {
+            const canFlip = isConnected && selectedChoice !== null && !isFlipping && betAmount.value;
+            flipBtn.disabled = !canFlip;
+        }
+
+        // Coin Flip Logic
+        flipBtn.addEventListener('click', async () => {
+            if (isFlipping) return;
+            
+            isFlipping = true;
+            flipBtn.textContent = 'Flipping...';
+            flipBtn.disabled = true;
+            
+            // Animate coin
+            coin.classList.add('flipping');
+            coinStatus.textContent = 'Flipping...';
+            
+            // Simulate random result (in real version, this comes from blockchain)
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            
+            const result = Math.random() < 0.5; // true = heads, false = tails
+            const won = selectedChoice === result;
+            const bet = parseFloat(betAmount.value);
+            
+            // Update coin display
+            coin.textContent = result ? '👑' : '⚡';
+            coin.classList.remove('flipping');
+            
+            // Show results
+            showGameResult(selectedChoice, result, won, bet);
+            
+            // Update stats
+            gameStats.total++;
+            if (won) gameStats.wins++;
+            updateStats();
+            
+            // Reset for next game
+            setTimeout(() => {
+                isFlipping = false;
+                flipBtn.textContent = 'Flip Again!';
+                updateFlipButton();
+                coinStatus.textContent = 'Ready for next flip!';
+            }, 3000);
+        });
+
+        function showGameResult(choice, result, won, bet) {
+            const playerChoice = document.getElementById('playerChoice');
+            const coinResult = document.getElementById('coinResult');
+            const gameOutcome = document.getElementById('gameOutcome');
+            const payoutInfo = document.getElementById('payoutInfo');
+            
+            playerChoice.textContent = `You chose: ${choice ? 'HEADS' : 'TAILS'}`;
+            coinResult.textContent = `Result: ${result ? 'HEADS' : 'TAILS'}`;
+            
+            if (won) {
+                const houseEdge = bet * 0.02;
+                const payout = (bet * 2) - houseEdge;
+                gameOutcome.textContent = '🎉 YOU WON!';
+                gameOutcome.className = 'font-bold text-green-400';
+                payoutInfo.textContent = `Payout: ${payout.toFixed(3)} $GOR (${bet} bet + ${(payout - bet).toFixed(3)} winnings)`;
+            } else {
+                gameOutcome.textContent = '😔 YOU LOST';
+                gameOutcome.className = 'font-bold text-red-400';
+                payoutInfo.textContent = `Lost: ${bet} $GOR`;
+            }
+            
+            gameResult.classList.remove('hidden');
+        }
+
+        function updateStats() {
+            document.getElementById('totalGames').textContent = gameStats.total;
+            document.getElementById('wins').textContent = gameStats.wins;
+            const winRate = gameStats.total > 0 ? ((gameStats.wins / gameStats.total) * 100).toFixed(1) : 0;
+            document.getElementById('winRate').textContent = `${winRate}%`;
+        }
+
+        // Update flip button when bet amount changes
+        betAmount.addEventListener('input', updateFlipButton);
+    </script>
+</body>
+</html>

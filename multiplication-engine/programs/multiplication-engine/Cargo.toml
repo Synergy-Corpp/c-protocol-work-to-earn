@@ -1,0 +1,12 @@
+[package]
+name = "multiplication-engine"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "multiplication_engine"
+
+[dependencies]
+anchor-lang = "0.31.1"
+anchor-spl = "0.31.1"

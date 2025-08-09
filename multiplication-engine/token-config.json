@@ -1,0 +1,11 @@
+{
+  "symbol": "$C",
+  "name": "C Protocol Token",
+  "totalSupply": 1000000000,
+  "founderAllocation": 300000000,
+  "protocolReserve": 700000000,
+  "decimals": 9,
+  "founderWallet": "BbBg...CgAn",
+  "created": "2025-07-29T21:53:26.648Z",
+  "status": "ready_for_mainnet_deployment"
+}

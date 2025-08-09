@@ -1,0 +1,16 @@
+{
+  "cToken": "FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP",
+  "authority": "BPYapeoALDbgotQvFfxmjALjpzmF2fWsDwYpctFraxjp",
+  "pools": [
+    {
+      "success": true,
+      "symbol": "SOL",
+      "cTokenAccount": "7v3RkLvikBh2xRPcryZTj24Mp7EvhwKAfbozvStjXttZ",
+      "pairedTokenAccount": "DAASgfFizaE2fky8hidVs9wKY9QGtKXHoXtWN5BDDMdT",
+      "poolId": "FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP_So11111111111111111111111111111111111111112"
+    }
+  ],
+  "created": "2025-07-29T23:25:57.976Z",
+  "totalCTokensAllocated": 100000,
+  "estimatedValue": 30
+}

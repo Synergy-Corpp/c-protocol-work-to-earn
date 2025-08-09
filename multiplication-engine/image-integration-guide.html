@@ -1,0 +1,31 @@
+<!-- Add this to your index.html <head> section -->
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+<!-- Add these image elements where needed -->
+<img src="images/logo.png" alt="C Token Logo" class="token-logo">
+<img src="icons/sol-icon.png" alt="Solana" class="dex-icon">
+<img src="icons/raydium-icon.png" alt="Raydium" class="dex-icon">
+
+<!-- Add background image -->
+<div class="bg-animation" style="background-image: url('images/background.jpg');">
+
+<!-- CSS for responsive images -->
+<style>
+.token-logo {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    glow-effect: 0 0 20px var(--primary-glow);
+}
+
+.dex-icon {
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+}
+
+@media (max-width: 768px) {
+    .token-logo { width: 48px; height: 48px; }
+    .dex-icon { width: 24px; height: 24px; }
+}
+</style>

@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-07-30T08:02:25.080Z",
+    "mevType": "ARBITRAGE_PROFIT",
+    "solDeposited": 0.9681117532032244,
+    "usdValue": 232.34682076877385,
+    "signature": "H5gvehUxfuj8DGB0BQqarm6fUVosrkDqjjyHOjQ4PncTWkXhUvhrT0PRnpIt4i0ZtcBtWLgCldrA32oW3qaZ8H0N",
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:02:55.119Z",
+    "mevType": "FAILED_TX_FEES",
+    "solDeposited": 0.0028442039465867725,
+    "usdValue": 0.6826089471808254,
+    "signature": "CbmKlIHUnJji37AL7Hskvizw0vhTUDGsFguzPV6Bjm7gumK1akogS4HMsXSuB3MKeNNksQ6C97bRHMEiSemYYFqS",
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:03:10.159Z",
+    "mevType": "ARBITRAGE_PROFIT",
+    "solDeposited": 0.748599937069526,
+    "usdValue": 179.66398489668623,
+    "signature": "xX4ECoCAgZFFsSqbQAQX2P5wcv3xpZoMJfSi7rzoxFjCTrR5KaIxVu4NPeUsqUPvETzfy39mGiEjqkeD1RZhENYc",
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:29:48.209Z",
+    "executionNumber": 7,
+    "mevType": "REAL_FLASHLOAN_ARBITRAGE",
+    "realProfitSOL": 0.20999500000000004,
+    "realProfitUSD": 50.39880000000001,
+    "status": "REAL_MEV_EXECUTED"
+  }
+]

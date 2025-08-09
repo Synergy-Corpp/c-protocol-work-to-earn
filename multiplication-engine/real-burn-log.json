@@ -1,0 +1,4352 @@
+[
+  {
+    "timestamp": "2025-07-30T04:03:51.089Z",
+    "signature": "bJiCPqggWuqrS8SWSr21C5DcywrNFhfVyHCCpqcRCDUN5f147QSNCFZBbSQuagAdsnDbVijkDDM1RAzcZen7wcc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 1000000000,
+    "newSupply": 999000000,
+    "cycle": 1,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:14:50.260Z",
+    "signature": "2qy5eqrt89WaAKib12Ys257f3cewjwHd63D7PMvza9ividaYkRfUBCesqcwdBKTLVwNF3Lwpy9oJjfqpDjdtmvsu",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 999000000,
+    "newSupply": 998000000,
+    "cycle": 1,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:19:53.251Z",
+    "signature": "4sT3KYeeghJ4NStL9bxCVsy2G8t2r2uVkrUqCwv64C5cMdyMQFaJ47YmFAtK6fqs9HShCfKW5F6X8gJbi1oreQy1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 998000000,
+    "newSupply": 997000000,
+    "cycle": 2,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:24:54.299Z",
+    "signature": "3raJBqK7Y9MupGbucjhozL7E3Vx4hZ3ftYakc3xeC5BA7XoNfKRRiBG5kbpQg4ZCWMBagTv22WrcYa89qFhtFQkk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 997000000,
+    "newSupply": 996000000,
+    "cycle": 3,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:29:52.948Z",
+    "signature": "3u7JCqrmPj12vMqrUW1Ph7FoVRaG4ztZHAf8hzLPFiLfD6jK9AhbKHWfpEwYadTQCWto8jUvGMpEX1ivYvdnVmnv",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 996000000,
+    "newSupply": 995000000,
+    "cycle": 4,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:34:52.700Z",
+    "signature": "4fPvgCbMxEmnEiZsjTY91XhJkmW9fFLTTa71bUGvMU191iCJfEP4QErQcttFdm8cdEugki9PQ1fwh9Z6FbYz8vTf",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 995000000,
+    "newSupply": 994000000,
+    "cycle": 5,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:39:52.939Z",
+    "signature": "4v364jWwyarQTupzrLmmbZAiYrgCu1oW5fX2eLjtkzADHuZuvh5MMZNkA5oVwUEkNne94amHfL4LGg95P7ZZpgMr",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 994000000,
+    "newSupply": 993000000,
+    "cycle": 6,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:44:53.092Z",
+    "signature": "5L7ML9XWNV7d6rjkMGS1SLA4czXPkC9gpk3aMymmxbeWRy9m2jQXiSUKH8Gh4TrZ1qSyG8bJGuQV25nDhwEEaKkh",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 993000000,
+    "newSupply": 992000000,
+    "cycle": 7,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:49:57.062Z",
+    "signature": "5D3u7KMitQZuW1CjkHihQZm6miZyxcLbmEAmrHeFEBvTa3PCKfFsUXJqTJDLDAVMr7Hsb6RKLkPZrKTfmFws5vCP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 992000000,
+    "newSupply": 991000000,
+    "cycle": 8,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:54:52.678Z",
+    "signature": "5LEt1qCaTKRxbtuVWS27tJg5fPnCtZMpjNUhwd9Eo3cxRzMCforPGyAx1VjdY58RQaD2WzJpJWjAADSDwL7E2q8v",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 991000000,
+    "newSupply": 990000000,
+    "cycle": 9,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T04:59:53.289Z",
+    "signature": "31r752gxkWwwzj4jRk7TAs9tRBADQTcjkBSnmHmxQJdgmY7sAssk3Cy56EKd8rjU5QFnAoXQBXXu44nZGB2r1Ns9",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 990000000,
+    "newSupply": 989000000,
+    "cycle": 10,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:04:54.017Z",
+    "signature": "3FArsZTWULDVbK6vGVKvPZTxk7PyGYHdc8P1mmWe5KEwP4cN8DojVhUF8VsAJq3LtkHwA2rXqU8Hu6RX49EEARbT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 989000000,
+    "newSupply": 988000000,
+    "cycle": 11,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:09:55.667Z",
+    "signature": "4411rB9vfQPFMwxh6y21APQCdhb66EGfNibRGDG5aT1TF3hFZvJXhPDHbfjNzaPLC73ZZPUkAwjH7xb2euz1yRfo",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 988000000,
+    "newSupply": 987000000,
+    "cycle": 12,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:14:55.893Z",
+    "signature": "HybQbY9EehoHffoVBxgjNG5dw5Tydjfme3c5vzdCovDRVvnvyzKkoL5sT8ezSKDpCwzgRB5bVirmpeZFhpBYyi7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 987000000,
+    "newSupply": 986000000,
+    "cycle": 13,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:19:52.872Z",
+    "signature": "EDGiy8ZkdDZNmnZCkX7WmJg9hs1XGK6BEMiLry4imnSXFDzQQm9Nw36HXFYNKyDZD8uLcvyH5jdpuDraRrpaneR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 986000000,
+    "newSupply": 985000000,
+    "cycle": 14,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:24:53.601Z",
+    "signature": "4nB2wuda9vBKcjJc48UkhePsLdZ8VvsjnfWBUiPa3HMxFUhEvnoXScAWf5RbCiiGzScUFkybstu1cVAb7D2A85Pn",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 985000000,
+    "newSupply": 984000000,
+    "cycle": 15,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:29:55.409Z",
+    "signature": "4o5DnqYrtqGSJMkriZrNahfxWr8ZoKPawhRnC23j7aTyip6TyeSqk5A66aPzoyvpjGkuh1cw8LKqwNjybbniALWy",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 984000000,
+    "newSupply": 983000000,
+    "cycle": 16,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:34:53.690Z",
+    "signature": "5pZgQoVJofGz7shNAtG3FPn5Lk1ABn2tAtM61PpRHNxFG5Z83MJyaiF1fUDkhW3dQ9tx97jTnoSaPbswyADuiuB6",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 983000000,
+    "newSupply": 982000000,
+    "cycle": 17,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:39:53.797Z",
+    "signature": "3ozP8KED4jeQkbL6s3RUs8Wea1LEA9YyRTG7eWPc9HNYrXn33YvP8HRD5QNkiheg6u9faMPcrXgb9Kkaczt6DSSA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 982000000,
+    "newSupply": 981000000,
+    "cycle": 18,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:44:53.047Z",
+    "signature": "5z6C3NQLv8h1nJdbvfJwXL8izGxDqEzt59gUgtemMxtCip5fYVhWQriPzwL91sP7wZNEVPRu7D3a9Kp66imRN1qg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 981000000,
+    "newSupply": 980000000,
+    "cycle": 19,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:49:53.991Z",
+    "signature": "5evYc7AVvNMU4EPaKrwMDDkVvTD7dgrvqQYvUYckQjLe94xaRLCC8zciysMDxdPX73eWzFtamjcUb25oTE5GcWyZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 980000000,
+    "newSupply": 979000000,
+    "cycle": 20,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T05:54:55.293Z",
+    "signature": "MfX5DvLUTUyisBGy9hrufZ8hYaXSQa1R3jCP7amJdC1Qmv7f1AzVYPGZdgX4f6S34VRaF82dTGSBJAZgtJ8Myy6",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 979000000,
+    "newSupply": 978000000,
+    "cycle": 21,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:08:39.038Z",
+    "signature": "351iwQGvKApgSiTNKLTSYxFmpr11R2v13cFxkspw65kaF3AnLTefr6rcrnjxcn3mrA2ZNXCjM6Wwqtr5hBWrF1vi",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 978000000,
+    "newSupply": 977000000,
+    "cycle": 1,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:13:48.134Z",
+    "signature": "45ZeP5xvekZNhG5vajL3BLvPvgcTQJuJu48vKc138AkYP1Ca7Koeh3aPoCV25rvcSw3mZrCpzF18VKeTsCUVqMwb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 977000000,
+    "newSupply": 976000000,
+    "cycle": 2,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:18:42.129Z",
+    "signature": "4JDEJAsNJcEVbukze4okep4T6vzVxv53ktZh5a9WFodyVKeHGx1CE6CaMLBFKVSvuWqF2kLLqq4mYS58BuyUck93",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 976000000,
+    "newSupply": 975000000,
+    "cycle": 3,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:23:43.742Z",
+    "signature": "3SxVmKPSCkmVMdrksLJrKHFDStumkxvRZpomxRPHzVwWjMCYNvgYw2r8E8JzcRZKtsuZC8fwoSmyXkNF3GW9RdkK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 975000000,
+    "newSupply": 974000000,
+    "cycle": 4,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:28:41.528Z",
+    "signature": "3ywczDVeBFPmUPaxmKEQeNMb6T9BSPs9UycB18bCBEBpMNExPJUcSZihB3uffMDs4KrqxPnZD2mAi24q6mQdidiX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 974000000,
+    "newSupply": 973000000,
+    "cycle": 5,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:33:44.948Z",
+    "signature": "3RgR8r5wD1GeR5uiYfuxpKDfE1meHy6Y8R98XJPKQAq5j351hvsPPwW442A7r85qa96G37rsk7NZADfjTap1s3BK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 973000000,
+    "newSupply": 972000000,
+    "cycle": 6,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:38:42.143Z",
+    "signature": "fYe3C3zmYty969aDcp9saNW8akP2zZiYVN962vux9S4cSWrYeTRfEYgwr2qhjCyQdBi8TarjrfV4fW1tqSEf5tG",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 972000000,
+    "newSupply": 971000000,
+    "cycle": 7,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:43:48.891Z",
+    "signature": "4AyD3LLXZhPsVr8QRJWFdJqTtmyU98ukjmprvH6u82WwESz4y6H2uVe51CzjuKFMbxuZW4cWpz6qryj4MFD1ECBu",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 971000000,
+    "newSupply": 970000000,
+    "cycle": 8,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:48:42.488Z",
+    "signature": "26PGspjoLc9RrYB9asDHjARQuXCJd7LbpUvqsRpzVSjQD58mhMtYRF2aWTqTabecVhZEYNepCYZGvgdx9T6pgLjo",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 970000000,
+    "newSupply": 969000000,
+    "cycle": 9,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:53:41.577Z",
+    "signature": "2DX4ivpt5kyYiAiS3epYyVS3Bxmpcg7WiyCGEfxnJEeNhGHA1EmL9WxMofduU75Aw7WKUJpycFzpRGEW2JFiRvkE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 969000000,
+    "newSupply": 968000000,
+    "cycle": 10,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T06:58:42.905Z",
+    "signature": "586uD51WQDspcyWfSES3n43ryRRE32p5TPzJqUJJXjnQaJzVCU9Dj7aoWiGW9Gzz6BKWywDksJcfsXQ9r2U9YXXG",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 968000000,
+    "newSupply": 967000000,
+    "cycle": 11,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:03:41.153Z",
+    "signature": "3kEn9BA7YQHtQ8B5iarGg5bJbbbEhbA3QFHoAdpvidvqujhnaX4V53bVDHXKfA8SLkqGbnaw57hhPT7TrvNhzy9G",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 967000000,
+    "newSupply": 966000000,
+    "cycle": 12,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:08:43.571Z",
+    "signature": "SrpoHzaqxQzZR9RzCEdA41uZs1nj6YB1SVg3UEYHkGBwBi7eqSmiTYK5oBXnDXkv1zLioq9SJWR3JYktV9V65Lc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 966000000,
+    "newSupply": 965000000,
+    "cycle": 13,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:13:43.571Z",
+    "signature": "CfwNYeUznke1xjsCmVY7h6TupcdtUbXDFCRiw3xLHoMFuVKRMDx1ni63y739jKQAhuLhLa6Cm4vRQBT2vmGSoBt",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 965000000,
+    "newSupply": 964000000,
+    "cycle": 14,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:18:43.050Z",
+    "signature": "ZqWyP3Mw2eYCXijxmdUFYBpUbFYKtfXVM86bUgxYw9uhjeTMeDEj8GGkpBmbfKtSSfUtFyMezLeT7e17T3ytEqS",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 964000000,
+    "newSupply": 963000000,
+    "cycle": 15,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:23:45.817Z",
+    "signature": "3iTcacsobYGU8x8bmcHHZZZEy4f8BsMVzjYA1HBw458JMmogNu9kNrBjUxybMNv5x5znj4djmYpGiEYtWc26netD",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 963000000,
+    "newSupply": 962000000,
+    "cycle": 16,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:28:42.226Z",
+    "signature": "5m98YRbBv2BLMgzS88bU75oMAn4eMsRqxQF3XHJTnVRSj1NQS6top8VkGFDtaJ74Bf8sjbS4pRPgwkKNcyKj5BtC",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 962000000,
+    "newSupply": 961000000,
+    "cycle": 17,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:33:41.807Z",
+    "signature": "33zGBRsfj6xDW6a6B94PYosjJmoM9medYpbe98vhGwygxr5Lz2PuwMDgzN9xqRgQDzTQP8BmhDF4EensWsT8xY78",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 961000000,
+    "newSupply": 960000000,
+    "cycle": 18,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:38:41.698Z",
+    "signature": "4QzhutrzKRfjFif32fmjemgBGuoEsgvLAt9asEe2h7KVMgqz4DgCAt2uQpTRHdeEo9bKfhDQoWJH5ySPGz1J9zTP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 960000000,
+    "newSupply": 959000000,
+    "cycle": 19,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:43:42.123Z",
+    "signature": "2UGZM6t5bso51ZRhb53UQxGtLh7vwX97QABmH72Xp52ppwXyaVU7eFPbkHHBGDoWAtURvVsYrgJVKSm9zi4fz9m5",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 959000000,
+    "newSupply": 958000000,
+    "cycle": 20,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:48:42.521Z",
+    "signature": "62VTSkDT67N65vwXtFVv98WX9iZDayJf53QMcD9KzTTfXkPGg9QzdNSxbKHfGcmgqXmdKtnkxyunwc1K7mPzMZ1N",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 958000000,
+    "newSupply": 957000000,
+    "cycle": 21,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:53:42.573Z",
+    "signature": "2X5BbrN2XLaRGoxqvh74qaePGxj8u5TqguCTFVf6y6GG2RBymC1yw9BapPQ7eRAkVWUUrFBAeytiHo1oR7JwNYuR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 957000000,
+    "newSupply": 956000000,
+    "cycle": 22,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T07:58:42.200Z",
+    "signature": "2YogrhNXGc3Xcxjz1AJ6f8FuHYeV8JzY99X1faGsUbdYXw2V9EftqaeD2xLXxX263uH1jWVboLvDZW1F15XCqxLC",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 956000000,
+    "newSupply": 955000000,
+    "cycle": 23,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:03:46.727Z",
+    "signature": "5G3MGVino45xA21wGZ8LAWLARfs1s9r2mDAok2RzXDXyQ15xzRGc9x2Mgxcd3aD4UVPNYWdbmDMfJSBkMzLvzorc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 955000000,
+    "newSupply": 954000000,
+    "cycle": 24,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:08:48.654Z",
+    "signature": "2YWbNHpmoGHw1aBEJxKCma453qZKEszvbMbJrE2YfXcjx8xYz17NSu3nLPawyWXsMbVBb6eCYXpAQmXtRUvohKC7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 954000000,
+    "newSupply": 953000000,
+    "cycle": 25,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:13:45.128Z",
+    "signature": "23QUW42pTyKxa8eiiuDBUVzzCMzLNLzwHjBMcBbhLcbUBiuGacwMHyfsE5VHAvXk6tRCGHBCQJKcriPKSRFnxxRq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 953000000,
+    "newSupply": 952000000,
+    "cycle": 26,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:18:45.747Z",
+    "signature": "3Er3rc9pGfTafc4Z2qwp1jGYEKSS4i4fahCY1oqkqxhwPd3hEs53wwCoeea1aJokfPExBKLxfMUy777LsrDCZRvp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 952000000,
+    "newSupply": 951000000,
+    "cycle": 27,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:23:42.888Z",
+    "signature": "3kHnu3M8HSmRV4D8aZqhqQRHZxEZLUcNzUtTcEf9cP3M6eQYVhR9ADwvq9FpdZ1Q6gwp23HmB5f7URUar7rCQ7Up",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 951000000,
+    "newSupply": 950000000,
+    "cycle": 28,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:28:43.498Z",
+    "signature": "2kSkZW8AJ8dumpQVaDGfBpgRfwtXcQeXouf93wzD4jWDAkuoUhxdzTgJVjMdhfFNrCqLc2bk7PFcaYfXhwLb5dkX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 950000000,
+    "newSupply": 949000000,
+    "cycle": 29,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:33:43.322Z",
+    "signature": "32Xvd32Dw4z62eQK7xeHywFcRhhgXxwYhrLxp2CHDLNLugbeBZnvxq4HK2dsHa8ZSNF8hueTqPtmeGfL5HvAxuLW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 949000000,
+    "newSupply": 948000000,
+    "cycle": 30,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:38:44.967Z",
+    "signature": "2zkkxjuR6Q2EuC32we9j9kFmLiQMG6xJCn4APCZUk4YEZd8jgjZ3MYuCzR5ea6UNaVqiByfbxXv5q3zv76cMbhfR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 948000000,
+    "newSupply": 947000000,
+    "cycle": 31,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:43:45.563Z",
+    "signature": "xbuHRPWkKFbe6eDgBL5CNW2s98pfs7Wdug1rR9MdgiUUbottCbFNwbSd7UY3DtwH4Tqyfu5UKoqDgSje5h6iJsS",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 947000000,
+    "newSupply": 946000000,
+    "cycle": 32,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:48:45.038Z",
+    "signature": "3aEFCLQfUXu5FXZGi3BwgbXSg67aPqSudZYvprkqLP5gP8SD5ETjMS44rWMX86u7DCK6UHpFJx2czapsZVRnK5fv",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 946000000,
+    "newSupply": 945000000,
+    "cycle": 33,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:53:43.889Z",
+    "signature": "3SJj7aayL9zVWYs9QY9Tizr4sfrQyjXRJtzCW5dgbQecPuxFkY3skkjSnWwH2wTTg6Pog3UZWLTrN6y4B8RR3cGZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 945000000,
+    "newSupply": 944000000,
+    "cycle": 34,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T08:58:43.019Z",
+    "signature": "w93iztkUNAWK6b5LG28HAXKvfk9MiQahCRYA2NQRCio1BzoBQQUBgr9MZnH6Pmt5CEqair4aR6XcvrtuCBc59U1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 944000000,
+    "newSupply": 943000000,
+    "cycle": 35,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:03:44.471Z",
+    "signature": "3LD3sXPdmjephgpYvHaSf2Xk6hvy27NNddy19GM8zFQ2ictKN9nqsxTrhYRK2eYnNWamAuJktWDpUVhkjHhtYcA8",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 943000000,
+    "newSupply": 942000000,
+    "cycle": 36,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:08:43.850Z",
+    "signature": "59EjsZa1m8TfPJs2wmtXKGbLkAQUaY23qYmQ1iP7WYyQi7u9JieoPfUmaWxhFsqy71bZy1i449sqpBSZUCvgLtmX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 942000000,
+    "newSupply": 941000000,
+    "cycle": 37,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:13:42.849Z",
+    "signature": "4MmXzRvQnnhRnHxvaNg4o5ogo4CHNvuxc7joYGydcDzDJriPwXM73XPmyykrLqS7AA3bC4BAVnR8eP3eDUcdNkNP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 941000000,
+    "newSupply": 940000000,
+    "cycle": 38,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:18:46.206Z",
+    "signature": "3YwfZcM6LF8uXf1YbfSRYhrCZQzMP3afaUqxFzsp8s4hvW2Vk1vW4L8gRkv8YWjU5wG63KLRnGRKBNCXBKW74e71",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 940000000,
+    "newSupply": 939000000,
+    "cycle": 39,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:23:42.764Z",
+    "signature": "WTY7QAe8YmKS3QgJedEqiZ4pPJ3Hn4KnFYgdbSKNtENPVZj9SCca5hkiJrLy7Gfr3anvRcwh2Jgzbm3gscesxQL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 939000000,
+    "newSupply": 938000000,
+    "cycle": 40,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:28:42.491Z",
+    "signature": "2wLhzCEiq4vVHQxjTzc21atNM7FwUwjh7rKCJj5HErVBzuqayCvG7oJWALJkuxJsKByc9UZYSU3ZqPjw8BL7c12M",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 938000000,
+    "newSupply": 937000000,
+    "cycle": 41,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:33:41.870Z",
+    "signature": "33rAopaq8VLAL8deyrth8m6geH5anLtQBTgFsuRT6F7q7hPhv7w1ZWtrhzPeNKayTZsDeLsRi2ccboX2L44CjbHz",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 937000000,
+    "newSupply": 936000000,
+    "cycle": 42,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:38:43.888Z",
+    "signature": "2UWFp6wMR73uqVuNbAuctrqQ2KzLJZm6GA6xM2nYhxnz9xNYsNDL9mACGyQgWCwnScQ4NWQaFdq36SXdzFU12k9g",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 936000000,
+    "newSupply": 935000000,
+    "cycle": 43,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:43:43.646Z",
+    "signature": "3ZxEMGB25RSESb4FfwDqLgbnfM9dT5kWrdSewkfyYwpeKPd8hsfBwfRUpNVnMvkKz7EgsN7rQsvLcszgJ6UrzxMe",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 935000000,
+    "newSupply": 934000000,
+    "cycle": 44,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:48:43.984Z",
+    "signature": "5wG1byPCgnEKt6Px698GPeRkwzXkQXNiNK4f5R9Z1Yoxb24rx5J66NQniCHf2tFjzitD4XRgvJY8FJn49do2vnWB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 934000000,
+    "newSupply": 933000000,
+    "cycle": 45,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:53:43.469Z",
+    "signature": "5J8ncb9825iEKBdvV4dNQqsJuWz5gukZ5Dcm8FrGXuVJNhJkhoDgRDdP4GHNATuzMr3iWuh1PGxcrco8u4f2VgMG",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 933000000,
+    "newSupply": 932000000,
+    "cycle": 46,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T09:58:42.966Z",
+    "signature": "5d1fvKDaEFBxGY1hahiE2J2HDTSt8A1JWx3RQfPeREJPXHx4hkecyXxmRNua3jGnHQqQmgmfJR8eUNtoRPzuJpQi",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 932000000,
+    "newSupply": 931000000,
+    "cycle": 47,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:03:43.130Z",
+    "signature": "b6yTC7p6DEBeBK3x5a8u4s2y5rEhVPfjK8dCGKDwUK91R3cexK66airUUdX8o1Xiu1XYnxacgmZBR6HVmgFkgjL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 931000000,
+    "newSupply": 930000000,
+    "cycle": 48,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:08:44.133Z",
+    "signature": "5wkdnTxugs5qhLFt6dED8HMLSBcrtK9UhDh95eeyyiatmaPu9Uao93cy7JgVBeXsPuh9RTnoMkd4MJCGsF4P83q",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 930000000,
+    "newSupply": 929000000,
+    "cycle": 49,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:13:42.627Z",
+    "signature": "2hjNdfpYxGyR4VA7WzFVJKgBeEba59DkmCFhtpSCpXr7mbdru9U1sFCgaHdVs47mJqTFWuHtUf8nJpNiyxQ1HFLX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 929000000,
+    "newSupply": 928000000,
+    "cycle": 50,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:18:43.610Z",
+    "signature": "5TzXWEzNwN4CNCukxMdH6so2jnXnyWfe1T2zVHEi1R3zhagX8gqdS4KAdRxHGWZ4vvbQE5npoE5m7gC3qbP29zsU",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 928000000,
+    "newSupply": 927000000,
+    "cycle": 51,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:23:45.532Z",
+    "signature": "2MWT2UWSAM7VaKntyhhjpzU7dydeRi3m5xcbuPLXR1CmHzEwPqR6ST6tboEGQ3q8vNc3q9zr5wFyFrz5M2fxH7QC",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 927000000,
+    "newSupply": 926000000,
+    "cycle": 52,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:28:41.921Z",
+    "signature": "rkNVzNsxvrJXGt4S52hK7hpsa9SdnZxvfdM85RH4wp54FyxWcxcgVCJ1EBbmdVe2cYenJ8VYsh4rih915DMmrGQ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 926000000,
+    "newSupply": 925000000,
+    "cycle": 53,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:33:47.948Z",
+    "signature": "59MW36P59vuadFzbArYbz1q5uqdHxeNkiKdWDWpt2uNerPh54Svsnwz7fVWzDto38GwmRf9EquT6pZnRkRZK88iF",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 925000000,
+    "newSupply": 924000000,
+    "cycle": 54,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:38:42.964Z",
+    "signature": "4jTJcipZc2rikzdjf5R9onqs8vh2npKzfdcstCKTLwkyU9rKc2MsHqvR5m9wWQCecCmLnEq63SikHRKohRYbCwvw",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 924000000,
+    "newSupply": 923000000,
+    "cycle": 55,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:43:43.810Z",
+    "signature": "4rpfmpMEqbxzSvQLSGGFkpExGbeXn3X31FcQkFSWKJWSBwxLqpSLMgyayU5MfbyqfihdnLoRLtipFRrq6ad3n7u5",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 923000000,
+    "newSupply": 922000000,
+    "cycle": 56,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:48:50.885Z",
+    "signature": "5p5LqhE54tzvkJKGgrE4rmvPjvzUPXXCSxyXRRnN6NGbDBu93DH2bk6z1sPmsuU6UgYz5q9eZaUipJQL3Zktcfvc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 922000000,
+    "newSupply": 921000000,
+    "cycle": 57,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:53:43.618Z",
+    "signature": "7KWgqZwXipV4XvgKEfRcWc86f29cCnnM9sbSoCAdQaLrw1KhrkwLzqEJEqfvg8nxhvGVGviAWet4vP629CZpLjg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 921000000,
+    "newSupply": 920000000,
+    "cycle": 58,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T10:58:43.284Z",
+    "signature": "4ZTwXaeZ3U4xExx5D89nn3B7ErWE5BFY2nLwn4K57dDpQjD1j9ppi7wFKsP26yZZPH78KiAXDA1Ta7pE9Bt9GQCP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 920000000,
+    "newSupply": 919000000,
+    "cycle": 59,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:03:46.341Z",
+    "signature": "2nXHgEXPJsnXrJm2h4uZx5ukocTyrxCgRQ9teTyQfFgCXY1LVwjfZdHfPbHGsaiPQB122Q15ToGJF8jQ3vQDaE43",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 919000000,
+    "newSupply": 918000000,
+    "cycle": 60,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:08:43.556Z",
+    "signature": "65ThRNqqqko78qSgRJfANkGriuVE1EPy7u4QRXXyNFWumCbf5qrxvWm2Xt6yWHKMb1ziNChoz6ZidYYWj8v2TtJ7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 918000000,
+    "newSupply": 917000000,
+    "cycle": 61,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:13:43.233Z",
+    "signature": "3MAotSmNPNWBtr8AExykhEhKH9jHcCnHqxmWqCYGQ6aGwmmFgJyfLcKN1Ev7QAZcv9249m8nyKh4ssDVcmAGBA65",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 917000000,
+    "newSupply": 916000000,
+    "cycle": 62,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:18:43.139Z",
+    "signature": "2AMEBALAnfFoLSsAfVrmPGEUWmdLgSFv8muiscC1g226HhovRM7b3ZTt649USgCTZ1zBfvtJWdDq4NP5yLFA6Sxu",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 916000000,
+    "newSupply": 915000000,
+    "cycle": 63,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:23:43.984Z",
+    "signature": "2dcedMzBumf6vjRWZHGzzg83jZATykE3QXEpaJgyX9eYuAZVQ8QoBLgSMyLnT5tVqJFRmuF3EoM3njQ8fWmmt2LT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 915000000,
+    "newSupply": 914000000,
+    "cycle": 64,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:28:43.278Z",
+    "signature": "rDjATEBUWj3cSa1ADqf3rS4PNjCpsi2ZVDZ78yxrXT7ywToWRA7Rx6PAv43CcsQ5E1VHYNcEuVJ1fZW5aCgRpEd",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 914000000,
+    "newSupply": 913000000,
+    "cycle": 65,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:33:42.709Z",
+    "signature": "5G1oUMsoX7UDPQF71GWFsVyz3W81S8FWa4u4DoDMqsTSHJPCRLKYVujSQAs5F98ydu2QK5R6TeuxUZDvtPkgpthY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 913000000,
+    "newSupply": 912000000,
+    "cycle": 66,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:38:42.484Z",
+    "signature": "3QwMLxTNYnMpgGyFPESN3FXt8pYY6ekpAYBroxyTPHKdf94xmL2Yxt15FwjSbsej76bKCDXs2Ec6WRobT7eHkx9d",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 912000000,
+    "newSupply": 911000000,
+    "cycle": 67,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:43:42.286Z",
+    "signature": "61tz1ijs5L3LJzjDB7gvxgWCd1zx1o2waUHid7W68dKYhegMxqve8FTWKW6uSgQGJY4qReizuzH34MkpiWbrLA8h",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 911000000,
+    "newSupply": 910000000,
+    "cycle": 68,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:48:42.903Z",
+    "signature": "676YtwpsRK8fTbyM7pMbco23NidoPU6AgsNhtuSF7QSMVAawdQUGEmBSRmtk1zmBcZthEAfVgrq4TyPjG6Ud3pYv",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 910000000,
+    "newSupply": 909000000,
+    "cycle": 69,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:53:42.459Z",
+    "signature": "5XuRTgCEhhEWFFjnFTWtpg93L2XBiMA3LsKtN8qZic7KtxRQq5DqofM3c5X7qTTQHeqcYoeEbKtAsUzBycupd7BZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 909000000,
+    "newSupply": 908000000,
+    "cycle": 70,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T11:58:43.582Z",
+    "signature": "5iipRpFiWz5JewfkYAwd6CRATbA8scdmnmtHA6rfa9HdVAABy3Zd9kmPEcmCUg215VhgoZsg6ZBotpTxSrbYkWrq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 908000000,
+    "newSupply": 907000000,
+    "cycle": 71,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:03:42.908Z",
+    "signature": "9gzU1YiQU6K61a5HNaGcD9KKEkvcN88kuZpb5BhW9Pqn2ekcDwfxHKQk3YxeFxJYZ6LokzfQKvwRmArJaQ4YLd9",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 907000000,
+    "newSupply": 906000000,
+    "cycle": 72,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:08:43.047Z",
+    "signature": "VN9xtnTLWrkVdHJZNFKYxBF8rVBKciFrWfancan7HD1FYBJ9NjwKZcJpdZxw6GEPJQ9mCbJDmoKeYXFwipYUCfL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 906000000,
+    "newSupply": 905000000,
+    "cycle": 73,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:13:44.043Z",
+    "signature": "2KdwMsNzESrrSbErmWoCv715fXFkFjbXizVLKR3fF7edGNp1RWJ5W1aUSrpmrQTewQcDhyRUAFjsRj4jwk8gqw2g",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 905000000,
+    "newSupply": 904000000,
+    "cycle": 74,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:18:42.296Z",
+    "signature": "53keBQXo9nusn2M9EtWdAgad6wDivZcAj3YjtoK94eyWY27r1hEdfEdnqK2sfy4Z8XAaHcQXPcro42JaqQFB1SM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 904000000,
+    "newSupply": 903000000,
+    "cycle": 75,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:23:43.708Z",
+    "signature": "5qdAVmnN82jiTbeHdnivft8jx3sNvTQNnruKf9vJWnBgCe1xpfSmRYCzY6XV58Ean4QgL3Nwv2aRWebXRwMCYLpq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 903000000,
+    "newSupply": 902000000,
+    "cycle": 76,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:28:43.141Z",
+    "signature": "3cQfd5Sx6JhWgPpmBmZyXTuQdnAM3UEimggWx8PTC2bdZSWnm3ff7HdHiPdSEQK5TBkjpiGyxzb9SEih3cS939b1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 902000000,
+    "newSupply": 901000000,
+    "cycle": 77,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:33:45.589Z",
+    "signature": "xyjvJ9Za5mXon6fboNspGjWVAa3oxAUc8W2hqXe5CTS59DDYfJU7FAaGZGay1f2Xt7hyekp7HaY7wutFqBfPe4T",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 901000000,
+    "newSupply": 900000000,
+    "cycle": 78,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:38:42.803Z",
+    "signature": "2kRcPx5MLN77i3XRr67P9DioarcdM5NVXw54Jg9zuLTj4wp86HKvaAB1NRgnXZqd37X75XLH4hRsS4ej41B8QyQc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 900000000,
+    "newSupply": 899000000,
+    "cycle": 79,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:43:44.513Z",
+    "signature": "2seBo1BG82KBsns6Bs2LsBLsBiUojAZ1XBUiVcJ7hR5Nc1y1ecEu2BkoxSfB3FP4imNy4yunkLdxHPCdwpkHQRBt",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 899000000,
+    "newSupply": 898000000,
+    "cycle": 80,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:48:42.780Z",
+    "signature": "5uMtFo9SsGGTJHLrk7Qb4VmYcg79L14ZfeWF7QbAxzZ6qJvinREuErtTKHC9XAC7McFvDw4XbbrfdaGEYeqUe1Hk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 898000000,
+    "newSupply": 897000000,
+    "cycle": 81,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:53:44.037Z",
+    "signature": "Qhmyv6eH55fpDFqL5CtGLZXb8hY7jRobwGxUczqiaXDZhW4CRov2rPvWQZUzYhtCViNxP2t62fNdR4oZHXHznqp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 897000000,
+    "newSupply": 896000000,
+    "cycle": 82,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T12:58:42.360Z",
+    "signature": "5yvUA4R3nnQpH5qKQMcX8LVgT58fpw7CjafL4rFjMZ6Chmedrg8ZLNxbeRqra8cMDmAi5UZD3wCKxyE6or6AeJXS",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 896000000,
+    "newSupply": 895000000,
+    "cycle": 83,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:03:42.290Z",
+    "signature": "4HNq9akRGYdjKRkSiaQ3KKcvh3hvG7u6RC8dy3ynbvXAe8vhPmqEpZKMd6L2hqjVowkA4ESJasbryLvYyRFWW7AE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 895000000,
+    "newSupply": 894000000,
+    "cycle": 84,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:08:42.440Z",
+    "signature": "3YWUUmY4GC3FpLUfLmD9xCMe6h98HSxuTdyhGGcmH3ERK7A1NYbDB1WtwMoEKTgCVJ1XzE4tVDa2i7TYTmZ8sYZh",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 894000000,
+    "newSupply": 893000000,
+    "cycle": 85,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:13:42.456Z",
+    "signature": "5kmQ5PUgXd8Rgtx2hSiKiNbS8TJgCJxztERKuQxfB7NYqDMk2DCj2LVZhE9bV36q2MhA94R5tVR7knxWaVnhmNgz",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 893000000,
+    "newSupply": 892000000,
+    "cycle": 86,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:18:42.355Z",
+    "signature": "5nsAUdfL6rTVhwsyugiQRLSZpr5i4ngEuMFTXpo969N4YUoQsuN6rCmmtxzGhXX4bZqueQRNBWaRL158KaaYHuQk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 892000000,
+    "newSupply": 891000000,
+    "cycle": 87,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:23:46.914Z",
+    "signature": "5VnA1Vfg5RUMFQ5hwAGK9s6efvGkhpSW7cRRZ1UJgKBe1xmMM2m6oTyvkkrdJiinK3LZUjukV3CBNBwYgcMaZW1f",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 891000000,
+    "newSupply": 890000000,
+    "cycle": 88,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:28:43.472Z",
+    "signature": "L37CHefJzzwodxWARGkzSq9U5VaNwg8SuHxL6pt288t4a7r5JVyHXHbwrwBvGgzdoi2Eiudhj5x8VEjRhPBsWbJ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 890000000,
+    "newSupply": 889000000,
+    "cycle": 89,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:33:43.441Z",
+    "signature": "22SfMAc7Anhv1DGcEozvBH3hQSxmvXBfpFYQD4xDFPZezxTEcEVy48rNXF1D7NksxA5rcBRCtzowgsM274DZpceT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 889000000,
+    "newSupply": 888000000,
+    "cycle": 90,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:38:43.382Z",
+    "signature": "5NbKKEFS1yFMxNR9C1qrZv41qQTF9bWFYgXk2eYGAdJ4iD6f46o3UsaZ66ojFgTZf9N7fuSHHn8A2fzwXLvCGg8L",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 888000000,
+    "newSupply": 887000000,
+    "cycle": 91,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:43:43.081Z",
+    "signature": "2Fx7giPdqoncbaMhjNKPK13y3dLF7BGKqB6fKtgVoCL1rhKoEZoW3EMXRUDDbzX9hn7qi2Cte5rcw4G7mT6o2KNV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 887000000,
+    "newSupply": 886000000,
+    "cycle": 92,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:48:51.100Z",
+    "signature": "mpYRBeuMGeEJwi8GxshXLxZTQZQVVCMyjWHGQCoY851pGzAwLSARn9VRpdw6ffCM3Vw4x4o1uTgq3ZHD2kAerav",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 886000000,
+    "newSupply": 885000000,
+    "cycle": 93,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:53:43.254Z",
+    "signature": "4C9AaxNwvpehQ2qQxutrNvvekJ6oHh4g8eUGFQ4JMQJ3G6UsnyKYPfZByMqLC3bJ2ff53bVR9PkNte5Yq4HUqc6J",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 885000000,
+    "newSupply": 884000000,
+    "cycle": 94,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T13:58:44.400Z",
+    "signature": "HsuQJdSrd6VnEXgB3L5Ft9mgeVAfow7gRevVpngitN1DVBpgtrhUNG141Ddbm41cpPRyAgHG16WdTjHNUXAWcgv",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 884000000,
+    "newSupply": 883000000,
+    "cycle": 95,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:03:41.987Z",
+    "signature": "W8N4Jbi1cJZbV4kGsHnS3ZYTCg5iwp34ChpN4yuJM7VkzoAi8KZuuHSA9CTjrKF3EvUvrdm9LDDArvjVY3mitb2",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 883000000,
+    "newSupply": 882000000,
+    "cycle": 96,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:08:42.956Z",
+    "signature": "3mNavGjLjuKbz227n9JeGKU8n55aVTkbx8QWEEgsBwMwWCJnCxFEBxWwbFxyMb3k2yom4TNH2PkKweyRStX3aNfk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 882000000,
+    "newSupply": 881000000,
+    "cycle": 97,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:13:42.731Z",
+    "signature": "5r7YDpBFPW4cLC4WxcmivccvMGdCdiBbbUaryvhVLT4rLMHSyjSNJo2ghUHPphqERfFcJWt5mjHWhmvMXrgzgmj8",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 881000000,
+    "newSupply": 880000000,
+    "cycle": 98,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:18:44.534Z",
+    "signature": "3Zg7RWCoMmAeo2Pbw8ofQJvypNPfthpvFPv2khWadsBHVVEJ9r1EupheHkwUSiAaA3t4QvCMRW8uz8oDuiYBzaAt",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 880000000,
+    "newSupply": 879000000,
+    "cycle": 99,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:23:46.596Z",
+    "signature": "4zcezi3tUFiBe4gJbGiwnh6yY5SekKh3gj7AK2HJRZtCf5vweCV97bHDCMaGGVVxAmLPg2SMv4dXH5QWaBwjk156",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 879000000,
+    "newSupply": 878000000,
+    "cycle": 100,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:28:42.313Z",
+    "signature": "2rgzACN4kJX9A76c9XhkLM3RxCrHgx6nNZwYKfjoPF2nKZV8Vk9Nofk6abEQxHvdBdt1h6yjWixVu949bSBv2HNL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 878000000,
+    "newSupply": 877000000,
+    "cycle": 101,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:33:43.123Z",
+    "signature": "4cp2N2Akk9hDBrYgNhmyMbbN9KHkEK6GQUS45m3vdPy3Y6gejUaPrxrfTHkoy77RRJ4vEBB5AafjBWRJnrrXYw2e",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 877000000,
+    "newSupply": 876000000,
+    "cycle": 102,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:38:42.949Z",
+    "signature": "5Us4EyAot9iUYsHWbypdjC7N1VXYtHcWMcUhxKPmWTQHnCXYXx6A11T4hqp9oKA289xeC7457ko8n7oa99Z6ZMJG",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 876000000,
+    "newSupply": 875000000,
+    "cycle": 103,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:43:46.450Z",
+    "signature": "2QrFfYRs21VzKrRzo7cC1ePsodGpsufaWoNLxVjZzycwSWHPZ86k2VKqiuMdCEE3LLwgyerHvgL8Y66CoosTDmon",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 875000000,
+    "newSupply": 874000000,
+    "cycle": 104,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:48:42.891Z",
+    "signature": "21MQWaSfAtpNMQmTQ5BVrCVozy8fSRAzjN1o9xd2XUTXgUzqiVz78oWMMb1n5RDCcYohG7vtCgZcse953fkhqG7r",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 874000000,
+    "newSupply": 873000000,
+    "cycle": 105,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:53:42.067Z",
+    "signature": "5neeedq2ktdJcyDohFhqz3ktwB9DSZaDWzmM9q5FUCg8jbQSN6eEBR5aKMzYNJEPC5Z3CYD4mSwkXBzgY47goT8g",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 873000000,
+    "newSupply": 872000000,
+    "cycle": 106,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T14:58:41.915Z",
+    "signature": "3qXouYndjmuaLxioeFVmuNf56fYb4V7ezjQxb2JipSwaFQpA3GJS74QAXTAhz387bTqUKmGWTLzUpyWKRLmDRkYq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 872000000,
+    "newSupply": 871000000,
+    "cycle": 107,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:03:44.232Z",
+    "signature": "5PN2TQf5b7s7krdwuaXrp3Sg7ELDGhyNT3Kg4j5Tj3VU9ptmRMjnNV3Ezk2x3MGaaWC9eqnN79iQ8H89tbHHVqT4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 871000000,
+    "newSupply": 870000000,
+    "cycle": 108,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:08:43.690Z",
+    "signature": "59dLKEBtk1avWh8KmR4MosEuVQVQecgYbg2aFMPbaXJhfCE5fmMvkpAcR2GP9cEHCTi8psYeXCZoLj8kyospj3C1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 870000000,
+    "newSupply": 869000000,
+    "cycle": 109,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:13:44.882Z",
+    "signature": "4owDKrznpbreo1LsmWAkwDS3zueiK76Pq5CNtCMoZtJvfJEpGbF8Tpb9FniYE9gKf7MxopscdadzxvidgEmdQaK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 869000000,
+    "newSupply": 868000000,
+    "cycle": 110,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:18:43.280Z",
+    "signature": "5edDT6qCcJxKPX1Q5RYCorWB24zgwonvtTBnL4fkegLSG2AnHDXDFBE5hz3Lw6X8qpwy2UmsmafgaUJHBsQ5pGGM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 868000000,
+    "newSupply": 867000000,
+    "cycle": 111,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:23:42.609Z",
+    "signature": "5xmTm2hcWm18Z7kJM5Layx14ofRa9gxF73hC6WTNr1e19qZQyQntsBiDJdyuUMr25JufVm3LDx5tr9ULrWsUp2yp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 867000000,
+    "newSupply": 866000000,
+    "cycle": 112,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:28:42.999Z",
+    "signature": "kcgjCF5KgyaJRf1WKywXJX6tBhC94eDpTAnfisSnb5tCPJb63GCjk29jzXbomidZLQF2TXnykWAieSX6THnJomV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 866000000,
+    "newSupply": 865000000,
+    "cycle": 113,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:33:49.081Z",
+    "signature": "66D6PAnFmgQgfZ5xzYJUsWgFhsLg5f9smdqJNqS9Sa1y9mdzzSGbYVwpUTFwzBY1Gj6KUqED7N1gwqHQ9B6g9PRo",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 865000000,
+    "newSupply": 864000000,
+    "cycle": 114,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:38:42.116Z",
+    "signature": "FAGGSNmvJ4vjp8qZWHGvYPbXVcPx5nB3aMFkMPyM3c8aR8yi7G8DRJakuM6K6Gqe5g7QUYD8zkNADThb66rQyhF",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 864000000,
+    "newSupply": 863000000,
+    "cycle": 115,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:43:42.244Z",
+    "signature": "3GH4kyarJzCoDBzVaDnTsRwYPyUmmQzsg1EBLFaNzjzDYJXApj27KQQ9hfakHrg4NTavs63nDUQEPMo5VMd14gxY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 863000000,
+    "newSupply": 862000000,
+    "cycle": 116,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:48:42.473Z",
+    "signature": "2BA4HyN5nnf5GADeLuPw8ab6iWAx94WmhoYFfqy22LGHKcCodqpbc2eQYKLw8jbt1mcZoMABsqWq375ybMrFWEUC",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 862000000,
+    "newSupply": 861000000,
+    "cycle": 117,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:53:43.681Z",
+    "signature": "kVjGwiQkhQKy3KmJck6HKpiY9FnSxpQ9Rimx3MUFmPBhemb5etDBdbW8HYYrnWFKKXWRyjf1RBuU7J2bDKQmYzu",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 861000000,
+    "newSupply": 860000000,
+    "cycle": 118,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T15:58:42.264Z",
+    "signature": "5qU6hXC1RdAV8JjvRbxiyB5dgeNDm8itaeoFSrfbaTf1mqsaarBfceFWFdmA1XuyuFWoYzCjv4uagDRRRvjZQDdM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 860000000,
+    "newSupply": 859000000,
+    "cycle": 119,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:03:42.470Z",
+    "signature": "2rtwafz5ZcxwSgbSZpWcznCq9rt5GfcJZd2ex5x2N4fPt56zWK1xd6ua2cgWq3YHYN48xPPD2eocUN1ieABRD6gY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 859000000,
+    "newSupply": 858000000,
+    "cycle": 120,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:08:43.580Z",
+    "signature": "5ELhxzsRVu7fM4hB8ZwmM1BF4hgn9zv3jgXGkqL78F1HZuTNSfjzHrYGYCo4ZC7WbQqmknHergyRKB6Nvq2eVfDm",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 858000000,
+    "newSupply": 857000000,
+    "cycle": 121,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:13:47.460Z",
+    "signature": "5DFTRH9FvnbA7Bywdhf2s3aFt4pGbGWHEHhjgmKYeqmGcEVdSccMaoGKKxGUEWmc52Vx6A5R887KpGomVkPC2g1n",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 857000000,
+    "newSupply": 856000000,
+    "cycle": 122,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:18:42.490Z",
+    "signature": "39EjsShTUC36GQNSMgauy7iZiwdRZodQ4QDCgrmekxh1gKs8HYSfdVJUBZVgUa9QnUTyVqygQekECvdfqFAtZi5K",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 856000000,
+    "newSupply": 855000000,
+    "cycle": 123,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:23:42.721Z",
+    "signature": "2c7DGWaRneE6Fr2y22qTdDMKZb8bvWmCeUaPPPi2aVBH2dETK6STWcb3Wip9eAjTcxyhHJ4Fws43mitwMWdmPn8u",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 855000000,
+    "newSupply": 854000000,
+    "cycle": 124,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:28:52.765Z",
+    "signature": "4Tr8mioJcdzghYX3r3urzRFbHHKANER48ZPvib5LFdWw2dZVy1UaQvH9WRo2aoK4H2BhPaB7nKdPutWo9wZDScJK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 854000000,
+    "newSupply": 853000000,
+    "cycle": 125,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:33:43.547Z",
+    "signature": "rqWZZkPUz9NKf8pxgEMiSv8WVWvYDZdosR4tMnAHj6YbeKnqjr58r2puYjPA1QSFBCcL9fwAXYY2U2o7B1c6Bcw",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 853000000,
+    "newSupply": 852000000,
+    "cycle": 126,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:38:43.860Z",
+    "signature": "zoCfNKrn1zz6ESRUoUQFthXwxFGCYfLm7QkJrproTixCPapyt2uDjMsUsseUUCgmg86RYbCkpCEjmP43VbMntwN",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 852000000,
+    "newSupply": 851000000,
+    "cycle": 127,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:43:44.878Z",
+    "signature": "612K8M2SKRhQs8uu9dRmisPycPpVBLxfkwzmB7h2Veu26K4PBFCuhMfdt7yZmYK4pNQYQVPs4N4Eho3xE31aevpN",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 851000000,
+    "newSupply": 850000000,
+    "cycle": 128,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:48:43.197Z",
+    "signature": "zVJw8AXNDNEuKDZgBE2xyDiqhu1Q3eXHULQuhNtKVFrn2X1DZEAwKvqj235ZXMo65eXUkM2y7KDAnWAmUkZigGd",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 850000000,
+    "newSupply": 849000000,
+    "cycle": 129,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:53:44.961Z",
+    "signature": "5CsnVagdfdgrfUUkuPgc1qeXXit266U9p2eGkZxcyLh7iMNscJdsndNniuMjoLgXfaXcdSuEYvAKDXZmDunMfTcW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 849000000,
+    "newSupply": 848000000,
+    "cycle": 130,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T16:58:44.291Z",
+    "signature": "5YNCQ1tjhqWdAop8efsDik4NzoeSsCEQ3cxAGskKMG2ZiaCveoRPcbrzvYuz4P2XyXBMAKFVaTrZiyWkhmgswVvb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 848000000,
+    "newSupply": 847000000,
+    "cycle": 131,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:03:44.652Z",
+    "signature": "5KGQf7WtqH9owX39yUHQ2VUi2sAYJ1TsXNQswLLQKQz1UjLT5UCfxoQ6G1EfdpJ34LqtZLf8yyQd4M1xa8Sf3zx4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 847000000,
+    "newSupply": 846000000,
+    "cycle": 132,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:08:47.942Z",
+    "signature": "42rdjhiyaPeXJRNM2RkGhKJoAZwJ686c5N5DyqAqjkLx3cN9rDFTkKpwL5zshYQsUH3Cj5df2vWAz1ERDUephgiw",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 846000000,
+    "newSupply": 845000000,
+    "cycle": 133,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:13:47.828Z",
+    "signature": "3CMGpx1VjexFkgmzugVqiSTArLpG2mv95DcvShyy7s3yRJGRLvq9eyucEHYm2zntUoHYLLJdckr9NRAtP2bsAoGb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 845000000,
+    "newSupply": 844000000,
+    "cycle": 134,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:19:00.751Z",
+    "signature": "661gBrGdiqrR9HXs7GY5YZuTivDFUttCEDRfZKCbojZqpnYSDQitCNTKpWPX9i97YsEzythrSPnVvYGzfpdddmtd",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 844000000,
+    "newSupply": 843000000,
+    "cycle": 135,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:23:44.966Z",
+    "signature": "5xnSx8p7HFcsgQmyWJ5EqRCYZ4iJvCWjiRnuJf88pmnui8fPSnYRcvmkZqt8QYhaLkrN4e1Q3jJHydMjc9peTv6u",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 843000000,
+    "newSupply": 842000000,
+    "cycle": 136,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:28:44.921Z",
+    "signature": "2UbFRV58Z2vnD72tCbLoMQFC6KjGNkYAxWRGBAiKcpETK6P7Ao8KA3e4Ebz4cCmRafn52W2asV5LmzQ823MpGxaB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 842000000,
+    "newSupply": 841000000,
+    "cycle": 137,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:33:48.055Z",
+    "signature": "3hrqzpprRTZvNt4taPa9WXqXk9YpzZwkjEUp2fbJoc5sFzWNwchSdRaEyghFWHDpz1XhGhkKSqbdKBjgWEm6DYw8",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 841000000,
+    "newSupply": 840000000,
+    "cycle": 138,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:38:44.285Z",
+    "signature": "7e7SednUM4GKeEC5a5mLSdZFd3xtpgYpVWiQQTG9X2ioBwM5xLqfyXUJgGjN33kVzYkFBoU4mhK5UTgNsHdRbrb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 840000000,
+    "newSupply": 839000000,
+    "cycle": 139,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:43:46.154Z",
+    "signature": "3GKRmHai1gcZPscoscjDqkTeiBZYy2Hemti38pxqh6fN9pDzeExLw5ov2NnKqPUq3twwxfYjZmp75hadGMqHNnXb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 839000000,
+    "newSupply": 838000000,
+    "cycle": 140,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:48:45.598Z",
+    "signature": "L4HThpSX5r7orEX3VVEkmwFWM6nWzHhSCzs1apx5kjd8R45LwL9hpDGjXuomfZYFfDXTcTPCLARDRhSxTd5jjX3",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 838000000,
+    "newSupply": 837000000,
+    "cycle": 141,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:53:46.147Z",
+    "signature": "4xTY8wZKbgDMqunxcAuWh8VmjWRbeGzgpySz6cAAhTRaMvjPAS6wijNrGpmBySVSA3jBWo33fX53geZxoLvsY3JL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 837000000,
+    "newSupply": 836000000,
+    "cycle": 142,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T17:58:46.041Z",
+    "signature": "3uDJdtUoLG9Dv24ewuTcDJadYdXAXe3tdewGEAYNUqBa8HHueXyp3ySX4h4Lbsw9cdArZB3KVpZSVkvQwfM5EXGY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 836000000,
+    "newSupply": 835000000,
+    "cycle": 143,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:03:45.134Z",
+    "signature": "4cdcMUqPkeM53k1m81rgoJPTvhEnYpCKsMZoqhAzb7MQH5fqZjRxBhPYcotaXZNV3KscHpLeAS3AAo9XfAqnNpY7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 835000000,
+    "newSupply": 834000000,
+    "cycle": 144,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:08:44.494Z",
+    "signature": "3DQ4G7Z2mD2EVAMFXMUpqJZX9MG62LsFg2YMcCvNcYbYb1xE8TzQsVjMq6dvY6i1hzA1Hftsbh6iXQd8GCM8XqG3",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 834000000,
+    "newSupply": 833000000,
+    "cycle": 145,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:13:43.246Z",
+    "signature": "3ve332hHXVcfJNq3yJjbMqUtzrEJuLvKbD9GHkA9QnjB7ECSTcfRQAQUHuHM53pMBnfqf161Cts6XWDauAAShqaQ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 833000000,
+    "newSupply": 832000000,
+    "cycle": 146,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:18:43.431Z",
+    "signature": "5GKh354BSdzXfj8x9YcYz45vPg8xCofmgeXeYxB168e4R4G1x6w81rabXYaTrMhJ9dtoRgTaP9WDK2QVciLCCPgS",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 832000000,
+    "newSupply": 831000000,
+    "cycle": 147,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:23:45.218Z",
+    "signature": "2bvuoj53CDHosfhcGH534dd3vxtqAae2m7seHtvZaRCz2xHGy7wDSCQbTNoZGpYYysTapRs5wug1oKkFDyaF6nsK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 831000000,
+    "newSupply": 830000000,
+    "cycle": 148,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:28:42.726Z",
+    "signature": "2goa1BimDzZzhuMUqDkJF7MKkQLUgdVgRaC5aSwQ1pGhgHtL6FShChEtQFVZcxyHng6399eGdyR7qxjZjJZdfM4Y",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 830000000,
+    "newSupply": 829000000,
+    "cycle": 149,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:33:42.655Z",
+    "signature": "ohm1Py648wYb7odc5UVA3ZEFSJNfUWQoc7xNJr1KRHzwRdSUon1AnhkLmczouMfAGSgwBvQbR8mR1xZ7xLFDJKs",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 829000000,
+    "newSupply": 828000000,
+    "cycle": 150,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:38:43.333Z",
+    "signature": "2NEDJqXQT53VuKbbZ88zrrTLcxnebzrK7qMUJA2B3qa4d6bvrpReK16iUXW7xcuSoRRUNa8msSdKn5e5TpKUoEUu",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 828000000,
+    "newSupply": 827000000,
+    "cycle": 151,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:43:45.121Z",
+    "signature": "2kyxXyjCbp5Bc2guRAo8h5cAzgknmC3k5G83PKiqQimJoZJHQjvvVb9ctyffZfsUCF5zGhphjuUZa31YuX4BJG6X",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 827000000,
+    "newSupply": 826000000,
+    "cycle": 152,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:48:47.572Z",
+    "signature": "5nYdsBiq7mwwjUZ5NCXnpoNcWNwuiCdfWZb3nEibFvQUVHLJjPYtCCqhYzT8h3a7dAiChSXbKVT7XdFLVeh5mzap",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 826000000,
+    "newSupply": 825000000,
+    "cycle": 153,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:53:44.736Z",
+    "signature": "3DmRZsZyF1dqjvn4EJros1rW91oFjzPGYNfUdsqJvNVQNmb7SRZLRVvRj8dfQ9HkRmyDqi939YUuq4o35BYfnkHL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 825000000,
+    "newSupply": 824000000,
+    "cycle": 154,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T18:58:44.601Z",
+    "signature": "5JheGcvcLLn7oX6ArZfdZCT8C7gDvbZhS8dkp6F9X6iw27CrG1DANoMGz5eD5ikb95YFJqoYSkD9KgW2RQxhM91c",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 824000000,
+    "newSupply": 823000000,
+    "cycle": 155,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:03:44.450Z",
+    "signature": "4MNjCUbxB9wNXt73xJoQ8rKRVbfDToa1Xc2qhE5PofbawEd26iH9LjkpQrNCa6xgHt2fp4h2YE2qWz75YcLyxCre",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 823000000,
+    "newSupply": 822000000,
+    "cycle": 156,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:08:44.590Z",
+    "signature": "2Fexo6aoRjEuxLJJSCLPWdc4kb6vnSYyCXfneBRvRHT1X5DFVyhzqSWhbvZRJmNTcUpgdiTM7xXpJvEPEsuAczC6",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 822000000,
+    "newSupply": 821000000,
+    "cycle": 157,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:13:46.348Z",
+    "signature": "q5UXfBsnPayMkM5rE2Xmy14bebGMYdyyWLfcfEM9kmQqWyUjhHpdNwwym75vgxRRe7y6U2SRhAcb1Kc3xCMrUWU",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 821000000,
+    "newSupply": 820000000,
+    "cycle": 158,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:18:43.991Z",
+    "signature": "3odEsj1z4AbA6csPP8rXnXgRe4r4AaKo2Yk6qmN5eL2EwnEgVSCLrK4CMWGqpAt7uZt2jVi5Q8v6NZVFt5Qc7c5w",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 820000000,
+    "newSupply": 819000000,
+    "cycle": 159,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:23:43.520Z",
+    "signature": "5hWTzeSrY7vgfbqapToEcqyG2saBxCiFHUcqiKk42ShS2qiUMk6YynVe55nNhrQAEXiu9vAJkcS1YFXwVo4ZDJ79",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 819000000,
+    "newSupply": 818000000,
+    "cycle": 160,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:28:44.247Z",
+    "signature": "65P3biPAhsHsJi9NLSgGQ8UhFAiQUEZnqGXjrfbPRFtP7UcqPjactpnuzCnFfTBTFSbJaZTUGwzwvsJQW6Qgzeno",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 818000000,
+    "newSupply": 817000000,
+    "cycle": 161,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:33:44.912Z",
+    "signature": "2wLiqrgo8AGJYNMgyAVQwufuZzMLGkJLXZF2XPqRm6j5SPd52Y4uAs9LLKBVrpxfPquU1zELXBmYjTujcFB9T8As",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 817000000,
+    "newSupply": 816000000,
+    "cycle": 162,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:38:44.248Z",
+    "signature": "4zTHrPRkXYEn4KthfCVP3ZQfDyizSyorYyBwRNv7Vx4Z16R6HvAAXwYhah9xHcEYTymppEjdc8ZGNn8F9qasUDBR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 816000000,
+    "newSupply": 815000000,
+    "cycle": 163,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:43:46.008Z",
+    "signature": "2x2KWFRdxHArBNP3ky1hDrEPyFnimiMCgdpUahuuunArAbG8HVVD9BsrJ6tkDADSk1FaUSiB75XSoMBwBTNPDkEk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 815000000,
+    "newSupply": 814000000,
+    "cycle": 164,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:48:44.903Z",
+    "signature": "exAmeJ992gMYWbBjcTDCA9uJZRysrNqBg81g18nsR2ueQQEqiCBGaibFoCFnREEGqLN1yLEyW3tLtH2zUXdpHdA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 814000000,
+    "newSupply": 813000000,
+    "cycle": 165,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:53:45.393Z",
+    "signature": "4nsL8qYkKVzTgRZ7w58VooLf794AWJUvhrcAZ6bSdepJKosLMJEfF6osZBTNu6gCfbhZYbNRQMVAkQ6Gm6RPQGWd",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 813000000,
+    "newSupply": 812000000,
+    "cycle": 166,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T19:58:48.292Z",
+    "signature": "2RnyNgtBA9X1qUBcLqpBbxDg9ThDnGQhhWUwJTVAjoEEPfRfaziCC5VajLqqN1imsabV4nTc7ACPn5RYwyN8yBnV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 812000000,
+    "newSupply": 811000000,
+    "cycle": 167,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:03:44.504Z",
+    "signature": "23VLyQz3tHShezsVQNx3PMJGXt4MRELiN39GfeGdx2ynPJqS6SbHVxd992fYAPAAY4qEwh8zACSkitD9UYE89SBi",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 811000000,
+    "newSupply": 810000000,
+    "cycle": 168,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:08:43.786Z",
+    "signature": "3g5Wsm129z5y6GumQWR7V5nnyYXS2fh65cwtyDyUFF1qqytBnsZAiBj2P6MeTe4kt5BZxdK6FoVveASUTZ8rfquR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 810000000,
+    "newSupply": 809000000,
+    "cycle": 169,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:13:45.533Z",
+    "signature": "4iWGkeCDappYFkx79kEhuN4Eyhb3DSM1mKSdG7HztotPeFenTp6FWfHk8HJdTTEzSsGYFWDuuA5hhECruC7yB5c1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 809000000,
+    "newSupply": 808000000,
+    "cycle": 170,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:18:45.006Z",
+    "signature": "3V7GbVB5Xjf3nGnajMAw3USGJ3LVVrJK2fk67QygLFV2zYwQsfS6BxxhdsY8yjeDb2eMecqNvBfdXM3rT75LFAiW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 808000000,
+    "newSupply": 807000000,
+    "cycle": 171,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:23:45.670Z",
+    "signature": "3SThtC4dmFjaEKXMV8K4dkcCiBnWAJ3tz1LUL6apgSUJEYkX48e7Fd5yFhwyFthcR33RxS6dGCdbUp18grj8415v",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 807000000,
+    "newSupply": 806000000,
+    "cycle": 172,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:28:45.126Z",
+    "signature": "3qgucLeMT7sjCZQwUnGaHLTjoJ6iFGZPLZDyS6yaWPRJb7qV5o6iZXYgrqzTttK7ascVGtcKPfK9QDXJr2XDJASn",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 806000000,
+    "newSupply": 805000000,
+    "cycle": 173,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:33:48.821Z",
+    "signature": "4XQqEoYnDL9hL6tLwrNxdZNumevkzcVrB9hpZzPzd1nvXEBskcRFVFSMuXWcvobd3BeY16UNCgqYuhDGGZ7Pb3fs",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 805000000,
+    "newSupply": 804000000,
+    "cycle": 174,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:38:49.768Z",
+    "signature": "GCbZRWACMaNDKuB1ppfbpXqdTnTHaxsgMPjbELir4iKQKQqrmfzj3bsWBXUhExA8UgwygM1ucUaPhmfwWiMjjii",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 804000000,
+    "newSupply": 803000000,
+    "cycle": 175,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:43:43.419Z",
+    "signature": "BTWFAKPx2q8r8qkikX7Bo4sqQAvahGhMeE3i5BGW9FZWqsNUNfLoEPCGUYjgbRof1rSS2bBiMayfTQx4Dz1Yzzd",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 803000000,
+    "newSupply": 802000000,
+    "cycle": 176,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:48:52.545Z",
+    "signature": "66djEoW5Pr97KaLZwx5uFcEkhMwqXq4jTDQ7e8WUiR2XxMjPg8A91mY6dLfkuPJVYReFAfgtLnLgrmQoCqncLhf9",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 1000000000,
+    "newSupply": 801000000,
+    "cycle": 177,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:54:06.483Z",
+    "signature": "42juq7xJTQzqgnypTMhx5NR5NTovJGsM7twzkRcx6fXsKK476qQxi7stB6dtTrvULov1ncuEpEoEsFQbjpFHCPto",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 801000000,
+    "newSupply": 800000000,
+    "cycle": 178,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T20:58:43.422Z",
+    "signature": "4FoJrHhhvBRaKaLufg2jEaUczsAQqGywquWnw1xtmjG5BTm1rTUjeZ5LbG8WswMs46F5Wg1CgKsdZuHbboPR6zLi",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 800000000,
+    "newSupply": 799000000,
+    "cycle": 179,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:03:45.776Z",
+    "signature": "QkwKAUpiXzaDc3goU4TpNNXLpQUVXF861EqboHaM7iw9N98G6m1bhgC9HcbrGJAiZLh1gcEhdGMupUM8y3Sc7G7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 799000000,
+    "newSupply": 798000000,
+    "cycle": 180,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:08:44.196Z",
+    "signature": "5xdKGdGPbKXkvU3wW4sysP9TgbuwPgxwcVrx3yeomjuXcw6F76uwwddutnvYwoXrpPLxJ7YyULi3VGmEKxP1pdPk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 798000000,
+    "newSupply": 797000000,
+    "cycle": 181,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:13:44.858Z",
+    "signature": "3hRjzy4U9rpLyk7ajADRQfD68dnsm2xTR3GMxyi18Kp5oF4eChgZTwvbaw9fnEuxfy9PevjMgXKV4wBobuzGRSKX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 797000000,
+    "newSupply": 796000000,
+    "cycle": 182,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:18:43.727Z",
+    "signature": "3aVYwSw88t39Cvbm323neDBejGQn6jxzTnC3kh2R5y71Y66L1EyYKoUA1RL99jgqQbTscU3Qakfj37SgtwPpqhnE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 796000000,
+    "newSupply": 795000000,
+    "cycle": 183,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:23:43.858Z",
+    "signature": "2fMgMaTxaStmcWtB8263t53nLXB15dGQgU3qmYRSbR3izSKKBgUuqTw8e4x2KiAXZ231LnonXYgK4uXezsxD32VZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 795000000,
+    "newSupply": 794000000,
+    "cycle": 184,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:28:47.582Z",
+    "signature": "5KnJnANvFgSBut21YdrJ1bUaF3sRefDNRVFpHurUYBCHQz4LDtG4xaGgFpLoMYmTXGMeJDy1M4es1LJG99wN3uZM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 794000000,
+    "newSupply": 793000000,
+    "cycle": 185,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:33:49.311Z",
+    "signature": "VW9SbK4kccPKihH6acqXpmExY4Wh5PW5QjcKDiYEedaQUe6mXScDqnyzBpT9e1UMVrFqiuSvWJiNZJz3bDcq3EP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 793000000,
+    "newSupply": 792000000,
+    "cycle": 186,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:38:44.282Z",
+    "signature": "3wHP1Hde4EDZp6mqKCbNNcbr2fCMVZBXaCUa2kpELDE5DxaCeQG51vHwUHmNUCMFxzzPtaupibuE7VRzux6RbC92",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 792000000,
+    "newSupply": 791000000,
+    "cycle": 187,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:43:42.747Z",
+    "signature": "25WpYWR4QNiUpFsqKaLKCxmzhNrUFgYnUqJRNU2s3LKAuQyeMfHmBau3hnUt3twLqHbP5Eg2V1bRyDWhmgt6sQcV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 791000000,
+    "newSupply": 790000000,
+    "cycle": 188,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:48:42.581Z",
+    "signature": "4RjVna2yiiPCsUrHNEcGg8YZySd9XJW8iARdYbJFhjaKoyzmASxqSUS6qEEJsEDqPiwTYwhC1fwiAnLNGy621P6S",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 790000000,
+    "newSupply": 789000000,
+    "cycle": 189,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:53:42.429Z",
+    "signature": "5k15234NgHJj1KzBCMqoFEK7WfaxMqVym1w7zHT4jGSHczruBfbA1dASWdTbAuWPYowHGFHQz68sjc7yNA4Y4Atp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 789000000,
+    "newSupply": 788000000,
+    "cycle": 190,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T21:58:43.091Z",
+    "signature": "38tiXMkSg9nHstEhggJ783gxPa9fWixBMQaGm2c7XWua3AAXKVTsdSWhDnF7Y3tHNjJVjyHpmakshpCheFzmpyin",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 788000000,
+    "newSupply": 787000000,
+    "cycle": 191,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:03:43.126Z",
+    "signature": "3ibfwdqXn9TfcXx7XZYQgrLhMRcGvoizLZj5P8JWkbP7WSvArRzaNSmCA8ZhcDVMS8VNHn9fRJtDL6rp9ASqe8H",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 787000000,
+    "newSupply": 786000000,
+    "cycle": 192,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:08:43.555Z",
+    "signature": "4m4SMY7w2nPtrvwx39qMqTXKWfjkD9pJ6cY2TSQUFZ2anGX1pPn88Hqg4LNNoPTWmkLPUkPFFM2GnmZjCXHgvy7T",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 786000000,
+    "newSupply": 785000000,
+    "cycle": 193,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:13:42.884Z",
+    "signature": "iyV16m12NYLWbDTPqnHerCquc6WHHJb1STgrBiAFVY311JCLqnqURHeMzh6TAHW95RywYQRTg8yeeME8ZDM2Fjb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 785000000,
+    "newSupply": 784000000,
+    "cycle": 194,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:18:43.501Z",
+    "signature": "4hPsrYaZLiQeB4F39Nsenq5YdNX3Sj5vENm9VtJegxXbvWaVgGoVw4JLPKtVTprSYBS8717Ks3W642EjvC5sNFXZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 784000000,
+    "newSupply": 783000000,
+    "cycle": 195,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:23:43.149Z",
+    "signature": "5BF6ZGJTg2nGeJcH47RDjz97ztSyAkwR2Mhdf8t4TkEjCxo1hWxw2UcGi3bHbgKh8WeaWYXxyAjffKTCToM1u1bs",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 783000000,
+    "newSupply": 782000000,
+    "cycle": 196,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:28:46.549Z",
+    "signature": "hzNia4qtwYbkkxra4KAaffqV7cGWN5Bnr6r2KGgdxW4jyNqHK8fTWNWFTRHNE1tEcEuez716CAKFqiCc8w6E4Kk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 782000000,
+    "newSupply": 781000000,
+    "cycle": 197,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:33:43.325Z",
+    "signature": "4ipsWuyimTPurY43pPAvk76qxRuc9vZaHBzR7EJjntB8UUCXcPZFqea1effJPaPy97kqjo4mhgizvh7NZz3RziLL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 781000000,
+    "newSupply": 780000000,
+    "cycle": 198,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:38:44.586Z",
+    "signature": "29s5FSmKGNsZjFrY7yGheYufxvzrTo7imzTw59bfU2WbvQuiRCGpCgNDEV6998uteLXcYMmUGRGqEVnCSR9os7zW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 780000000,
+    "newSupply": 779000000,
+    "cycle": 199,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:43:44.971Z",
+    "signature": "39h9zuVBgS3oa5QoumoiUULiqw4WTSupsAzuaCoGE47WzPz8RHA54yg4rGcNoAsh19L89ZXSPPAnzrnbCGgZqaKp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 779000000,
+    "newSupply": 778000000,
+    "cycle": 200,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:48:44.233Z",
+    "signature": "27X8VsgDmhWbS64o35bijNcMUpvpPYmRWHEDpRa5wwW216SZBMz6YnQzFuXgApLJLK6sT8S4qRBXVc3icY1DVWtE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 778000000,
+    "newSupply": 777000000,
+    "cycle": 201,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:53:44.161Z",
+    "signature": "4qBVaXwyodraVpDvKarLSGHRncqW3174UcTAsQtD6bwHRUnDJhGbhbGQqXgQvDzit4gv3EgFgTs44nMbTKgfgmGL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 777000000,
+    "newSupply": 776000000,
+    "cycle": 202,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T22:58:43.484Z",
+    "signature": "29GWddGWTo5c1FNbMzo5NFDLWsQrCa3aw3uAoBxtvkaTZd16Nwme8WA7CCb6MGDv7dWP7yuTzejgTvNuB18PvHWk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 776000000,
+    "newSupply": 775000000,
+    "cycle": 203,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:03:43.210Z",
+    "signature": "2mAnSH8o8k8PFdtX9orQGjwW4qUpjruxDUQTbAFA16YFXgow779UAU8pa3AwFVQgA5AAdgAhBg6PqmcjTjMof2zc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 775000000,
+    "newSupply": 774000000,
+    "cycle": 204,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:08:44.704Z",
+    "signature": "47mSQJQRvaANXFWwQsSg1YYBVRmciz1xqCTM4WHTujDn2APzyLBimGoQ8Spzxeek9ry8XxZV3wzcPWkEmYSrPqGA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 774000000,
+    "newSupply": 773000000,
+    "cycle": 205,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:13:43.127Z",
+    "signature": "4FjthLKrAQmVvuauLMu6ruC9Hjjxpq7ZZgrDadAVjLpMqFwt2s8pRwrydV88LCGRbCZcKzJ1nco64WgzHoLCeZtV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 773000000,
+    "newSupply": 772000000,
+    "cycle": 206,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:18:43.604Z",
+    "signature": "MDXfJxrfFZTCJQBZUY89jC1mhpgZfJLNWmgBuuX6vbmZmRjmdsgxZRghwx8u9LqPFWvfnqQQqnGxRpzzgjFsU17",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 772000000,
+    "newSupply": 771000000,
+    "cycle": 207,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:23:44.944Z",
+    "signature": "3v7rp52MEZbXS9owQ6T19HwK59rDrsJnuncPAjtep5nhDDVeWejhSoASK5Yupi7Ex8upv2mqRgKXv4CGWxK8AAGC",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 771000000,
+    "newSupply": 770000000,
+    "cycle": 208,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:28:43.520Z",
+    "signature": "2qtEgP54vUBQzrDcmG28MkbcGT8Zb8xSHKHVKFJXotE11VbYdZJMyimpUf5BZn2WrwgQ7CE1WmXJDLEf1eaXY17N",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 770000000,
+    "newSupply": 769000000,
+    "cycle": 209,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:33:47.156Z",
+    "signature": "21Lmqz2HZqHS3jUb3ro2msp9E2JE2S6kNU4SvaTewBGJKrnyN3K4qPRnogDj28ywZ3LUFEnpXzpUBgh4weXhc4af",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 769000000,
+    "newSupply": 768000000,
+    "cycle": 210,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:38:42.944Z",
+    "signature": "4vhC8gggjYb6fW4BoJFAWFZ1aD9PUCqA5h9d4CTSas9AQt7k8wijMLsEtdJk8UmQKz25678bKXA3Wg9QDgrx99Dg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 768000000,
+    "newSupply": 767000000,
+    "cycle": 211,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:43:43.240Z",
+    "signature": "4oPe11Fay8tfq1546s4BEY12VxgGZdpV9VcC7AJu3wUkGLMvsPxbqZb8kDGH3gXvWPpUmtsUzVyWrcR8jQcE4zPb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 767000000,
+    "newSupply": 766000000,
+    "cycle": 212,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:48:43.203Z",
+    "signature": "4nQWkXRH3bpZf2pkPDAn1e91QHnJ6w9Y3kGM8A8euMazigTXfKphBFYWW9mFhJRrWN98iTrMBYjFZGbGptVbd6uB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 766000000,
+    "newSupply": 765000000,
+    "cycle": 213,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:53:43.310Z",
+    "signature": "4wiN7SSjRmKECGvNHWNG8V6LNbzD2yd9F35tbfLQA81mu5Q1FPrqEx2AFBHiDRxT18jMYW9FYzVkZCpnwTx6KcvR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 765000000,
+    "newSupply": 764000000,
+    "cycle": 214,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-30T23:58:43.835Z",
+    "signature": "3Hme4YJZicwgq8QhXNseZjEKcnU3UEYQND8GZKD5kruFwdeKk1ufXRZhxrKYPu6dqD3tMxUWV3SLP5693k4AoLTT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 764000000,
+    "newSupply": 763000000,
+    "cycle": 215,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:03:44.813Z",
+    "signature": "aFfABT6eWiVqniMVggvERmjE3AMHwDcMha8HtnLwayN6Yoc9sAGLyi1WPFhQthngT4yZ5A9TUtwtoeCHDMxSTRW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 763000000,
+    "newSupply": 762000000,
+    "cycle": 216,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:08:43.177Z",
+    "signature": "5V6WsMzSyL6s78RbF34sincn9AKsBGmb2Hpku7m7HobGHu7jAofXUe19HnKVuC2dFsz4UhdTgQzADvWSohgZUB9z",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 762000000,
+    "newSupply": 761000000,
+    "cycle": 217,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:13:43.939Z",
+    "signature": "2i5bhGuoauuWHCL3T5yMV7eS52nuU3ykFUXw5Z4VyFz3UasV165oZckuWrGZCCTvrQTng5wr5Csm64Eah4axF8YB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 761000000,
+    "newSupply": 760000000,
+    "cycle": 218,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:18:50.344Z",
+    "signature": "3xERY6EGhc3uymDtbq9iY8VedbwbWCdqKTF43YPpKB5fUJFG83Dm4BF3X35QFEdvFWsEsqryq5gzsY5w61HxVYnd",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 760000000,
+    "newSupply": 759000000,
+    "cycle": 219,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:23:45.877Z",
+    "signature": "4xgXkwx8HWMrmmqrpfoChuLj9As9hsXEnho8oUk6P9iQk1rHCYw3P6LrZrFXEtGPqfWAVaPZonxqEHhM5sN5UPJ4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 759000000,
+    "newSupply": 758000000,
+    "cycle": 220,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:28:44.420Z",
+    "signature": "483wGdAorz4mDjMaZC3gJ72V5zXNCBSPyfjn3STjYv9PHnxUyk7S1YavnmK52dotDSJV8tob5WXktzy7fvXeMDbq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 758000000,
+    "newSupply": 757000000,
+    "cycle": 221,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:33:43.215Z",
+    "signature": "AFPQd18856xjSN5BWYsaWAYBKYmCEG6MuDXVbFTVvngJPeCDs4pVkqcycLtdtfjepapamdW1FosLwzBijkdq7oY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 757000000,
+    "newSupply": 756000000,
+    "cycle": 222,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:38:44.518Z",
+    "signature": "2SKPQkYQPRtJoq5MYoeZHKSWhwfnRaFo7XHg78tDgjQQiGGePDbFBNgnUWDcjadDhRUZGWWXbvzLZUtCEAicjnxQ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 756000000,
+    "newSupply": 755000000,
+    "cycle": 223,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:43:46.529Z",
+    "signature": "4XFuXxZfnpdjny4vY7r3EtHq8haMTLRo7mLrTLn7KrBFXoNhvFktTzCjLGhsgsPrJgEmVY7DZfxTZouhBpuKKSs7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 755000000,
+    "newSupply": 754000000,
+    "cycle": 224,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:48:47.034Z",
+    "signature": "2jp5bApPGt28mjddeSNz2RXkcYRtHdcnsx3P4UqtLANHSvWyZajuTA4tk9MFx9SmMwg2XNVKVR8gmsY7rbHK1utD",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 754000000,
+    "newSupply": 753000000,
+    "cycle": 225,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:53:43.365Z",
+    "signature": "5kG3K9EQAkUPcMFUTgJroBp8RfhbdyL3njhTLaYPHHwUNuwPXZLZB9h4e2ZGapkrwi1zttTXf5wpa1ufmB8GmL8G",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 753000000,
+    "newSupply": 752000000,
+    "cycle": 226,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T00:58:44.101Z",
+    "signature": "TbcAhZYtepLxMLjKqtrW6HorA6M5HLgtBj4CADcGt48ok18xXHUgdWGu4oZQWJxnYY4gaHoBS4EJKwduYwyp3iT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 752000000,
+    "newSupply": 751000000,
+    "cycle": 227,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T01:03:43.478Z",
+    "signature": "29d9Ci8gd1eDGK4B2jPnyWdVeQ3VSRoqLP9DaNVxEovRaxoiBj4sUttB52pj9B7YL4KFGvDqExo27u2HTbFBWT9f",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 751000000,
+    "newSupply": 750000000,
+    "cycle": 228,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T01:08:44.171Z",
+    "signature": "3gCiERMo5fLfmvMukVg1P21KT6CcuE4RcsxzAg97jhzHyVM6ChRLHaaaPQ6DEV1NXDYCMTWmPfx8G343YVhpTUWr",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 750000000,
+    "newSupply": 749000000,
+    "cycle": 229,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T01:13:43.317Z",
+    "signature": "3P33XPvCKew8GhGnMK5FFW2UVRLferG81gJ4hZLfBKUdAgj44UX51ntyMnUWvaN3BuVacwAf573HvB4F2yvFRBns",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 749000000,
+    "newSupply": 748000000,
+    "cycle": 230,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T01:18:43.162Z",
+    "signature": "4H5FGdgakjQYAxUtDjcRdJpgdAxcgNLotQQuKQ8ozMbrMqfk27Jq6Bry6PZNqK3GRs76Vjfyk7KGSvezNAUqmr3p",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 748000000,
+    "newSupply": 747000000,
+    "cycle": 231,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T01:23:43.483Z",
+    "signature": "5f4CWCziRcQaN9H6jYzdwiZDpxTRgMuXwwdEXzfmuXCJfR8VZnaLq4BQGKbZSPZ2pJCtqQpfzChRZpcuzKJy2Pxr",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 747000000,
+    "newSupply": 746000000,
+    "cycle": 232,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T01:28:44.197Z",
+    "signature": "3QcbYyi8s6QoVFXWjtsCyKmnwwp5RXrbPQ61Mp3zDavMyguoRrg85Z7HdzCqKfHVZVyx1WTe6nyFMSBJAArMwttz",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 746000000,
+    "newSupply": 745000000,
+    "cycle": 233,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:25:31.633Z",
+    "signature": "2o78MdZbiGHxDZ6pSM2Eu8XXNsgcCB2VvCQnzf8BuWMPeyXTbAqY6R8HnLt3v7enL2vSTi8oSv2MTtmP5xtZ8F72",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 745000000,
+    "newSupply": 744000000,
+    "cycle": 234,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:30:32.527Z",
+    "signature": "4TM2fvBaTHWNZ2C1fGiCZ2x9q53WBeRf2mXgcBmcLCgdsLugGn7vz2GYHnSnxQPu1T14mB1XUBPc9iKocyqPK8dx",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 744000000,
+    "newSupply": 743000000,
+    "cycle": 235,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:35:29.944Z",
+    "signature": "4LxowUjC6AUPSp4KTabWTmuGg4R8cWQ1zEqUeg7rRFPUFz4gYF2EoXahwwXzFYxPDET1pk5Yf979VqEbvjzWX8TF",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 743000000,
+    "newSupply": 742000000,
+    "cycle": 236,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:40:31.234Z",
+    "signature": "2BNWkzMc51m41qqsszw9dbkSQ9mXxhStGY8k3iWPju27XaEggP7iiBwguAjB8BFc1XtW7ffjfSQWL7pvV3PBsGKh",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 742000000,
+    "newSupply": 741000000,
+    "cycle": 237,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:45:29.674Z",
+    "signature": "2vMa2FLRU8bR8fjNMmhX1GDXQYhrtCmywf5ZGpodKMBj1qsGyDbx9xXagz4v1sFMPWWnf6ZVFgyRzFQhQN56nZJH",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 741000000,
+    "newSupply": 740000000,
+    "cycle": 238,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:50:34.547Z",
+    "signature": "4g2FTxdVRR5ekzYATGxQute3E9hCWH1m1BBUVcR6XA8mP5UrCLuKGXdqfB4qCC2M9qUQvGB3HgbeWXwosEen6mSu",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 740000000,
+    "newSupply": 739000000,
+    "cycle": 239,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T03:55:36.708Z",
+    "signature": "3x9Tgp826HkgGLA1XRRTAHJ1rvjGVjzuYPZ79qdJgWyGFKpNA3U7GMkA3iBqYitUNVXve3qoAJ5k3orjrSgkp9HZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 739000000,
+    "newSupply": 738000000,
+    "cycle": 240,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T04:00:32.631Z",
+    "signature": "2EEMZX4XUDUC91QFJgaYdg6YRWjsc6Td9xEXKQ7Qpk9Ec5sK31PvzdmMtQXX9EXZPM18rwhaW1dv7aGwp2xuo7xf",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 738000000,
+    "newSupply": 737000000,
+    "cycle": 241,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T04:05:31.080Z",
+    "signature": "3wsbPY3oSqVwiAs5KQTciDoLV2oBfBQrwqDKrYrJpby5UQEjDuotovkqNfVQ2zTEUFJjiVX4sfvNkes5SrjvgNWK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 737000000,
+    "newSupply": 736000000,
+    "cycle": 242,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T04:10:39.545Z",
+    "signature": "4czrVJLNkAcz2jNH7onFUv77tQnen8Qoobdmt2RPE6qeqk8UaKDsG9XmwtQaDgWUNXBkNzZGozt67RSBnxuzni9N",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 736000000,
+    "newSupply": 735000000,
+    "cycle": 243,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T04:15:34.861Z",
+    "signature": "5TZeQKXywGCQtafe6GJP6EgfmLntsvRSGfk9AKxY2E4HVy1F9pjeSgBkvZzzfGSiSCreytU6TNAcGmSsSPYR6hfe",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 735000000,
+    "newSupply": 734000000,
+    "cycle": 244,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T06:36:35.159Z",
+    "signature": "iYh5Wcgo8Sb6qc5ZNicCmXmtFgGjiYbU9NvbBXconE6gd18SDCrgTJLd9isXWf2nRyayHN6oqrPgm694b4JXTk3",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 734000000,
+    "newSupply": 733000000,
+    "cycle": 245,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T06:41:25.929Z",
+    "signature": "LQcQ46h3qZSSEMYwTsX3mmnSTbA8vx1bbh9iHTCKRbHtkN1wD3Nox2CQsQTsRdTZbZ8HrcgamGVWs9pzX6WET2m",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 733000000,
+    "newSupply": 732000000,
+    "cycle": 246,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T06:46:25.725Z",
+    "signature": "2R8aPo87sF3e3StoR7VQi4ry2tXSQKYdKEYeFfx6aFCMx7cbxWTo14tPKG87VnHrooizAUaBo9baFvwGm62hbB5",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 732000000,
+    "newSupply": 731000000,
+    "cycle": 247,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T06:51:27.182Z",
+    "signature": "TVCHhniDhnAMFhYqyaT9U7543RLRL2cUpXtu9Fv1jGCgmobZjkayv4zxPDdifKkLbG2uuNQq9QxRrd9MNMXZNsS",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 731000000,
+    "newSupply": 730000000,
+    "cycle": 248,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T06:56:30.028Z",
+    "signature": "4mM8eRu2FQR6rAvf4EwdSkzvr5YZ71MnQYf83LHMHnpAx4QveNhFpsxqswoZtAQoGHS1t443uWVyoNSBALohSvF6",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 730000000,
+    "newSupply": 729000000,
+    "cycle": 249,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:01:27.592Z",
+    "signature": "2gJnsZpyHkziE6YjuTUMFHtwcUgjMsqN1ZADV7RJbdqzereiiLt7KCrMHwdrD5sCtfaRbuZctVGstNEKUoznd62H",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 729000000,
+    "newSupply": 728000000,
+    "cycle": 250,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:06:28.817Z",
+    "signature": "4yGgUy53VFpccCeMiatcF14vjQH3WwK3uqzgjvhjCVi3272gC5sufJwQqyoQSKgRHZVw6pdDVnwLVsvfXb4idBzc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 728000000,
+    "newSupply": 727000000,
+    "cycle": 251,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:11:26.561Z",
+    "signature": "56ELMbY87skkS9axjDBeZvWUtj76MdMfGHMcoTBvuTkyHSE8FKWQPtFv68CoSwaqx63JkGouJczJPebi8A8f2VQx",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 727000000,
+    "newSupply": 726000000,
+    "cycle": 252,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:16:28.487Z",
+    "signature": "MhAn5LoQW6Hw3uMvbZHT2TvrdGqJ9XhCR7Wqm4B3tEYSK3XdCPrQwFNT1jvyovWgTtAhsYDGMJAt9DcCCDXQ56Y",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 726000000,
+    "newSupply": 725000000,
+    "cycle": 253,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:21:27.839Z",
+    "signature": "5xKnd9FoUjK6mFr5vwwduJuSxdyRahJnzjSWb8hrsfo7DFchtTFLw3jtHLfzYj3F4uFTN7hdt98SuZHkeztPXNiL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 725000000,
+    "newSupply": 724000000,
+    "cycle": 254,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:26:25.632Z",
+    "signature": "4eiNm3EojdZPVgxpArTurvnAYo5VPN5TxvnYs36kQncCqSR2g5HXvTfGkrcFoZMjtjZ41hyQyRBTdyqHYpEzGimA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 724000000,
+    "newSupply": 723000000,
+    "cycle": 255,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:31:26.631Z",
+    "signature": "3yu5YfcryFfswagoonf4i7Npq5criZdu5LFdYcRgeAmd9BT6xvMjrHZM1LV8v8L8Wozjrs8PcWYFh5nPZwkTAwXy",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 723000000,
+    "newSupply": 722000000,
+    "cycle": 256,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:36:27.238Z",
+    "signature": "2QJWZ5T3hmZX8E8FG672pC3ZYaLRBQPUjmvRsqU91zEztEE1htHKs2F2KR59AfixAitYe9sUeNF12pirDprvLZNP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 722000000,
+    "newSupply": 721000000,
+    "cycle": 257,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:41:26.226Z",
+    "signature": "5s5ShMcNf4fQmfTVHN7WYCqr21qr58nPo83T9zrGCrUZMeX5KKxePdp8qbq9wKyWx2ZfvQgVmEr8grkE4d2Rc2Sc",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 721000000,
+    "newSupply": 720000000,
+    "cycle": 258,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:46:28.416Z",
+    "signature": "vjw42osLsmXqowdkTeiyqAeQCFQx6jAY6xeYBcPqrvQgLjWXKvKL4uBkaBGHgBh4QCm2ah4fT1GJhvTbzFf97aN",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 720000000,
+    "newSupply": 719000000,
+    "cycle": 259,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:51:30.275Z",
+    "signature": "4xzCVPDgufaeC7FTuywYuyZfbiVPivgFqh8pxPpXiFKnwcPkGGYbxphprFrivQJjgT78BE91kggjiZqsFmwMoMJs",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 719000000,
+    "newSupply": 718000000,
+    "cycle": 260,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T07:56:26.769Z",
+    "signature": "cMTkuA4qzXUsEttyfDcWKEB3EpdVXFqBBU5RmGHfCtRSCX2t2HZuw8QTYScwNaotnLsQHcgYpNwjjhRSgLPqVAB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 718000000,
+    "newSupply": 717000000,
+    "cycle": 261,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:01:29.105Z",
+    "signature": "3cKBvNuSpFaV6JSmEf8Bmvpv2E8uX8Duxasbkz8rQp7zvHRC78Jao86HoeUdGuYDPVd4N5pFYAGAu6ByBiCZU74j",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 717000000,
+    "newSupply": 716000000,
+    "cycle": 262,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:06:27.351Z",
+    "signature": "5A8McKRtY6FGRae2fdvyjJwPwNY8mM2u4dMX1VttjqVgzGzAiHiUEKhdcxs2Y4wu3oRQc6TcQLxTiWZJpE3H62vP",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 716000000,
+    "newSupply": 715000000,
+    "cycle": 263,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:11:32.030Z",
+    "signature": "s2HU4PVddxokvWcqBNZM8YRiUvyLFBYJEKMvbjpRXSmemE9sRxC8PsdNSnHKsCPLAXyaHZ4JNgrunchAuWz5qZz",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 715000000,
+    "newSupply": 714000000,
+    "cycle": 264,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:16:29.997Z",
+    "signature": "52TXpkUjgmE6DhkFr5Lwa3hJSoJY3WNpXXjKriK8bK7YJd3ij8ZEEwi3vqt5xjcryux1skXB6umgNk25HZJoxLAw",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 714000000,
+    "newSupply": 713000000,
+    "cycle": 265,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:21:30.306Z",
+    "signature": "2v3juvaxhgRXDxxaRvyQX88cULETcjBnu63sNBAV3MYQDonx2KBLh8Jfh3QowJks397ur9sAjaA6YEUsM8y2AuLo",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 713000000,
+    "newSupply": 712000000,
+    "cycle": 266,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:26:32.980Z",
+    "signature": "5XSZjfwb91EsoVyq7nMT5yNwYA8smQtVC8beHvQNXQWi2coPnJWGDLoeRkzVr3Xk8WGrrYmgLuXutsXNG78tydp5",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 712000000,
+    "newSupply": 711000000,
+    "cycle": 267,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:31:26.296Z",
+    "signature": "3jBpTNJuecvzxXhVa4AF97oGwtPTKiDYKh3hXmfEA3Hp9G2tCmFvmbg4ZtuqJM7jPPusPKKLWMcf6ZbiSWRcoK2g",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 711000000,
+    "newSupply": 710000000,
+    "cycle": 268,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:36:28.863Z",
+    "signature": "4J1UUvcY8sbC1t5MJ7uqZfrBRdUZea3GsNFkcuq27B59eaYy9rXvhDm4jSAziqMF8TVgcSzKEuvVh1pkvREGE417",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 710000000,
+    "newSupply": 709000000,
+    "cycle": 269,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:41:27.305Z",
+    "signature": "XaseAjHHDLNLdLSyk7nKwynT8ijqRcYueEZ97xx7axsssV88ozoovYWUVsd22toc5UroDWguxz5p3xXF9DSJrZq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 709000000,
+    "newSupply": 708000000,
+    "cycle": 270,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:46:29.236Z",
+    "signature": "mu9cxAUWUgj7F71nFBLB8zep6Koa8SPhGPpc8pB8aE9XQ5v8Lg5gshvYqYf2jpDhG4SaYLhqjp6zK9nqRMdtzFa",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 708000000,
+    "newSupply": 707000000,
+    "cycle": 271,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:51:28.581Z",
+    "signature": "23rmkM6ZbHLRLsvwPAhQs2dhh4rw3ybb1f59mYTHLZ8Hn1xwggh9jgsJDseGsgAvE6ZFLnwR1tsMhSba86EfUzj7",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 707000000,
+    "newSupply": 706000000,
+    "cycle": 272,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T08:56:27.599Z",
+    "signature": "2Hy5gPL8DkWVwmbSWaqNJqLncbtMMUBeSceEbjCRNS1jEbj2DBnUL5psm6RZD7kEBXP3gXqvhV7ycHRypNwjSmpp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 706000000,
+    "newSupply": 705000000,
+    "cycle": 273,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:01:31.244Z",
+    "signature": "jXEJ4ik1eJ1YDNP4hhi3z2S8vnDSvbL9SusfCZmh7sY7oxLFS23uzp7sNRGLF16snLKSt8epwxcwHBGQgjPsbVv",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 705000000,
+    "newSupply": 704000000,
+    "cycle": 274,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:06:30.917Z",
+    "signature": "3TqAVT4NPjwMk152xehuR9nf8PRUCfjqozerVuvg8QsEsogHrNu69nnwWegjKbwB5VGjPeXgwqTrw1KHN5psGCEn",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 704000000,
+    "newSupply": 703000000,
+    "cycle": 275,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:11:28.226Z",
+    "signature": "3i3Dhx1z2PHvFdbaRAtEEk9PkYKwwhjhDCs6yVsGGgYPmW9UqE4cK2ZMYPUYjynfVkmKmTHR2yh9AxT2Wfz9wLDL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 703000000,
+    "newSupply": 702000000,
+    "cycle": 276,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:16:27.009Z",
+    "signature": "i36skkKgvEomVSztb2Vg8U9agXMe5VYaWrdEnp1y1aARd2t46pUPbFzh6p7dtQnzw1qTk1Hr7LTDfwg6bQVPKJV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 702000000,
+    "newSupply": 701000000,
+    "cycle": 277,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:21:27.602Z",
+    "signature": "3s6Mi5JbEVt3i8R27pYq8PjnyyL3G23JUCA6kpzS4DAwWXnQYPJAjvgz6v3FXfg4hN7NUXkKLZCRvVfCZHuDoFjZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 701000000,
+    "newSupply": 700000000,
+    "cycle": 278,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:26:32.125Z",
+    "signature": "2QtLDcyZuSdoguaeAraJDzhZfyGPXo5sKm6bjmQRfyLBY2ffhLkW98WM87weA7kDoC9m9S18QsPX8oc5B71knSQL",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 700000000,
+    "newSupply": 699000000,
+    "cycle": 279,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:31:26.277Z",
+    "signature": "47m4NRrXGgXp8PMBb3j7x8NRphjJcjkvCt8D9Jk2SsVVn6LTodZhZhpByu4k3nNmrfom2P9txyzc8jzua693Esmb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 699000000,
+    "newSupply": 698000000,
+    "cycle": 280,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:36:28.533Z",
+    "signature": "2XNanj8puA73yg9965DRycmgqEBzkvcUa6rCr1WvdgZdbWyb8DUwL4ounvqQhvoyLgwKNdcoEtpaSC5ys9GG44yX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 698000000,
+    "newSupply": 697000000,
+    "cycle": 281,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:41:32.023Z",
+    "signature": "3Ttx62CKNAsAi3QTCVUkycmkajcUAVqvBQnm3k3WSRpgXcg39KMP3E3LH2q1A4erkaXardzCFytEPiEF4vDcWZof",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 697000000,
+    "newSupply": 696000000,
+    "cycle": 282,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:46:27.007Z",
+    "signature": "55Ypc62wGV9esCbSFKC18b8Y35ASyrCy8zvu9CQMkaMRAd87uVZ9jkqVEGoA1eAZTGUMwiCJQaAtGF9bzTr1UaoU",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 696000000,
+    "newSupply": 695000000,
+    "cycle": 283,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:51:27.355Z",
+    "signature": "48Cs4UMbdr9mjbfGkhvbpgqQvACnfjLGWqzigXNhrWs9SECV99urGCYYiDfDVRuTBJTNHugYkU7niStXJdqqLvYQ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 695000000,
+    "newSupply": 694000000,
+    "cycle": 284,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T09:56:28.257Z",
+    "signature": "3eCeVLAGZFM2ZXVsm8ReJQ2LUv96JQtk1WKgtMGD5fAPqnn26LMbfkzaNtgjuQcoYLk88uoNakWaoqpAmLsoWmVX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 694000000,
+    "newSupply": 693000000,
+    "cycle": 285,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:01:28.614Z",
+    "signature": "2xyuF79mi1w47fJQHF68pEa1PjHhMc38Bv7L2Yq4wPap6ZxNAcupV96VNpmgch5cZq773Te5TiHUT6z4T5y1L3u4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 693000000,
+    "newSupply": 692000000,
+    "cycle": 286,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:06:29.861Z",
+    "signature": "AhGWVHbh8Rsrbns2FJgGJ6Fj2JdBH86Kbfnz8zrVafxagNqsQ6MxnY777eXbmuL6tvTG6q5DHHiNapZnDsfRzhK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 692000000,
+    "newSupply": 691000000,
+    "cycle": 287,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:11:29.448Z",
+    "signature": "4UxiMR1SgntGrH5FtsnAvJyEEUJrrtmrrpENdPiA9e9rn1T3sAKZd9ueakRQvgEJn8wnfLtDwPZnjVG4zAQhF1Yz",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 691000000,
+    "newSupply": 690000000,
+    "cycle": 288,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:16:26.901Z",
+    "signature": "3n8yV1hRfgmxG7qq6qTbdW7Ty87S8DXzY7nTv6fBVCkU1SrUARHrqiei3KgWqXiEeiT3ajtpHts9HyeGwDxSYW6A",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 690000000,
+    "newSupply": 689000000,
+    "cycle": 289,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:21:36.488Z",
+    "signature": "3JWZ49LyXpmTEDvRWJX93SKGukgnHdGkSPmRxwweyEbzgz5f2crQxs43NFmeiL2CxHxnAsH9is2Xa3VTczqkNpyA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 689000000,
+    "newSupply": 688000000,
+    "cycle": 290,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:26:29.533Z",
+    "signature": "5QRVX6uWyb8HtcuM2b271zCotFnCHfKZ1n6Cvj4MHjkPACPsgiVwL2yjEBwfk65BuhSToP8DgfkyZnJUdsEKWqzU",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 688000000,
+    "newSupply": 687000000,
+    "cycle": 291,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:31:34.766Z",
+    "signature": "2JxW8vgvTFxAM7qGpyEEV3AovzihugtumXXQ9p9cj6Xj9DzDJhahvdfKSvEtyREzZL6iZfzAKHhh7rWwAAhwzo3F",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 687000000,
+    "newSupply": 686000000,
+    "cycle": 292,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:36:32.620Z",
+    "signature": "4LJPMLPDmBGpoemowNwwM6bsSm3jBV7NDLvS2En6mZysJT8m87ncrjrtVN4LzB2vokEBfDn9d7CXZTxhLY2txNVE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 686000000,
+    "newSupply": 685000000,
+    "cycle": 293,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:41:26.858Z",
+    "signature": "4JQsBdNd9X25EC8ZFJHKzP4U2CnHMQ8GxTZowr6mSn4aPp4WKbCR1VcMv7Rwes6m194ydNEY4PJq4pv3qCSSaWJ4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 685000000,
+    "newSupply": 684000000,
+    "cycle": 294,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:46:27.231Z",
+    "signature": "3Mr5YQSHM5SbT3RVBgwyV1xxXks3E4ymjWFpZ6J1fM75oLAgfaWkMYt163rBfwhXea51bC8VDozTtX1UVgTcMU4z",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 684000000,
+    "newSupply": 683000000,
+    "cycle": 295,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:51:34.945Z",
+    "signature": "1czRMmMGvMPkAxA5TKTXHPWpHANxYFfWG464VpwrGBXep8vAadv1sF1cHZYYBAV4GZWxmo7CaYd3WtRYVj1qmRe",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 683000000,
+    "newSupply": 682000000,
+    "cycle": 296,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T10:56:29.769Z",
+    "signature": "46i1RbMAR5B8zQBhzHMqyHfAwJRfHcKxbL59eaCBxXNReL6uMgUSLZtyPWGzU6PDjT5rjMbvEqy5i9NfzCg5RKuW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 682000000,
+    "newSupply": 681000000,
+    "cycle": 297,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:01:30.042Z",
+    "signature": "4HoWFPfMYAnWCeEDc8efiB6MvLn5JAqg8cVNbaExr3DozthnxWA2rV5Cf2aguk1vAkBQxF1NPMTtHkJaKmFRnDYH",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 681000000,
+    "newSupply": 680000000,
+    "cycle": 298,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:06:28.203Z",
+    "signature": "65RXSWztqbjUqHwRjz1H9qqhhft4HjT9DJhrNKEN6hRP9jLBd2unzdmgnDPVN8MckCpE1BqgapC3FR9tGCaYCSNw",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 680000000,
+    "newSupply": 679000000,
+    "cycle": 299,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:11:27.208Z",
+    "signature": "57s1t2TcDiixBkN6pEJyZhhdgb3M8kwL3kg6DkREUzzcCESwPhaMHDmGXRuPcCYKHEb47vqetK7sWB6eU3qbGpuf",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 679000000,
+    "newSupply": 678000000,
+    "cycle": 300,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:16:28.812Z",
+    "signature": "F5pDb3HUwxWThprWT8HnYwJv23YGpMnkMYdgaCqd81di94r5mpmbP9Xq17kuAwrkvosR5FGoRYG2CzyQjV7HjyF",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 678000000,
+    "newSupply": 677000000,
+    "cycle": 301,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:21:27.158Z",
+    "signature": "2NvYWyNh8wsojedh5kqvoNaQge6thZpLMqHXncF7jyj93cWCy6BetnMXvGu6ZhSf1GdHWNGMqT8CitLhu4izXbjN",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 677000000,
+    "newSupply": 676000000,
+    "cycle": 302,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:26:34.727Z",
+    "signature": "2qnJZGYrhbkh4TBrDQgxD2tUFBuWXLz6TvPa3obT9kaCYVTdri8apGmam4FRCXnADwurh9v7cRKZp8oxi2VGVxMy",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 676000000,
+    "newSupply": 675000000,
+    "cycle": 303,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:31:33.530Z",
+    "signature": "4G6nwZncLMRxx4LdATMHP1tANSJtjt2rH6zt1HkU1UGYpbR3TEnmyCw6PNorow6X7wM6Q353TncHpxsfGFxkr5tk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 675000000,
+    "newSupply": 674000000,
+    "cycle": 304,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:36:29.010Z",
+    "signature": "5GopgygbKG1kigoet9bmPbrnxSguNAmbQ9tnp3PK2sqFgVPf6FUcFSXyPBvWjh1M4UnhRQK7B4ydVRzKMFAzUuDX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 674000000,
+    "newSupply": 673000000,
+    "cycle": 305,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:41:29.238Z",
+    "signature": "osyrfFvXrUJob9HmJK6px44TKFG23tBVSVEcS31ZzbfPd3Cr5e3ZatdHTjFeBTMTFZBFuxBYRh9iVTh2z3hHpLa",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 673000000,
+    "newSupply": 672000000,
+    "cycle": 306,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:46:31.499Z",
+    "signature": "3o6qWGL5Y3bENXycfYbDVCpwbkCdobjxhVVTZszcBGsXNFsykL7UEzdSrvhPWpSsTZNytiM71WJMpDTLxa9KF9H",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 672000000,
+    "newSupply": 671000000,
+    "cycle": 307,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:51:27.926Z",
+    "signature": "2fqqJxHRXx7dp7oxWLPgVM92dMGJUWyXPAHFg3pydyyfU5w8bN8xPVGidnQZS5o6G9ytZikTMSjRaNtZ5fPe9Rbh",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 671000000,
+    "newSupply": 670000000,
+    "cycle": 308,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T11:56:27.948Z",
+    "signature": "5SHoyRPS4riQEMGJoE17m8y4NjBSnvLWdC1ErtphdQfnhwTVgVzr8gaDbR5QWGWN53JZuwj9d6HVF5CMERhB3Bvg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 670000000,
+    "newSupply": 669000000,
+    "cycle": 309,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:01:26.907Z",
+    "signature": "267XiV2p3TskmFreWsyDEbn3kAM4fx299UwCUhTxF3FzaPjinNaBAtzpDfPqQ8sbUtETnAhK9jECAmnFFVqn488j",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 669000000,
+    "newSupply": 668000000,
+    "cycle": 310,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:06:29.753Z",
+    "signature": "5YgMeZJwyqJibHE2wLypQvwAKEfHA4FDP95XzWcyuv2Pcfbxqc76DAEVhSJmjVUkpHtyL49bmEKp34Cqsfzvfago",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 668000000,
+    "newSupply": 667000000,
+    "cycle": 311,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:11:29.203Z",
+    "signature": "4o93EibwMxugwBBBwggCtfzkogBiGQbxXyYkMGd1sg2iiEBWzXDByPgqLCf7nZSStCnUMEQsHPZaUsjFvbYwDggU",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 667000000,
+    "newSupply": 666000000,
+    "cycle": 312,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:16:29.781Z",
+    "signature": "5NnQuNhSUqVyVnCoAZ1aBqBT92RikEjbvFdkAG7zGNEfxi9ff21ABhwXPpzdeSggeuNMdFjvkGT81rXaSTkftYGA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 666000000,
+    "newSupply": 665000000,
+    "cycle": 313,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:21:33.731Z",
+    "signature": "4Fnqmy7S52L4LjPvHotLkXA2km62iYesdqtRqoWbb7zbXtgDQfZFcm13KuiPNFhiY1LN8Sne5LSzqyQo1FSeKcyq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 665000000,
+    "newSupply": 664000000,
+    "cycle": 314,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:26:29.744Z",
+    "signature": "5j5fQXUoa81xLNKGq51kQu1qtJhfhDJk7Bfv99ajmgSQYuDrUUske3xer5hFxeAnhiipN9gcdiDThkGazUu7iZEM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 664000000,
+    "newSupply": 663000000,
+    "cycle": 315,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:31:28.598Z",
+    "signature": "4pJ45mzc5UHpTPmm4xcMMV7aqQ3r7nywo9zb6xCDYFKSxmiMb4ruiooYmVhM3jsrU6RV5MP1NBiaiW2YAQ6oaTgf",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 663000000,
+    "newSupply": 662000000,
+    "cycle": 316,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:36:29.713Z",
+    "signature": "MD6X4yk3cMFkbe4AgcyBbYQeVfbb7G5uypi3knGEhbQkLMnUL9bTtGHodEeLay1Mc2fV96oLtWN53vvJ9hRaS2U",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 662000000,
+    "newSupply": 661000000,
+    "cycle": 317,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:41:29.358Z",
+    "signature": "1DCzYdCPQti97KpmDrjb82Nh2QTjuvVz6qMNs61KaP6ZbEVNfKprB1YzuVoohYipi1WKhYp2i4S5EKspsrZ2QTX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 661000000,
+    "newSupply": 660000000,
+    "cycle": 318,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:46:39.620Z",
+    "signature": "5yeVNwoWZscokTN1rd8mwB9GHkmGUumZCX7ks27xy8eS7Xw6fay9k54zQfk7XgHNmyXPX9A3QLptU2qsboxHsTjt",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 660000000,
+    "newSupply": 659000000,
+    "cycle": 319,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T12:56:41.096Z",
+    "signature": "4AohqpmherxHfNMQ4jvqRRVxe13kRyvpntsfG2kgVj5ucSJ9SgUsqYLEfUUPn3zcJ88LvkH2ASwDN6bDZAr5xjLT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 659000000,
+    "newSupply": 658000000,
+    "cycle": 320,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:01:28.277Z",
+    "signature": "4rhYTeB5yqLyLaFn5ChZYbro8b1BJv96nrf5j295FpaKdxfwXZoVuPQxLFeVm8eD2ogshMHd6srFUs7uYEWX6E3x",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 658000000,
+    "newSupply": 657000000,
+    "cycle": 321,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:06:28.797Z",
+    "signature": "3SiemHJCtHQkYkArj5GXGrvdjvi7jYXxsbjkxaj4EQ7o6s2weouJUp565EXeVbLXANDeyB9yv7W6pshu3XMZTPuX",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 657000000,
+    "newSupply": 656000000,
+    "cycle": 322,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:11:28.448Z",
+    "signature": "2jgwuhSLCmuVaSyPh3HQpm2qJRXzteiJPFRmMGq21apDHg2cSaadECzGkYvJvrWCu4iWGeoZFQMHxBGHJs4H8Bah",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 656000000,
+    "newSupply": 655000000,
+    "cycle": 323,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:16:29.024Z",
+    "signature": "3WSMRqNqHQg3wnVbnDReXGA8mGo8pKr3gGBWjbfqjcZv5awaiDV8EN8XnVLQj44U7cNCZNpnmmuyCwH6S8d6FZKm",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 655000000,
+    "newSupply": 654000000,
+    "cycle": 324,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:21:30.059Z",
+    "signature": "2KZpmEe8imEW7qFcTiFzxC3stwwsEwYWF2EzKPZBXVuzqKRQBhw1qeESatpD8hjZ4jMi83eJUeQrnBeJ8WxxHc19",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 654000000,
+    "newSupply": 653000000,
+    "cycle": 325,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:26:31.213Z",
+    "signature": "4Fw3uRkWw2EsxM2FTkAqAV5EhVCHF65zaXcQGxrKJS6g8Hi3vrTMuYhJkq5GVFkHxKNaU9zxq2wvPLdPgRHTAR5w",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 653000000,
+    "newSupply": 652000000,
+    "cycle": 326,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:31:27.995Z",
+    "signature": "2cv8Qk6WNRL4NbTcgybxJA3T7qP1jrWep6GkMzziTRoRzmb3myMDXU6RS4LCXoshF5sgKPQyC7ePpKqsvJpLDeMT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 652000000,
+    "newSupply": 651000000,
+    "cycle": 327,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:36:31.125Z",
+    "signature": "2n22zuGhVV2qFPyT9SAAZBDKd5zsp5sgPCrtYrcXJSV4Zn4jnwFVakgvJeippLbFEFVLW5Vn5LdmAYXYTaLgwSoM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 651000000,
+    "newSupply": 650000000,
+    "cycle": 328,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:41:30.483Z",
+    "signature": "42XrTiFhdnwQVYgujAQ7Dc2fonvHhbGegPLKz5LZ6rd1vRRNfsLiQZuis5kfURbrTkGS7fTAGvVqFzrridbzSXGx",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 650000000,
+    "newSupply": 649000000,
+    "cycle": 329,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:46:29.334Z",
+    "signature": "AVGibV7uQhkZgDQVFx1ikMDUVkSZrrGPYxBQQULSf76CHutj1GwvUDirALfze3MmgZu2x9rg8QkdGwovWy5ZmXE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 649000000,
+    "newSupply": 648000000,
+    "cycle": 330,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:51:30.332Z",
+    "signature": "4UUH8kv5cCCJEDDeQcKgcB3HgkLbHaav6J3Gz6UXqykJdrEUKefYBoKAPLYSAYtEwEEFuNoZmkTxApW7MGeXaCxb",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 648000000,
+    "newSupply": 647000000,
+    "cycle": 331,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T13:56:31.655Z",
+    "signature": "2t5RYe9w1SqyE6RbY9eBQxQzcWtAxc4k8gwoLga4dyiK7ABkbWMefhBEGsEjNiCCJDW3ks6PHyP3JFyJPA4v1zaM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 647000000,
+    "newSupply": 646000000,
+    "cycle": 332,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:01:27.659Z",
+    "signature": "42F7m1zYKJTSU46npdLkz7s53ZWLzCVdejysZuS5X7j2CJy2tHYZ7qKUbeqDo3CYPmK2Tw1M8NnCzwyX5fAc2fdN",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 646000000,
+    "newSupply": 645000000,
+    "cycle": 333,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:06:28.017Z",
+    "signature": "4DtGWZjeCs5VHw7aFtXx6RhJvgR1ULhCHs1bC6d1LDe4a3cMSuWZHZbKBKwERoHWA9Qj8qwZPREnWZ4A3wPN4Rxg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 645000000,
+    "newSupply": 644000000,
+    "cycle": 334,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:11:27.033Z",
+    "signature": "4iCXzSZUXWkpFN3iqS1axnCncSFR1aGazVPBinrWTMM6xAU8kpzv8vuL9qiD1YwdS6d29EgCh4a77L9bhoVi3YSV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 644000000,
+    "newSupply": 643000000,
+    "cycle": 335,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:16:29.002Z",
+    "signature": "3Dq2T18i8m2HvANs5KoGJFenHiSqyWJDqwifnwYgKRKcneXiKQQj23eiPR1GryGD8eWSZnuXJiNXkHajp8bSB8G1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 643000000,
+    "newSupply": 642000000,
+    "cycle": 336,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:21:27.918Z",
+    "signature": "5xoan7mjkwurvhUToz9JFFcueb2NLKng3MhcNp75tAtZtovE3zLQ57c7sQH2xdEcJs4NyTV9HYajjpSFUU2xnTvD",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 642000000,
+    "newSupply": 641000000,
+    "cycle": 337,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:26:27.881Z",
+    "signature": "3upBVYFe7mJ4AngGNn7e67sXSN3ANULv5UGqqe6LQ9DsbWdFWE4wJ4ot8gD6DhvW8Rv9SwYKFrTMNVXL25KNqhSj",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 641000000,
+    "newSupply": 640000000,
+    "cycle": 338,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:31:30.006Z",
+    "signature": "4zJHDuEmm2SmTvTywFcoNGt7hoT2wt4qdsdfjzXhRoLjCuQisez6w7ap7hGaJVvBFWnLRtKtgTkiyEobdYVuxqdB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 640000000,
+    "newSupply": 639000000,
+    "cycle": 339,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:36:29.341Z",
+    "signature": "5KPzz1exnnvY6bFfkP4skwcoHJsC9VG624e4P59QHHfDptKVex8NL97rR84HW2QbSkMQdSa9XZ6qwe2vWnrBQCXY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 639000000,
+    "newSupply": 638000000,
+    "cycle": 340,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:41:28.890Z",
+    "signature": "3kuP1KqpuRfseoT8ZCsd4RWquQ25xhjqoihiyQvQLkM1KTp4H78ovNqxfpWSygVxh9SVR9iqrcrqP98a2fHkjexZ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 638000000,
+    "newSupply": 637000000,
+    "cycle": 341,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:46:31.026Z",
+    "signature": "3Ex4V8CxNELVd1xW2MYPTb2WbCJBTNgzFn4Pc7qU5GdstFD9az2w9D628rqppcatUN12j7fLeZSA4LYMaabgg8xC",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 637000000,
+    "newSupply": 636000000,
+    "cycle": 342,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:51:28.668Z",
+    "signature": "2f1fcA7T1JAw3WxoRwEkMiG8Um56Sf2miu5AB2aw1Fiex3cYjXkXqox1AiicaiZt3ejDUTDV9HXZeDkwyEQo8Uxv",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 636000000,
+    "newSupply": 635000000,
+    "cycle": 343,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T14:56:28.760Z",
+    "signature": "5QLmpWZkdyYXmfNSgbfZN9Sw2FTPBmPeZvE6PQTgU7j1yKAzcew21nZ6HuESMK1UcP5jUvAitepNfXKVdD5pNRTH",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 635000000,
+    "newSupply": 634000000,
+    "cycle": 344,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:01:28.525Z",
+    "signature": "2cPQ4JTnn3RLigCZXf1qLXxUTuoKBKFRPKZbXdo93PFmBPjfiHGCf3XWJ8uZBCgK91r5GFMx3hFLDg6J2vc8ZeSN",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 634000000,
+    "newSupply": 633000000,
+    "cycle": 345,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:06:28.615Z",
+    "signature": "3eBJ4vkGbEEwdAdQmhahTRzMAJAyhkfxhDLLfhwz3vTfVrYeAXNVseeRFG9pPYhEK4KYjjL5zhDkdFrwEySm2voT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 633000000,
+    "newSupply": 632000000,
+    "cycle": 346,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:11:27.251Z",
+    "signature": "2LNmki4tvk6uiyNTYBJ3FBJPhgbGCazipcBw3kJdGziiKTWTmpX97z4kFbX8rmrKQyX24rJoPFYvzPo6Pgq2Pe3d",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 632000000,
+    "newSupply": 631000000,
+    "cycle": 347,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:16:28.693Z",
+    "signature": "2So4a3PivVAN1NWLmGEZpD3u7xtvpmxW9CrkjjwZkeDypLeBaDr5s3wkEQ32CYKBwvDAm8QUUDvvpEZKqYFxbVgA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 631000000,
+    "newSupply": 630000000,
+    "cycle": 348,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:21:34.782Z",
+    "signature": "4CJZm3HhY5o4yZyh8to7477KzwBstb2fVmRg6ok1PwAG6ioJYetm76NiULUYXySe4EQ5oFMYjk4q4HjvDxBbjQU4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 630000000,
+    "newSupply": 629000000,
+    "cycle": 349,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:26:28.813Z",
+    "signature": "5U1JRatZnqeLhRYMHx71fKn6Yh31oHgA3Vnj8q1s6aH6AaMerLLqvbEBU6S3LQhuYb12Tdr5ucX7a5CxwFPWX8wA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 629000000,
+    "newSupply": 628000000,
+    "cycle": 350,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:31:32.463Z",
+    "signature": "3gQUQEiPGmz7jXPMB4TasHrvRcitiQeGgVj25J7v4cZGFgYKNbtVSbEBVo21QVAnvKdDt4e1xNdHVHvEeNJnXNdB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 628000000,
+    "newSupply": 627000000,
+    "cycle": 351,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:36:28.156Z",
+    "signature": "2vZVyAYYktePXMhr6TGHWnaULm1eMJL7mhw3eutRBsCYpM2ZHNEiQwUGRdqAe6BMGVujscufAWeJ7uuKFgzjPNtV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 627000000,
+    "newSupply": 626000000,
+    "cycle": 352,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:41:29.799Z",
+    "signature": "4U7TNJ4ynmaKMmXsjJCEBRoMCCVRvB3LKXkAt7J3MsumA1Zz2iLiMkXxsAkx79V2nDz5arXL7gksK8rNsCHLYtr1",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 626000000,
+    "newSupply": 625000000,
+    "cycle": 353,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:46:34.024Z",
+    "signature": "5eKHvWkasSS2YWvQpLdWxy1WHhLZ9Qa5v7CACtwbgH56zUznoeFLSqv6qCQmadkGsmKZfG9CyU6Fd8ss268iecos",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 625000000,
+    "newSupply": 624000000,
+    "cycle": 354,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:51:27.728Z",
+    "signature": "3v9cGdRyFB4dCeKYeQLrnk2x7R1umzmzEM71oXqaEx7jJN1QaFadQ6mUex9MLLz88iesCD1gtZfGwfhvP3RHgV7c",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 624000000,
+    "newSupply": 623000000,
+    "cycle": 355,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T15:56:28.693Z",
+    "signature": "t5VbSM2DjxGkpQzuALA6t5KUEm8V116sjvjZTsjNGiBp3givaY2SAsyvtKNdY698DMHW2LbiD2XgFTDDizsHT4t",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 623000000,
+    "newSupply": 622000000,
+    "cycle": 356,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:01:29.148Z",
+    "signature": "3QueqRrfgv7cmxeBYX6Dgwe49uJHLvG5kgcuxpXwtxjUHc5s8ZDVyP7BN3djUuRjFZRacVZi73MvgVmpSiZ2aWm8",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 622000000,
+    "newSupply": 621000000,
+    "cycle": 357,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:06:28.480Z",
+    "signature": "2vMUedSEHQ92nFJCY169RNpZ6Bk6qRKAVtd1YSJ2P3Bg9auv5gSghYy5L8ryeSThhssj2g3shfMom4t25YomGRYJ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 621000000,
+    "newSupply": 620000000,
+    "cycle": 358,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:11:28.338Z",
+    "signature": "2v4K1jubQugUk7wXj7Y2k6h1eCxb4cD9scuKcjLyfs2P4mTj8wg9wRgMaeQJPvr3wXiskv31cWw4Do3PC1GHKb7p",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 620000000,
+    "newSupply": 619000000,
+    "cycle": 359,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:16:33.817Z",
+    "signature": "4pPzFHUgU59Y7SKWYyHgV9zjPPnDfwW4sTsuq4RXiWuvtCYa122CYGzDZ39xYJrR7KktbKJ4cMjvcw3XUjSKTSHR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 619000000,
+    "newSupply": 618000000,
+    "cycle": 360,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:21:28.130Z",
+    "signature": "33A3arT8uHFoPPxpm4yCTTbjYaFtTZ8Fgx8iiReqMJSH7fjuDFCdZwpCYVi8cj2QAXVeC5Z8ZEcT99DXEbQ24ofA",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 618000000,
+    "newSupply": 617000000,
+    "cycle": 361,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:26:31.862Z",
+    "signature": "Y4cKg6b487G9Jo533AZZgWEyenEpLzMbpW3Pvxbo6dG3Vjt2hLVG9Dt7wxb12exSQradqpTLhD9ZPbwzv26EqjB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 617000000,
+    "newSupply": 616000000,
+    "cycle": 362,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:31:27.702Z",
+    "signature": "2SpuPr7X89ApNpJdpBHq5aYoiPpTYkrREzVtWefMXH58DAQBTK6N2GHuGKTZGWWcK1PfTzxTR3s8b6GT4W1F8b7s",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 616000000,
+    "newSupply": 615000000,
+    "cycle": 363,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:36:36.448Z",
+    "signature": "JUxKFeCebFpwpWeRkdYgRzjQFWhnPDqx7GbTj9EEnRdWwo88vHS2PsY5dGP7KcDdiH7c8Y6KH6UhwswmgTvYJGJ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 615000000,
+    "newSupply": 614000000,
+    "cycle": 364,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:41:27.931Z",
+    "signature": "3qRxt5X5D8hqiPJnZfWyQfz7qRoaribNva4WF2yLwwsup2Agcp9EqB98Nd46Cj4Eokg9Nj2Zq55oEF4HvHu4UR2E",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 614000000,
+    "newSupply": 613000000,
+    "cycle": 365,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:46:32.486Z",
+    "signature": "4Bp56hcvwT3TcdZsHFZ2SjrkPGm1nHdN9mNjZdjNHxUpujhKtw676e3h18Ja8g2bDWic4L6mqJZquzC6ZAiATMMk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 613000000,
+    "newSupply": 612000000,
+    "cycle": 366,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:51:31.653Z",
+    "signature": "3R65vL1VMrdQzVyYKtBatg8nSxVqJM7gZpUHeFPcLYRN29C5W4pMw6tZSicidkwnZ4xvs7ezVkQUoC5LJKKotSwi",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 612000000,
+    "newSupply": 611000000,
+    "cycle": 367,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T16:56:29.876Z",
+    "signature": "4HTUMMKtybdDY1RC7F6BFjb4DBXt7TMLeexATunQ739z4juwULW1NLkHbi37wCFjnxVmRxK6oXcXxnff6SkoH9kk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 611000000,
+    "newSupply": 610000000,
+    "cycle": 368,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:01:29.834Z",
+    "signature": "26bzs5gJE4jdWewFUrZG1SdTa9iJPJyxoH6QErcYF9yMC6NDQVUrXcvZBaoKmQH8JBz2XSABk4A4ekeUHtkwjrxV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 610000000,
+    "newSupply": 609000000,
+    "cycle": 369,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:06:28.776Z",
+    "signature": "2xaNGe2xAfFVPL2KZh4y6rhkkMyry4YwSGYzmb4MSn6Xk7Vx6aXRqqwpxyT6NMMGp5fPmqQGmgQ157CRrTMXktpT",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 609000000,
+    "newSupply": 608000000,
+    "cycle": 370,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:11:27.776Z",
+    "signature": "5jmToTnKU7ySbwxyb8uBm8pBnsCYTuovpLrckEXP9VCJ9feQiGvNW4hLbh9ckAoX4gKXsa8bd5yno5dAppBvcuBh",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 608000000,
+    "newSupply": 607000000,
+    "cycle": 371,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:16:28.102Z",
+    "signature": "5UumUywWzsjrzT3CZfWC4LAUAYZrNNfJMr8SaHjJRHmSZsBbPSRXkRmcEBz3gg9MR4e9fPruE83WyNMUnCF12TPx",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 607000000,
+    "newSupply": 606000000,
+    "cycle": 372,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:21:29.928Z",
+    "signature": "3BJHBANPso5UW87LfVmJkMJQoSfPkqQ4nLLdGi2yNqeWkWA2sMsAR6E1qWbJPCuyXx3Go3hncUoo1mQ7Bsokrhpq",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 606000000,
+    "newSupply": 605000000,
+    "cycle": 373,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:26:28.468Z",
+    "signature": "NvLHG7dPEvhhcHUfTTNtjh3qScuRy6DjFZaXKXHTF3VanbMpf4997BepAwiJmdH4oFEzpbnwRf93GYgdckd2G9J",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 605000000,
+    "newSupply": 604000000,
+    "cycle": 374,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:31:31.324Z",
+    "signature": "RE4goSxrs3GLmdeNX8efy1x5wHES2QG7hAaKHMLez26Mta8ZLPPH5wxorB7vo1Xm4QvpcM96oKQ9m3ZBitf1fAY",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 604000000,
+    "newSupply": 603000000,
+    "cycle": 375,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:36:28.620Z",
+    "signature": "56rtPj9391rVieR9c3v3L9tfTCuwVGK7PjgdZ8Led7ZN2aLRxmdKM5ZaMV2L7n7D1zkx5JkP7JyEjkda6GN1xDwh",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 603000000,
+    "newSupply": 602000000,
+    "cycle": 376,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:41:30.162Z",
+    "signature": "4yuTyoxmTiyRTBqWPTzsZjcrmdkucc6a34iSUtWbmTkPyYVLKUMarXCeVd4Hg2AiLmGDaDj7N3qsVFK6P9W33TNE",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 602000000,
+    "newSupply": 601000000,
+    "cycle": 377,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:46:31.215Z",
+    "signature": "5SQD6c87Mu1yQ4yF2F4kADEwZu1DKAMyVEkc4YWgaJut6ScSmF7XqU6YtD4XXa5Wz5dskMFUCV6fVQj97PNCqJ8x",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 601000000,
+    "newSupply": 600000000,
+    "cycle": 378,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:51:34.382Z",
+    "signature": "JcryPQrwtutzA12qdJmcu4BtJyA2nRy5Qf9CdnrecsedQYwBSNMx2yWsTNcNCTyA9pyWJ8vXuDXqH2zC7Crjz3Q",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 600000000,
+    "newSupply": 599000000,
+    "cycle": 379,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T17:56:28.309Z",
+    "signature": "4y8PiwR5Mbuf4XCBSHcU9W3KvNzwSTW7fJZkvo2VG1QbteWRJtVom1f11Z68Nn9yXCATUMrUb5hZt24dDnbRc6yi",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 599000000,
+    "newSupply": 598000000,
+    "cycle": 380,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:01:31.217Z",
+    "signature": "4gZgMTeDpU4zQmVW9dBThWos9op6mWb9U3QC2dLxE3QcyA8NEszbTjofSepAquUu6gaef8qj3WAbcXG2QCv6dNpS",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 598000000,
+    "newSupply": 597000000,
+    "cycle": 381,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:06:28.977Z",
+    "signature": "5v8bXvYs1os4BA11SkG69EeQSbwmfnyKP13C4naJQg6ZoCxsNGLdEKez9Y2y9hpNRvhP3GRkaQ5euQjfynSiL2ir",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 597000000,
+    "newSupply": 596000000,
+    "cycle": 382,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:11:29.595Z",
+    "signature": "32tqMRx9JTQx76dxc5EHh2viBPwim39wmwrxTTA15WBHRTMgGkurRYLAzNgGdEFsTN1H5FWodGmbgYeYUAVHCVPW",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 596000000,
+    "newSupply": 595000000,
+    "cycle": 383,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:16:36.743Z",
+    "signature": "2divntyVyaeFJWyUbLobixWM5cved59QoXRJVM9PekznMJEtGPFsPN6BY4KyxXYwXSUKNCkMsXVF54eovhgzYPp9",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 595000000,
+    "newSupply": 594000000,
+    "cycle": 384,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:21:31.458Z",
+    "signature": "5NKGfHXSUi8xebibiKLq3nK8jcZ9rPCBRakmSnyXvDLXZGfP5sNiAhNcjqXDa21pDrFbCGk4PDoThpszw62DTcZj",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 594000000,
+    "newSupply": 593000000,
+    "cycle": 385,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:26:31.319Z",
+    "signature": "YbDm7vAckqyuXusZTTmR4fT9dPyBQdZvNRrxad1Fr9rmJYzGuJT7FhvSK64yEoLoiVxtY6XQkdRY3ZFoanDNESg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 593000000,
+    "newSupply": 592000000,
+    "cycle": 386,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:31:30.637Z",
+    "signature": "3JjDsa8TJ6o6KwyJpvMVmWmdLBJKbs4x8dbQx2i4bBDJzYsnd3LBSdDbMz4zFtbHL62fr8S9GHtEmQQTC8rmZFVJ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 592000000,
+    "newSupply": 591000000,
+    "cycle": 387,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:36:33.533Z",
+    "signature": "tsxmb2MrWTooRFFgk1xMG9mob7JrA7euWia56P52UmFaj9WXZcokiKtBLDa9Ky3gPHZEWuQfaPVZtq86E28qqJV",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 591000000,
+    "newSupply": 590000000,
+    "cycle": 388,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:41:30.722Z",
+    "signature": "4YXT5hCwTuydVy8cKgu91fUx2AKWB4akvvbmFFDfVj5k8TJKmbW4f1VQoCMN17dGGVDdJTTMyPi2JMu2xpwZHbb9",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 590000000,
+    "newSupply": 589000000,
+    "cycle": 389,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:46:28.071Z",
+    "signature": "vQbg2RJQkZeTQSmmwTUzAuM2uG5wEa9bxJszVzgnDPX7XsrJ6hqu3CZ1SZwmPwpVbrJZgQmsK6RRz3WUVD7ED9U",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 589000000,
+    "newSupply": 588000000,
+    "cycle": 390,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:51:31.976Z",
+    "signature": "29LfCmJGLbFFKwMwU1XXxhknZ4GEgJ43RELKdA2Jvq6qSr7t7LJu4xA224U9ZZs7qxbDqKa3Q1psGyqwkZovwzJr",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 588000000,
+    "newSupply": 587000000,
+    "cycle": 391,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T18:56:28.968Z",
+    "signature": "bb9Tv5XMuAq85tQxHnTHxyFaQKNwXzxmE6e1o1US4nRfLyKiVNV38itsv7kRSnwgwFbUqVYreWExNvCAgAi49gg",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 587000000,
+    "newSupply": 586000000,
+    "cycle": 392,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:01:28.737Z",
+    "signature": "4DUcZB14SP5HAwV7Azgjr1nsEQKtMMtmTiNyK5Zu1jJiC6J9r2y4iZwZtLzyN1WiAqwMaRTC8ZVyB8ypYszqhAq4",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 586000000,
+    "newSupply": 585000000,
+    "cycle": 393,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:06:29.669Z",
+    "signature": "3sQ7vbB5KEqS4w5eRyz3wBNnzdUxMcBaxPhCRmvX7VZiz5xiGMHyTFs83Nb68m3CpaRoiffW2AQRMzptGf7LrEWJ",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 585000000,
+    "newSupply": 584000000,
+    "cycle": 394,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:11:32.289Z",
+    "signature": "47utNuzAEJdWkeSqc8amHU73UQkbGjAzCPtnX34WDTBFBTc96GaTUoR2Tvh1VtVBhfyQew9dKmM9K7PV5m1SzMSM",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 584000000,
+    "newSupply": 583000000,
+    "cycle": 395,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:21:33.409Z",
+    "signature": "2DucpqPxjY2Z4VvHPUiVqjoS6FYVH2R6EFGWys5BcFKKQiM4ynBu7Bigp9q8FogvpH5EXtr9Pn1xPCBXt7hbL8ku",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 583000000,
+    "newSupply": 582000000,
+    "cycle": 396,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:26:34.931Z",
+    "signature": "AtmHU1wTAgvSNx9tkCj5ZxytLuGVpQPuoHP1FBbFCMe7hxF9v2VRJ1c5GiQroUzBv1xV6RfBCn3pfzaYuACD8ZR",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 582000000,
+    "newSupply": 581000000,
+    "cycle": 397,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:31:31.130Z",
+    "signature": "215RxKdDBAKpQUJi789bfSyP5FfxJFeRN9L8DdFXtoN8v7QyMZkkPHpeuW9XEmVnY5Poj1GV6CmPYc7xzf2bCXBK",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 581000000,
+    "newSupply": 580000000,
+    "cycle": 398,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:36:31.263Z",
+    "signature": "4LGLvVjGiE1NnWbmD9DQMAEr4CJr6hrr6JTmKK7vbcPtFaKdW5vRAov22LufFRyB4p8hPywp3rhNwSVgMZtiNTai",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 580000000,
+    "newSupply": 579000000,
+    "cycle": 399,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:41:32.312Z",
+    "signature": "72xRX9pzjJv1LMt8QRfwc6Fn6HcLbekVpsqxkQsfif2ziCrARh1F6kBt3PCCJ5QJ3YMC46NgYzqbx8kS4DUdzc6",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 579000000,
+    "newSupply": 578000000,
+    "cycle": 400,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:46:32.447Z",
+    "signature": "56Nmw6XrsRtjvEymTYyeD34oqjkjLimtnurY4NLZAggqcxxKNcHM9gJ46bQ5PwupJPgwotFyjh6nqQdQ4bQbgbHD",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 578000000,
+    "newSupply": 577000000,
+    "cycle": 401,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:51:28.775Z",
+    "signature": "4DsVGbVbe2Wa71RtgPzNyNfYJvRwnGqRSncyPYEBCxCw9PusapGr3VB2UR9BKp3eQXXDaE6NtQcQxxU32rkRzeHe",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 577000000,
+    "newSupply": 576000000,
+    "cycle": 402,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T19:56:34.048Z",
+    "signature": "46RvrQkEybFadCsfuq67jrWZkvUNMWmVaHT8xLg33mA2fNnTZor6LZxNCTQE1g7cUQRzHhzJoGuvkVjRaesb1aro",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 576000000,
+    "newSupply": 575000000,
+    "cycle": 403,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:01:31.950Z",
+    "signature": "VmsMcAHbtCcXoppXJkPbVBJskTieB6KSG8x1StwkmV3qqcz8Sp8x7TmQ6s6wVUqrBQFVnHgvrJ1RMjxcgtFwSK8",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 575000000,
+    "newSupply": 574000000,
+    "cycle": 404,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:06:32.447Z",
+    "signature": "qtmUb3CCWLxczqN5a1tQYhGNzDLHbraDsSbPGnwjxKAYJETe1iWYsGCKG7EFaAZR35jZjQsUuJ8mVNbwLwz31ou",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 574000000,
+    "newSupply": 573000000,
+    "cycle": 405,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:11:33.497Z",
+    "signature": "27NtUgeKAwHdbrhtf2ahscKVrPp9WP7CHAkXv5EmrmWbkQNy3BHNT34CwcangWcUdbJ51eLmbKqec2DSqZSuM817",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 573000000,
+    "newSupply": 572000000,
+    "cycle": 406,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:16:31.636Z",
+    "signature": "5QNB1aEr5bNBv9Pv1YXvXQMN9e1x38thF8VsSwZGQjocUhxHUsR8v7rZbNZCMm54D1HMJfj6jRRf7J9wDGsm3YGo",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 572000000,
+    "newSupply": 571000000,
+    "cycle": 407,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:21:33.632Z",
+    "signature": "5HWLPiacVx1Q7FKr9bS6JiehA2iRTpWsF7cuG1AebVqXNWELJJCUty27MhuhJxrC8AMKtjNhadNSoqMgzEisT3UB",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 571000000,
+    "newSupply": 570000000,
+    "cycle": 408,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:26:31.739Z",
+    "signature": "5am37QigiBxEpMgPKzRfVouLYchHMr5mt3d8KQHgrDEJaHBSHy5vfX4oPQUwZzHmdp1sqhfKhEZPdDV7qWAPjtJp",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 570000000,
+    "newSupply": 569000000,
+    "cycle": 409,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:31:37.958Z",
+    "signature": "htmE8CvZSnqr5Wwv9gLXMj3yeSzG4SDSb5a5nT2mGWf8XSqb6X3iZZkZbzVghtWVYRSjxVDxAAJF5ixVA32fwc6",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 569000000,
+    "newSupply": 568000000,
+    "cycle": 410,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:36:34.911Z",
+    "signature": "4kHeGSUb1o3BsENkaWTnvtohaSghaWRd1eVRnb6QVCVSfZdCMVGvjpFYY3VnzWiPR3Q3bFJa7xMKwMHwK2MYb1Tk",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 568000000,
+    "newSupply": 567000000,
+    "cycle": 411,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:41:31.488Z",
+    "signature": "5A5mT5NtX2koWu23aJb99CdRBTWkNja2y6TSkdDmx1QECjTui7X79LATU54kWxCqGJSpaDLCbNLLBHurEkTUgG3v",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 567000000,
+    "newSupply": 566000000,
+    "cycle": 412,
+    "confirmed": true
+  },
+  {
+    "timestamp": "2025-07-31T20:46:30.615Z",
+    "signature": "3zM7H5Th3EarM8wdVmt9yHcuHEbgQVTzfFjfiPJcsg1bDYBUisnP2V92gLYNKmrbe7zP9TxhFXuDjf7wVMR2Nt3L",
+    "burnedTokens": 1000000,
+    "burnValue": 236,
+    "oldSupply": 566000000,
+    "newSupply": 565000000,
+    "cycle": 413,
+    "confirmed": true
+  }
+]

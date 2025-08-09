@@ -1,0 +1,35 @@
+{
+  "name": "node233-multiplication-engine",
+  "version": "1.0.0",
+  "description": "NODE 233 Multiplication Engine - $10 to $1M through mathematical scarcity and real-time pool arbitrage",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete - Static files ready'",
+    "start": "echo 'Starting NODE 233 Engine'",
+    "dev": "python3 -m http.server 3000",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "node233",
+    "solana",
+    "defi",
+    "multiplication",
+    "arbitrage",
+    "burning",
+    "crypto"
+  ],
+  "author": "NODE 233 Collective",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.11",
+    "@solana/web3.js": "^1.98.2",
+    "axios": "^1.11.0",
+    "bs58": "^6.0.0",
+    "chalk": "^5.4.1",
+    "dotenv": "^17.2.1",
+    "node-fetch": "^2.6.12"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}

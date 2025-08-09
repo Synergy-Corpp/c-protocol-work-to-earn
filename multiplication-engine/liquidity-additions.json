@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-07-30T03:40:52.926Z",
+    "usdAmount": 590,
+    "solAmount": 2.4583333333333335,
+    "source": "burn_diversion",
+    "poolId": "AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3"
+  },
+  {
+    "timestamp": "2025-07-30T03:45:53.429Z",
+    "usdAmount": 592.964824120603,
+    "solAmount": 2.470686767169179,
+    "source": "burn_diversion",
+    "poolId": "AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3"
+  },
+  {
+    "timestamp": "2025-07-30T03:50:53.595Z",
+    "usdAmount": 592.964824120603,
+    "solAmount": 2.470686767169179,
+    "source": "burn_diversion",
+    "poolId": "AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3"
+  },
+  {
+    "timestamp": "2025-07-30T03:55:53.764Z",
+    "usdAmount": 592.964824120603,
+    "solAmount": 2.470686767169179,
+    "source": "burn_diversion",
+    "poolId": "AWzDhpbRcudYMsg7kBtc4gJMnUD9ik9Jst11xj4g7ei3"
+  }
+]

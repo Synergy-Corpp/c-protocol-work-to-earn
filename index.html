@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C Protocol Work-to-Earn Platform</title>
+    <script src="https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js"></script>
+    <script src="https://unpkg.com/@solana/wallet-adapter-base@latest/lib/index.iife.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .glass {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .hidden { display: none; }
+    </style>
+</head>
+<body class="gradient-bg min-h-screen text-white">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="text-center mb-8">
+            <h1 class="text-4xl font-bold mb-4">🚀 C Protocol Work-to-Earn</h1>
+            <p class="text-xl opacity-80">Proof of Participation > Proof of Work</p>
+            <div class="mt-4 text-sm opacity-70">
+                <p>Token: FJN3K5v...8ufCMhSHfiP • Current Supply: 565M C tokens</p>
+            </div>
+        </div>
+
+        <!-- Wallet Connection -->
+        <div class="flex justify-center mb-8">
+            <button id="connectWallet" class="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg font-semibold transition-all">
+                Connect Wallet
+            </button>
+            <div id="walletInfo" class="glass px-4 py-2 rounded-lg hidden">
+                <span id="walletAddress"></span>
+                <button id="disconnectWallet" class="ml-4 text-red-400 hover:text-red-300">Disconnect</button>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="flex justify-center mb-8" id="navigation" style="display: none;">
+            <div class="glass rounded-lg p-1">
+                <button onclick="showTab('dashboard')" class="tab-btn px-6 py-2 rounded-lg font-semibold transition-all bg-white bg-opacity-20 text-white">Dashboard</button>
+                <button onclick="showTab('submit')" class="tab-btn px-6 py-2 rounded-lg font-semibold transition-all text-white text-opacity-70 hover:text-white">Submit Work</button>
+                <button onclick="showTab('history')" class="tab-btn px-6 py-2 rounded-lg font-semibold transition-all text-white text-opacity-70 hover:text-white">History <span id="historyCount">(0)</span></button>
+            </div>
+        </div>
+
+        <!-- Welcome Screen -->
+        <div id="welcomeScreen" class="text-center py-12">
+            <div class="text-6xl mb-4">🔗</div>
+            <h2 class="text-2xl font-bold mb-4">Connect Your Wallet</h2>
+            <p class="text-xl opacity-80 mb-8">Start earning C tokens by contributing valuable work to the ecosystem</p>
+            
+            <!-- Work Categories Preview -->
+            <div class="max-w-4xl mx-auto mt-12">
+                <h3 class="text-xl font-bold mb-6">Available Work Categories</h3>
+                <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+                    <div class="glass rounded-lg p-4 text-center">
+                        <div class="text-2xl mb-2">👥</div>
+                        <div class="font-semibold text-sm">Onboard User</div>
+                        <div class="text-xs opacity-60">0.0005 C</div>
+                    </div>
+                    <div class="glass rounded-lg p-4 text-center">
+                        <div class="text-2xl mb-2">📝</div>
+                        <div class="font-semibold text-sm">Create Content</div>
+                        <div class="text-xs opacity-60">0.001 C</div>
+                    </div>
+                    <div class="glass rounded-lg p-4 text-center">
+                        <div class="text-2xl mb-2">💻</div>
+                        <div class="font-semibold text-sm">Write Code</div>
+                        <div class="text-xs opacity-60">0.002 C</div>
+                    </div>
+                    <div class="glass rounded-lg p-4 text-center">
+                        <div class="text-2xl mb-2">🤝</div>
+                        <div class="font-semibold text-sm">Refer Client</div>
+                        <div class="text-xs opacity-60">0.005 C</div>
+                    </div>
+                    <div class="glass rounded-lg p-4 text-center">
+                        <div class="text-2xl mb-2">💰</div>
+                        <div class="font-semibold text-sm">Close Deal</div>
+                        <div class="text-xs opacity-60">0.01 C</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dashboard Tab -->
+        <div id="dashboardTab" class="hidden">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold mb-4">Your Work-to-Earn Dashboard</h2>
+                <p class="text-xl opacity-80">Earn C tokens by contributing valuable work</p>
+            </div>
+
+            <!-- Stats Grid -->
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+                <div class="glass rounded-lg p-4 text-center">
+                    <div class="text-2xl font-bold text-green-400" id="totalEarned">0.000</div>
+                    <div class="text-sm opacity-80">C Tokens Earned</div>
+                </div>
+                <div class="glass rounded-lg p-4 text-center">
+                    <div class="text-2xl font-bold text-blue-400" id="completedTasks">0</div>
+                    <div class="text-sm opacity-80">Tasks Completed</div>
+                </div>
+                <div class="glass rounded-lg p-4 text-center">
+                    <div class="text-2xl font-bold text-yellow-400" id="pendingRewards">0.000</div>
+                    <div class="text-sm opacity-80">Pending Rewards</div>
+                </div>
+                <div class="glass rounded-lg p-4 text-center">
+                    <div class="text-2xl font-bold text-purple-400" id="diversityScore">0</div>
+                    <div class="text-sm opacity-80">Diversity Score</div>
+                </div>
+            </div>
+
+            <!-- Getting Started -->
+            <div class="glass rounded-lg p-6 text-center">
+                <h3 class="text-xl font-bold mb-4">Ready to Start Earning?</h3>
+                <p class="mb-6 opacity-80">Submit your first piece of work to earn C tokens and join the proof-of-participation economy.</p>
+                <button onclick="showTab('submit')" class="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 px-8 py-3 rounded-lg font-semibold transition-all">
+                    Submit Your First Task
+                </button>
+            </div>
+        </div>
+
+        <!-- Submit Work Tab -->
+        <div id="submitTab" class="hidden">
+            <div class="max-w-2xl mx-auto">
+                <div class="text-center mb-8">
+                    <h2 class="text-3xl font-bold mb-4">Submit Your Work</h2>
+                    <p class="text-xl opacity-80">Get rewarded for your contributions</p>
+                </div>
+
+                <form id="workForm" class="glass rounded-lg p-6 space-y-6">
+                    <!-- Work Type -->
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Work Type</label>
+                        <select id="workType" class="w-full px-3 py-2 bg-white bg-opacity-20 rounded-lg text-white" required>
+                            <option value="">Select work type...</option>
+                            <option value="onboard_user">Onboard User (0.0005 C tokens)</option>
+                            <option value="create_content">Create Content (0.001 C tokens)</option>
+                            <option value="write_code">Write Code (0.002 C tokens)</option>
+                            <option value="refer_client">Refer Client (0.005 C tokens)</option>
+                            <option value="close_deal">Close Deal (0.01 C tokens)</option>
+                            <option value="community_management">Community Management (0.00075 C tokens)</option>
+                            <option value="bug_report">Bug Report (0.0015 C tokens)</option>
+                            <option value="documentation">Documentation (0.0008 C tokens)</option>
+                            <option value="marketing">Marketing (0.0012 C tokens)</option>
+                            <option value="user_support">User Support (0.0006 C tokens)</option>
+                        </select>
+                    </div>
+
+                    <!-- Description -->
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Work Description</label>
+                        <textarea id="workDescription" class="w-full px-3 py-2 bg-white bg-opacity-20 rounded-lg text-white placeholder-white placeholder-opacity-50 h-24" placeholder="Describe the work you completed..." required></textarea>
+                    </div>
+
+                    <!-- Proof -->
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Proof of Work</label>
+                        <input type="url" id="workProof" class="w-full px-3 py-2 bg-white bg-opacity-20 rounded-lg text-white placeholder-white placeholder-opacity-50" placeholder="GitHub link, portfolio URL, screenshot link, etc." required>
+                        <div class="text-xs opacity-60 mt-1">Provide verifiable proof (GitHub commits, live demos, certificates, etc.)</div>
+                    </div>
+
+                    <!-- Effort Weight -->
+                    <div>
+                        <label class="block text-sm font-medium mb-2">Effort Weight: <span id="effortValue">100</span>%</label>
+                        <input type="range" id="effortWeight" min="50" max="200" value="100" class="w-full" oninput="updateEffort()">
+                        <div class="text-xs opacity-60 mt-1">Adjust based on effort and quality (50% = minimal, 100% = standard, 200% = exceptional)</div>
+                    </div>
+
+                    <!-- Estimated Reward -->
+                    <div id="estimatedReward" class="bg-green-500 bg-opacity-20 rounded-lg p-4 hidden">
+                        <div class="font-semibold text-green-400">Estimated Reward: <span id="rewardAmount">0.000000</span> C tokens</div>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <button type="submit" class="w-full py-3 px-4 rounded-lg font-semibold transition-all bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
+                        Submit Work for Review
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <!-- History Tab -->
+        <div id="historyTab" class="hidden">
+            <div class="max-w-4xl mx-auto">
+                <div class="text-center mb-8">
+                    <h2 class="text-3xl font-bold mb-4">Work History</h2>
+                    <p class="text-xl opacity-80">Track your submissions and rewards</p>
+                </div>
+
+                <div id="submissionsList">
+                    <div id="noSubmissions" class="text-center py-12 opacity-60">
+                        <div class="text-6xl mb-4">📝</div>
+                        <p>No work submissions yet. Start earning by submitting your first task!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center mt-12 text-sm opacity-70">
+            <p>C Protocol • Proof of Participation • Built on Solana</p>
+            <p class="mt-2">
+                <a href="https://solscan.io/token/FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP" target="_blank" class="text-blue-400 hover:underline">
+                    View Token on Solscan
+                </a>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // State management
+        let connectedWallet = null;
+        let submissions = JSON.parse(localStorage.getItem('c-protocol-submissions') || '[]');
+        let userStats = JSON.parse(localStorage.getItem('c-protocol-stats') || '{"totalEarned": 0, "completedTasks": 0, "pendingRewards": 0, "diversityScore": 0}');
+
+        // Work type rewards
+        const workRewards = {
+            'onboard_user': 0.0005,
+            'create_content': 0.001,
+            'write_code': 0.002,
+            'refer_client': 0.005,
+            'close_deal': 0.01,
+            'community_management': 0.00075,
+            'bug_report': 0.0015,
+            'documentation': 0.0008,
+            'marketing': 0.0012,
+            'user_support': 0.0006
+        };
+
+        const workLabels = {
+            'onboard_user': 'Onboard User',
+            'create_content': 'Create Content',
+            'write_code': 'Write Code',
+            'refer_client': 'Refer Client',
+            'close_deal': 'Close Deal',
+            'community_management': 'Community Management',
+            'bug_report': 'Bug Report',
+            'documentation': 'Documentation',
+            'marketing': 'Marketing',
+            'user_support': 'User Support'
+        };
+
+        // Initialize
+        updateHistoryCount();
+        updateStats();
+
+        // Wallet connection
+        document.getElementById('connectWallet').addEventListener('click', connectWallet);
+        document.getElementById('disconnectWallet').addEventListener('click', disconnectWallet);
+
+        async function connectWallet() {
+            try {
+                if (window.solana && window.solana.isPhantom) {
+                    const response = await window.solana.connect();
+                    connectedWallet = response.publicKey.toString();
+                    
+                    document.getElementById('connectWallet').style.display = 'none';
+                    document.getElementById('walletInfo').classList.remove('hidden');
+                    document.getElementById('walletAddress').textContent = `${connectedWallet.slice(0, 8)}...${connectedWallet.slice(-8)}`;
+                    document.getElementById('navigation').style.display = 'block';
+                    document.getElementById('welcomeScreen').style.display = 'none';
+                    
+                    showTab('dashboard');
+                } else {
+                    alert('Please install Phantom wallet to use this platform');
+                }
+            } catch (error) {
+                console.error('Failed to connect wallet:', error);
+                alert('Failed to connect wallet');
+            }
+        }
+
+        function disconnectWallet() {
+            connectedWallet = null;
+            document.getElementById('connectWallet').style.display = 'block';
+            document.getElementById('walletInfo').classList.add('hidden');
+            document.getElementById('navigation').style.display = 'none';
+            document.getElementById('welcomeScreen').style.display = 'block';
+            hideAllTabs();
+        }
+
+        // Tab management
+        function showTab(tabName) {
+            // Update tab buttons
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('bg-white', 'bg-opacity-20', 'text-white');
+                btn.classList.add('text-white', 'text-opacity-70', 'hover:text-white');
+            });
+            
+            event.target.classList.remove('text-white', 'text-opacity-70', 'hover:text-white');
+            event.target.classList.add('bg-white', 'bg-opacity-20', 'text-white');
+
+            // Hide all tabs
+            hideAllTabs();
+            
+            // Show selected tab
+            document.getElementById(tabName + 'Tab').classList.remove('hidden');
+        }
+
+        function hideAllTabs() {
+            document.getElementById('dashboardTab').classList.add('hidden');
+            document.getElementById('submitTab').classList.add('hidden');
+            document.getElementById('historyTab').classList.add('hidden');
+        }
+
+        // Work submission
+        document.getElementById('workForm').addEventListener('submit', submitWork);
+        document.getElementById('workType').addEventListener('change', updateEstimatedReward);
+
+        function updateEffort() {
+            const value = document.getElementById('effortWeight').value;
+            document.getElementById('effortValue').textContent = value;
+            updateEstimatedReward();
+        }
+
+        function updateEstimatedReward() {
+            const workType = document.getElementById('workType').value;
+            const effort = parseInt(document.getElementById('effortWeight').value);
+            
+            if (workType && workRewards[workType]) {
+                const reward = workRewards[workType] * (effort / 100);
+                document.getElementById('rewardAmount').textContent = reward.toFixed(6);
+                document.getElementById('estimatedReward').classList.remove('hidden');
+            } else {
+                document.getElementById('estimatedReward').classList.add('hidden');
+            }
+        }
+
+        function submitWork(e) {
+            e.preventDefault();
+            
+            const workType = document.getElementById('workType').value;
+            const description = document.getElementById('workDescription').value;
+            const proof = document.getElementById('workProof').value;
+            const effort = parseInt(document.getElementById('effortWeight').value);
+            
+            const submission = {
+                id: Date.now().toString(),
+                workType,
+                description,
+                proof,
+                effortWeight: effort,
+                status: 'pending',
+                submittedAt: new Date().toISOString(),
+                estimatedReward: workRewards[workType] * (effort / 100)
+            };
+            
+            submissions.unshift(submission);
+            localStorage.setItem('c-protocol-submissions', JSON.stringify(submissions));
+            
+            // Update stats
+            userStats.pendingRewards += submission.estimatedReward;
+            localStorage.setItem('c-protocol-stats', JSON.stringify(userStats));
+            
+            // Reset form
+            document.getElementById('workForm').reset();
+            document.getElementById('effortWeight').value = 100;
+            updateEffort();
+            document.getElementById('estimatedReward').classList.add('hidden');
+            
+            // Update UI
+            updateHistoryCount();
+            updateStats();
+            renderSubmissions();
+            
+            alert('Work submitted successfully! Pending verification.');
+            showTab('history');
+        }
+
+        // UI updates
+        function updateHistoryCount() {
+            document.getElementById('historyCount').textContent = `(${submissions.length})`;
+        }
+
+        function updateStats() {
+            document.getElementById('totalEarned').textContent = userStats.totalEarned.toFixed(3);
+            document.getElementById('completedTasks').textContent = userStats.completedTasks;
+            document.getElementById('pendingRewards').textContent = userStats.pendingRewards.toFixed(3);
+            document.getElementById('diversityScore').textContent = userStats.diversityScore;
+        }
+
+        function renderSubmissions() {
+            const container = document.getElementById('submissionsList');
+            const noSubmissions = document.getElementById('noSubmissions');
+            
+            if (submissions.length === 0) {
+                noSubmissions.style.display = 'block';
+                return;
+            }
+            
+            noSubmissions.style.display = 'none';
+            
+            const html = submissions.map(submission => `
+                <div class="glass rounded-lg p-6 mb-4">
+                    <div class="flex justify-between items-start mb-4">
+                        <div>
+                            <h3 class="font-bold text-lg">${workLabels[submission.workType] || submission.workType}</h3>
+                            <p class="opacity-80">${submission.description}</p>
+                        </div>
+                        <div class="px-3 py-1 rounded-full text-xs font-semibold ${
+                            submission.status === 'approved' ? 'bg-green-500 bg-opacity-20 text-green-400' :
+                            submission.status === 'rejected' ? 'bg-red-500 bg-opacity-20 text-red-400' :
+                            'bg-yellow-500 bg-opacity-20 text-yellow-400'
+                        }">
+                            ${submission.status.toUpperCase()}
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                        <div>
+                            <div class="opacity-60">Submitted</div>
+                            <div>${new Date(submission.submittedAt).toLocaleDateString()}</div>
+                        </div>
+                        <div>
+                            <div class="opacity-60">Effort</div>
+                            <div>${submission.effortWeight}%</div>
+                        </div>
+                        <div>
+                            <div class="opacity-60">Reward</div>
+                            <div>${submission.estimatedReward.toFixed(6)} C</div>
+                        </div>
+                        <div>
+                            <div class="opacity-60">Proof</div>
+                            <a href="${submission.proof}" target="_blank" class="text-blue-400 hover:underline">View Proof</a>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            container.innerHTML = html;
+        }
+
+        // Initialize submissions display
+        renderSubmissions();
+    </script>
+</body>
+</html>

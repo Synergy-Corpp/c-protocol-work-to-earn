@@ -1,0 +1,11 @@
+{
+  "mint": "FJN3K5v3jFb9gEaf9y85X3iUEJEWjKhaP8ufCMhSHfiP",
+  "founderAccount": "7v3RkLvikBh2xRPcryZTj24Mp7EvhwKAfbozvStjXttZ",
+  "protocolVault": "7v3RkLvikBh2xRPcryZTj24Mp7EvhwKAfbozvStjXttZ",
+  "totalSupply": "1000000000",
+  "founderTokens": "300000000",
+  "protocolTokens": "700000000",
+  "decimals": 9,
+  "createdAt": "2025-07-29T22:54:10.827Z",
+  "authority": "BPYapeoALDbgotQvFfxmjALjpzmF2fWsDwYpctFraxjp"
+}

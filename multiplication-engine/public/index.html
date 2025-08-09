@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NODE 233 | Multiplication Engine</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <script src="https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary-glow: #00f5ff;
+            --secondary-glow: #ff006e;
+            --accent-glow: #8338ec;
+            --success-glow: #06ffa5;
+            --warning-glow: #ffbe0b;
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #1a1a2e;
+            --bg-tertiary: #16213e;
+            --text-primary: #ffffff;
+            --text-secondary: #b8c5d6;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+        
+        body {
+            font-family: 'Rajdhani', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            overflow-x: hidden;
+            position: relative;
+        }
+        
+        /* Animated Background */
+        .bg-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: radial-gradient(circle at 20% 80%, rgba(0, 245, 255, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 20%, rgba(255, 0, 110, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 40% 40%, rgba(131, 56, 236, 0.1) 0%, transparent 50%);
+            animation: bgShift 20s ease-in-out infinite;
+        }
+        
+        @keyframes bgShift {
+            0%, 100% { opacity: 1; transform: scale(1) rotate(0deg); }
+            33% { opacity: 0.8; transform: scale(1.1) rotate(120deg); }
+            66% { opacity: 0.6; transform: scale(0.9) rotate(240deg); }
+        }
+        
+        /* Floating Particles */
+        .particle {
+            position: absolute;
+            background: var(--primary-glow);
+            border-radius: 50%;
+            pointer-events: none;
+            animation: float 15s linear infinite;
+        }
+        
+        @keyframes float {
+            0% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+            10% { opacity: 1; }
+            90% { opacity: 1; }
+            100% { transform: translateY(-100px) rotate(360deg); opacity: 0; }
+        }
+        
+        /* Glass Morphism */
+        .glass {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+        
+        /* Header */
+        .header {
+            padding: 2rem;
+            text-align: center;
+            position: relative;
+        }
+        
+        .title {
+            font-family: 'Orbitron', monospace;
+            font-size: 4rem;
+            font-weight: 900;
+            background: linear-gradient(45deg, var(--primary-glow), var(--secondary-glow), var(--accent-glow));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 1rem;
+            text-shadow: 0 0 30px rgba(0, 245, 255, 0.5);
+            animation: titlePulse 3s ease-in-out infinite;
+        }
+        
+        @keyframes titlePulse {
+            0%, 100% { transform: scale(1); filter: brightness(1); }
+            50% { transform: scale(1.05); filter: brightness(1.2); }
+        }
+        
+        .subtitle {
+            font-size: 1.5rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .tagline {
+            font-family: 'Orbitron', monospace;
+            font-size: 1rem;
+            color: var(--primary-glow);
+            letter-spacing: 2px;
+        }
+        
+        /* Main Container */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Grid Layout */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        /* Cards */
+        .card {
+            padding: 2rem;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, var(--primary-glow), var(--secondary-glow), var(--accent-glow));
+            border-radius: 22px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .card:hover::before {
+            opacity: 1;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .card-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--primary-glow);
+        }
+        
+        /* Investment Panel */
+        .investment-amount {
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--success-glow);
+            text-align: center;
+            margin: 1rem 0;
+            text-shadow: 0 0 20px rgba(6, 255, 165, 0.5);
+        }
+        
+        .multiplier {
+            font-size: 2rem;
+            font-weight: 600;
+            text-align: center;
+            margin: 1rem 0;
+        }
+        
+        .multiplier.positive {
+            color: var(--success-glow);
+            animation: glow 2s ease-in-out infinite;
+        }
+        
+        @keyframes glow {
+            0%, 100% { text-shadow: 0 0 20px rgba(6, 255, 165, 0.5); }
+            50% { text-shadow: 0 0 30px rgba(6, 255, 165, 0.8), 0 0 40px rgba(6, 255, 165, 0.6); }
+        }
+        
+        /* Stats */
+        .stat {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 1rem 0;
+            padding: 0.8rem;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 10px;
+            border-left: 3px solid var(--primary-glow);
+        }
+        
+        .stat-label {
+            color: var(--text-secondary);
+            font-weight: 600;
+        }
+        
+        .stat-value {
+            font-weight: 700;
+            font-family: 'Orbitron', monospace;
+        }
+        
+        /* Burn Animation */
+        .burn-progress {
+            width: 100%;
+            height: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+            background: rgba(255, 255, 255, 0.1);
+            margin: 1rem 0;
+        }
+        
+        .burn-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--warning-glow), var(--secondary-glow));
+            border-radius: 10px;
+            transition: width 0.5s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .burn-fill::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            animation: burnShine 2s infinite;
+        }
+        
+        @keyframes burnShine {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+        
+        /* Pool Status */
+        .pool-status {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        
+        .pool-item {
+            text-align: center;
+            padding: 1rem;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .pool-item:hover {
+            background: rgba(255, 255, 255, 0.05);
+            transform: scale(1.05);
+        }
+        
+        .pool-name {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .pool-price {
+            font-family: 'Orbitron', monospace;
+            font-weight: 700;
+            color: var(--primary-glow);
+        }
+        
+        .pool-change {
+            font-size: 0.8rem;
+            margin-top: 0.3rem;
+        }
+        
+        .pool-change.positive {
+            color: var(--success-glow);
+        }
+        
+        .pool-change.negative {
+            color: var(--secondary-glow);
+        }
+        
+        /* Buttons */
+        .btn {
+            background: linear-gradient(45deg, var(--primary-glow), var(--accent-glow));
+            border: none;
+            border-radius: 12px;
+            padding: 1rem 2rem;
+            font-family: 'Orbitron', monospace;
+            font-weight: 600;
+            color: var(--bg-primary);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            transition: width 0.3s ease, height 0.3s ease;
+        }
+        
+        .btn:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 245, 255, 0.3);
+        }
+        
+        .btn-danger {
+            background: linear-gradient(45deg, var(--secondary-glow), var(--warning-glow));
+        }
+        
+        .btn-success {
+            background: linear-gradient(45deg, var(--success-glow), var(--primary-glow));
+        }
+        
+        /* Chart Container */
+        .chart-container {
+            position: relative;
+            height: 400px;
+            margin: 2rem 0;
+        }
+        
+        /* Event Feed */
+        .event-feed {
+            max-height: 400px;
+            overflow-y: auto;
+            padding: 1rem;
+        }
+        
+        .event-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.8rem;
+            margin: 0.5rem 0;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 8px;
+            border-left: 3px solid var(--primary-glow);
+            animation: slideIn 0.5s ease;
+        }
+        
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateX(-20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
+        .event-type {
+            font-weight: 600;
+        }
+        
+        .event-burn { border-left-color: var(--secondary-glow); }
+        .event-arbitrage { border-left-color: var(--success-glow); }
+        .event-pool { border-left-color: var(--accent-glow); }
+        
+        .event-time {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+        
+        /* Loading Animation */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: var(--primary-glow);
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .title {
+                font-size: 2.5rem;
+            }
+            
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .container {
+                padding: 0 1rem;
+            }
+        }
+        
+        /* Status Indicators */
+        .status-online {
+            color: var(--success-glow);
+        }
+        
+        .status-offline {
+            color: var(--secondary-glow);
+        }
+        
+        .status-connecting {
+            color: var(--warning-glow);
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-animation"></div>
+    
+    <!-- Floating Particles -->
+    <div id="particles"></div>
+    
+    <!-- Header -->
+    <header class="header">
+        <h1 class="title">NODE 233</h1>
+        <p class="subtitle">Multiplication Engine</p>
+        <p class="tagline">Currency Rewritten as Code. Belief as Consensus. Action as Mint.</p>
+    </header>
+    
+    <div class="container">
+        <!-- Main Grid -->
+        <div class="grid">
+            <!-- Investment Panel -->
+            <div class="card glass">
+                <h2 class="card-title">💰 Investment Multiplier</h2>
+                <div class="investment-amount" id="currentValue">$10.00</div>
+                <div class="multiplier positive" id="multiplier">1.00x</div>
+                
+                <div class="stat">
+                    <span class="stat-label">Initial Investment</span>
+                    <span class="stat-value" id="initialInvestment">$10.00</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Your Tokens</span>
+                    <span class="stat-value" id="yourTokens">300,000,000</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Time Active</span>
+                    <span class="stat-value" id="timeActive">00:00:00</span>
+                </div>
+                
+                <button class="btn btn-success" onclick="startSimulation()" id="startBtn">
+                    🚀 Activate Engine
+                </button>
+            </div>
+            
+            <!-- Burn Engine -->
+            <div class="card glass">
+                <h2 class="card-title">🔥 Burn Engine</h2>
+                
+                <div class="stat">
+                    <span class="stat-label">Total Supply</span>
+                    <span class="stat-value" id="totalSupply">1,000,000,000</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Burned</span>
+                    <span class="stat-value" id="totalBurned" style="color: var(--secondary-glow)">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Next Burn</span>
+                    <span class="stat-value" id="nextBurn">5:00</span>
+                </div>
+                
+                <div class="burn-progress">
+                    <div class="burn-fill" id="burnProgress" style="width: 0%"></div>
+                </div>
+                
+                <button class="btn btn-danger" onclick="executeBurn()" id="burnBtn">
+                    🔥 Execute Burn
+                </button>
+            </div>
+            
+            <!-- Pool Monitor -->
+            <div class="card glass">
+                <h2 class="card-title">📊 Live Pool Monitor</h2>
+                <div class="stat">
+                    <span class="stat-label">Connection Status</span>
+                    <span class="stat-value status-connecting" id="poolStatus">
+                        <span class="loading"></span> Connecting...
+                    </span>
+                </div>
+                
+                <div class="pool-status" id="poolPrices">
+                    <div class="pool-item">
+                        <div class="pool-name">Raydium</div>
+                        <div class="pool-price" id="raydiumPrice">--</div>
+                        <div class="pool-change" id="raydiumChange">--</div>
+                    </div>
+                    <div class="pool-item">
+                        <div class="pool-name">Orca</div>
+                        <div class="pool-price" id="orcaPrice">--</div>
+                        <div class="pool-change" id="orcaChange">--</div>
+                    </div>
+                    <div class="pool-item">
+                        <div class="pool-name">Jupiter</div>
+                        <div class="pool-price" id="jupiterPrice">--</div>
+                        <div class="pool-change" id="jupiterChange">--</div>
+                    </div>
+                    <div class="pool-item">
+                        <div class="pool-name">Serum</div>
+                        <div class="pool-price" id="serumPrice">--</div>
+                        <div class="pool-change" id="serumChange">--</div>
+                    </div>
+                </div>
+                
+                <div class="stat">
+                    <span class="stat-label">Arbitrage Opportunities</span>
+                    <span class="stat-value" id="arbitrageOps">0</span>
+                </div>
+            </div>
+            
+            <!-- System Stats -->
+            <div class="card glass">
+                <h2 class="card-title">⚡ System Stats</h2>
+                
+                <div class="stat">
+                    <span class="stat-label">Multiplication Rate</span>
+                    <span class="stat-value" id="multiplicationRate">+0.00%/min</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Burn Cycles</span>
+                    <span class="stat-value" id="burnCycles">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Arbitrage Profit</span>
+                    <span class="stat-value" id="arbitrageProfit">$0.00</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Est. Time to $1M</span>
+                    <span class="stat-value" id="timeToMillion">∞</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Chart Section -->
+        <div class="card glass">
+            <h2 class="card-title">📈 Value Multiplication Chart</h2>
+            <div class="chart-container">
+                <canvas id="multiplicationChart"></canvas>
+            </div>
+        </div>
+        
+        <!-- Event Feed -->
+        <div class="card glass">
+            <h2 class="card-title">🔴 Live Event Feed</h2>
+            <div class="event-feed" id="eventFeed">
+                <div class="event-item">
+                    <span class="event-type">System</span>
+                    <span>NODE 233 Multiplication Engine Initialized</span>
+                    <span class="event-time">Ready</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Global State
+        let engineState = {
+            running: false,
+            startTime: 0,
+            investment: 10,
+            currentValue: 10,
+            multiplier: 1,
+            totalSupply: 1000000000,
+            founderTokens: 300000000,
+            totalBurned: 0,
+            burnCycles: 0,
+            arbitrageProfit: 0,
+            poolPrices: {},
+            chart: null
+        };
+        
+        // Initialize particles
+        function createParticles() {
+            const particlesContainer = document.getElementById('particles');
+            
+            setInterval(() => {
+                if (document.querySelectorAll('.particle').length < 20) {
+                    const particle = document.createElement('div');
+                    particle.className = 'particle';
+                    particle.style.left = Math.random() * 100 + 'vw';
+                    particle.style.width = particle.style.height = Math.random() * 4 + 2 + 'px';
+                    particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+                    particle.style.opacity = Math.random() * 0.5 + 0.1;
+                    
+                    particlesContainer.appendChild(particle);
+                    
+                    setTimeout(() => {
+                        if (particle.parentNode) {
+                            particle.parentNode.removeChild(particle);
+                        }
+                    }, 20000);
+                }
+            }, 500);
+        }
+        
+        // Initialize Chart
+        function initChart() {
+            const ctx = document.getElementById('multiplicationChart').getContext('2d');
+            engineState.chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Start'],
+                    datasets: [{
+                        label: 'Portfolio Value ($)',
+                        data: [10],
+                        borderColor: '#00f5ff',
+                        backgroundColor: 'rgba(0, 245, 255, 0.1)',
+                        tension: 0.4,
+                        fill: true,
+                        pointBackgroundColor: '#00f5ff',
+                        pointBorderColor: '#ffffff',
+                        pointBorderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: '#ffffff',
+                                font: {
+                                    family: 'Orbitron'
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: { color: '#b8c5d6' },
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' }
+                        },
+                        y: {
+                            type: 'logarithmic',
+                            ticks: {
+                                color: '#b8c5d6',
+                                callback: function(value) {
+                                    return '$' + value.toLocaleString();
+                                }
+                            },
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' }
+                        }
+                    },
+                    animation: {
+                        duration: 1000,
+                        easing: 'easeOutQuart'
+                    }
+                }
+            });
+        }
+        
+        // Simulate Pool Data (Hook to real pools)
+        async function fetchPoolData() {
+            // Simulate real-time pool price fetching
+            const pools = ['raydium', 'orca', 'jupiter', 'serum'];
+            const basePrice = 0.0000333; // $10 / 300M tokens
+            
+            for (const pool of pools) {
+                // Simulate price variations
+                const variation = (Math.random() - 0.5) * 0.1; // ±10% variation
+                const price = basePrice * (1 + variation) * engineState.multiplier;
+                const change = (Math.random() - 0.5) * 0.05; // ±5% change
+                
+                engineState.poolPrices[pool] = {
+                    price: price,
+                    change: change
+                };
+                
+                updatePoolDisplay(pool, price, change);
+            }
+            
+            // Check for arbitrage opportunities
+            checkArbitrageOpportunities();
+        }
+        
+        function updatePoolDisplay(pool, price, change) {
+            const priceElement = document.getElementById(pool + 'Price');
+            const changeElement = document.getElementById(pool + 'Change');
+            
+            if (priceElement) {
+                priceElement.textContent = '$' + price.toFixed(8);
+            }
+            
+            if (changeElement) {
+                const changePercent = (change * 100).toFixed(2);
+                changeElement.textContent = (change >= 0 ? '+' : '') + changePercent + '%';
+                changeElement.className = 'pool-change ' + (change >= 0 ? 'positive' : 'negative');
+            }
+        }
+        
+        function checkArbitrageOpportunities() {
+            const prices = Object.values(engineState.poolPrices).map(p => p.price);
+            const maxPrice = Math.max(...prices);
+            const minPrice = Math.min(...prices);
+            const spread = ((maxPrice - minPrice) / minPrice) * 100;
+            
+            if (spread > 1) { // 1% spread threshold
+                const profit = (maxPrice - minPrice) * engineState.founderTokens;
+                engineState.arbitrageProfit += profit;
+                
+                addEvent('arbitrage', `Arbitrage executed: $${profit.toFixed(2)} profit from ${spread.toFixed(2)}% spread`);
+                
+                // Add profit to current value
+                engineState.currentValue += profit;
+                updateDisplay();
+            }
+            
+            document.getElementById('arbitrageOps').textContent = 
+                Math.floor(engineState.arbitrageProfit / 0.01) || 0;
+        }
+        
+        // Start Simulation
+        function startSimulation() {
+            if (engineState.running) return;
+            
+            engineState.running = true;
+            engineState.startTime = Date.now();
+            
+            document.getElementById('startBtn').textContent = '⚡ Engine Active';
+            document.getElementById('startBtn').style.background = 
+                'linear-gradient(45deg, var(--success-glow), var(--primary-glow))';
+            
+            addEvent('system', 'NODE 233 Multiplication Engine Started - $10 → $1M Protocol Active');
+            
+            // Start main simulation loop
+            simulationLoop();
+            
+            // Start pool monitoring
+            poolMonitorLoop();
+            
+            // Update connection status
+            document.getElementById('poolStatus').innerHTML = 
+                '<span class="status-online">🟢 Connected</span>';
+        }
+        
+        // Main Simulation Loop
+        function simulationLoop() {
+            if (!engineState.running) return;
+            
+            const now = Date.now();
+            const elapsed = (now - engineState.startTime) / 1000;
+            
+            // Update time display
+            document.getElementById('timeActive').textContent = formatTime(elapsed);
+            
+            // Auto-burn every 5 minutes (300 seconds)
+            if (elapsed > 0 && elapsed % 300 < 1) {
+                executeBurn();
+            }
+            
+            // Calculate multiplication rate
+            if (elapsed > 0) {
+                const rate = ((engineState.multiplier - 1) / (elapsed / 60)) * 100;
+                document.getElementById('multiplicationRate').textContent = 
+                    '+' + rate.toFixed(4) + '%/min';
+            }
+            
+            // Estimate time to $1M
+            if (engineState.multiplier > 1.01) {
+                const currentRate = Math.log(engineState.multiplier) / (elapsed / 3600); // per hour
+                const targetMultiplier = 100000; // 1M/10
+                const hoursToTarget = Math.log(targetMultiplier) / currentRate;
+                
+                if (hoursToTarget > 0 && hoursToTarget < 1000) {
+                    document.getElementById('timeToMillion').textContent = 
+                        Math.ceil(hoursToTarget) + 'h';
+                } else {
+                    document.getElementById('timeToMillion').textContent = '∞';
+                }
+            }
+            
+            setTimeout(simulationLoop, 1000);
+        }
+        
+        // Pool Monitoring Loop
+        function poolMonitorLoop() {
+            if (!engineState.running) return;
+            
+            fetchPoolData();
+            setTimeout(poolMonitorLoop, 5000); // Update every 5 seconds
+        }
+        
+        // Execute Burn
+        function executeBurn() {
+            const burnableSupply = engineState.totalSupply - engineState.founderTokens - engineState.totalBurned;
+            const burnAmount = Math.floor(burnableSupply * 0.02); // 2%
+            
+            if (burnAmount <= 0) {
+                addEvent('burn', 'No more tokens to burn - Maximum scarcity achieved!');
+                return;
+            }
+            
+            engineState.totalBurned += burnAmount;
+            engineState.burnCycles++;
+            
+            // Calculate new multiplier
+            const remainingSupply = engineState.totalSupply - engineState.totalBurned;
+            engineState.multiplier = engineState.totalSupply / remainingSupply;
+            engineState.currentValue = engineState.investment * engineState.multiplier;
+            
+            // Update burn progress
+            const maxBurnable = engineState.totalSupply - engineState.founderTokens;
+            const burnProgress = (engineState.totalBurned / maxBurnable) * 100;
+            document.getElementById('burnProgress').style.width = burnProgress + '%';
+            
+            // Add to chart
+            const timeLabel = formatTime((Date.now() - engineState.startTime) / 1000);
+            engineState.chart.data.labels.push(timeLabel);
+            engineState.chart.data.datasets[0].data.push(engineState.currentValue);
+            
+            // Keep only last 20 data points
+            if (engineState.chart.data.labels.length > 20) {
+                engineState.chart.data.labels.shift();
+                engineState.chart.data.datasets[0].data.shift();
+            }
+            
+            engineState.chart.update('none');
+            
+            addEvent('burn', `🔥 Burned ${formatNumber(burnAmount)} tokens! New multiplier: ${engineState.multiplier.toFixed(2)}x`);
+            
+            updateDisplay();
+        }
+        
+        // Update Display
+        function updateDisplay() {
+            document.getElementById('currentValue').textContent = 
+                '$' + engineState.currentValue.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
+            document.getElementById('multiplier').textContent = engineState.multiplier.toFixed(2) + 'x';
+            document.getElementById('totalBurned').textContent = formatNumber(engineState.totalBurned);
+            document.getElementById('burnCycles').textContent = engineState.burnCycles;
+            document.getElementById('arbitrageProfit').textContent = '$' + engineState.arbitrageProfit.toFixed(2);
+            
+            // Update multiplier color based on value
+            const multiplierElement = document.getElementById('multiplier');
+            if (engineState.multiplier >= 100) {
+                multiplierElement.style.color = 'var(--success-glow)';
+            } else if (engineState.multiplier >= 10) {
+                multiplierElement.style.color = 'var(--warning-glow)';
+            } else {
+                multiplierElement.style.color = 'var(--primary-glow)';
+            }
+        }
+        
+        // Add Event to Feed
+        function addEvent(type, message) {
+            const eventFeed = document.getElementById('eventFeed');
+            const eventItem = document.createElement('div');
+            eventItem.className = `event-item event-${type}`;
+            
+            const timestamp = new Date().toLocaleTimeString();
+            eventItem.innerHTML = `
+                <span class="event-type">${type.charAt(0).toUpperCase() + type.slice(1)}</span>
+                <span>${message}</span>
+                <span class="event-time">${timestamp}</span>
+            `;
+            
+            eventFeed.insertBefore(eventItem, eventFeed.firstChild);
+            
+            // Keep only last 10 events
+            while (eventFeed.children.length > 10) {
+                eventFeed.removeChild(eventFeed.lastChild);
+            }
+        }
+        
+        // Utility Functions
+        function formatTime(seconds) {
+            const hours = Math.floor(seconds / 3600);
+            const minutes = Math.floor((seconds % 3600) / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+        }
+        
+        function formatNumber(num) {
+            if (num >= 1000000) {
+                return (num / 1000000).toFixed(1) + 'M';
+            } else if (num >= 1000) {
+                return (num / 1000).toFixed(1) + 'K';
+            }
+            return num.toString();
+        }
+        
+        // Initialize Everything
+        window.onload = function() {
+            createParticles();
+            initChart();
+            
+            // Simulate initial pool connection
+            setTimeout(() => {
+                fetchPoolData();
+            }, 2000);
+            
+            addEvent('system', 'All systems online - Ready for $10 → $1M multiplication');
+        };
+    </script>
+</body>
+</html>
